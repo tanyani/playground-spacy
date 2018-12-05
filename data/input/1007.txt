@@ -1,0 +1,1110 @@
+ORIGINAL ARTICLE
+Lifetime Prevalence and Age-of-Onset Distributions
+of DSM-IV Disorders in the National Comorbidity
+Survey Replication
+Ronald C. Kessler, PhD; Patricia Berglund, MBA; Olga Demler, MA, MS; Robert Jin, MA; Kathleen R. Merikangas, PhD;
+Ellen E. Walters, MS
+Context: Little is known about lifetime prevalence or
+age of onset of DSM-IV disorders.
+Objective: To estimate lifetime prevalence and age-of-
+onset distributions of DSM-IV disorders in the recently
+completed National Comorbidity Survey Replication.
+Design and Setting: Nationally representative face-to-
+face household survey conducted between February 2001
+and April 2003 using the fully structured World Health
+Organization World Mental Health Survey version of the
+Composite International Diagnostic Interview.
+Participants: Nine thousand two hundred eighty-two
+English-speaking respondents aged 18 years and older.
+Main Outcome Measures: Lifetime DSM-IV anxiety,
+mood, impulse-control, and substance use disorders.
+Results: Lifetimeprevalenceestimatesareasfollows:anxi-
+ety disorders, 28.8%; mood disorders, 20.8%; impulse-
+control disorders, 24.8%; substance use disorders, 14.6%;
+any disorder, 46.4%. Median age of onset is much earlier
+for anxiety (11 years) and impulse-control (11 years) dis-
+orders than for substance use (20 years) and mood (30
+years) disorders. Half of all lifetime cases start by age 14
+years and three fourths by age 24 years. Later onsets are
+mostlyofcomorbidconditions,withestimatedlifetimerisk
+of any disorder at age 75 years (50.8%) only slightly higher
+than observed lifetime prevalence (46.4%). Lifetime preva-
+lence estimates are higher in recent cohorts than in earlier
+cohorts and have fairly stable intercohort differences across
+the life course that vary in substantively plausible ways
+among sociodemographic subgroups.
+Conclusions: About half of Americans will meet the cri-
+teriaforaDSM-IVdisordersometimeintheirlife,withfirst
+onset usually in childhood or adolescence. Interventions
+aimedatpreventionorearlytreatmentneedtofocusonyouth.
+Arch Gen Psychiatry. 2005;62:593-602
+THEPURPOSEOFTHECURRENT
+report is to present nation-
+allyrepresentativeestimates
+of lifetime prevalence and
+age-of-onsetdistributionsof
+the DSM-IV disorders assessed in the re-
+cently completed National Comorbidity
+SurveyReplication(NCS-R).1 WhiletheEpi-
+demiological Catchment Area Study2 and
+thebaselineNationalComorbiditySurvey
+(NCS)3 both reported high lifetime preva-
+lence and generally early age-of-onset dis-
+tributionsofmostDSM-III(NCS)andDSM-
+III-R (NCS-R) disorders, it is not clear
+whether similar results will hold for DSM-
+IVdisordersbecauseofthegreaterempha-
+sisonclinicallysignificantdistressandim-
+pairmentinDSM-IVthaninearliereditions.
+Inadditiontoexaminingprevalenceand
+age-of-onset distributions, we distinguish
+between lifetime prevalence, the propor-
+tion of those in the population who had a
+disorderatsometimeintheirlifeuptotheir
+age at interview, and projected lifetime risk,
+the estimated proportion of those in the
+population who will have the disorder by
+the end of their life. Lifetime risk cannot be
+estimated directly from community sur-
+veys because respondents in such surveys
+differ in age and, therefore, in number of
+years of expected future risk. Projections
+of estimated future risk can be made from
+surveydata,though,usingeithertheKaplan-
+Meier method4 or the slightly more precise
+actuarial method5 to estimate survival dis-
+tributions. Although lifetime risk esti-
+mates are useful in assessing societal bur-
+den, we are aware of no previous published
+report that has presented such estimates for
+a wide range of mental disorders.
+METHODS
+SAMPLE
+As detailed elsewhere,1 the NCS-R is a nation-
+ally representative survey of English-speaking
+See also pages 590, 603,
+617, and 629
+Author Affiliations:
+Department of Health Care
+Policy, Harvard Medical School,
+Boston, Mass (Dr Kessler;
+Mss Demler and Walters; and
+Mr Jin); Institute for Social
+Research, University of
+Michigan, Ann Arbor
+(Ms Berglund); and Section
+on Developmental Genetic
+Epidemiology, National
+Institute of Mental Health,
+Rockville, Md (Dr Merikangas).
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+593
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+household residents aged 18 years and older in the cotermi-
+nous United States. Face-to-face interviews were carried out by
+professional interviewers from the Institute for Social Research
+attheUniversityofMichigan,AnnArbor,betweenFebruary2001
+and April 2003. The response rate was 70.9%. The survey was
+administered in two parts. Part I included a core diagnostic as-
+sessment of all respondents (n=9282) that took an average of
+about 1 hour to administer. Part II included questions about risk
+factors, consequences, other correlates, and additional disor-
+ders. In an effort to reduce respondent burden and control study
+costs, part II was administered only to 5692 of the 9282 part I
+respondents, including all part I respondents with a lifetime dis-
+order plus a probability subsample of other respondents. Inter-
+viewers explained the study and obtained verbal informed con-
+sent prior to beginning each interview. Recruitment and consent
+were approved by the Human Subjects Committees of Harvard
+Medical School, Boston, Mass, and the University of Michigan.
+MEASURES
+Diagnostic Assessment
+The NCS-R diagnoses are based on the World Mental Health
+Survey Initiative Version of the World Health Organization Com-
+posite International Diagnostic Interview (WMH-CIDI),6 a fully
+structured lay-administered diagnostic interview that gener-
+ates both International Classification of Diseases, 10th Revi-
+sion,7 and DSM-IV8 diagnoses. The DSM-IV criteria are used here.
+Diagnoses include anxiety disorders (panic disorder, agora-
+phobia without panic disorder, specific phobia, social phobia,
+generalized anxiety disorder, posttraumatic stress disorder, ob-
+sessive-compulsive disorder, separation anxiety disorder), mood
+disorders (major depressive disorder, dysthymia, bipolar I and
+II disorders), a series of four disorders that share a common
+feature of difficulty with impulse control (intermittent explo-
+sive disorder, oppositional-defiant disorder, conduct disor-
+der, attention-deficit/hyperactivity disorder), and four sub-
+stance use disorders (alcohol abuse, drug abuse, alcohol
+dependence, drug dependence). Posttraumatic stress disor-
+der, obsessive-compulsive disorder, drug abuse, and drug de-
+pendence were included in part II because they all required ex-
+tensive introductory questions that precluded the quick skipout
+of noncases that we wanted in part I. The four disorders that
+require onset of symptoms in childhood (separation anxiety dis-
+order, oppositional-defiant disorder, conduct disorder, and at-
+tention-deficit/hyperactivity disorder) were also included in part
+II and limited to respondents in the age range of 18 to 44 years
+because of concerns about recall bias among older respon-
+dents. All other disorders were included in part I. Organic ex-
+clusion rules and hierarchy rules were used to make all diag-
+noses other than the diagnoses of substance use disorders.
+Substance use disorders were diagnosed without hierarchy in
+the recognition that abuse often is a stage in the progression to
+dependence.BlindclinicalreinterviewswiththeStructuredClini-
+cal Interview for DSM-IV (SCID)9 (Table 1) generally were
+in good concordance with WMH-CIDI diagnoses for anxiety,
+mood, and substance use disorders. Impulse-control diag-
+noses were not validated.
+Retrospective age-of-onset reports were obtained in the
+WMH-CIDI using a series of questions designed to avoid the
+implausible response patterns obtained when using the stan-
+dard CIDI age-of-onset question.10 The sequence began with a
+question designed to emphasize the importance of accurate re-
+sponses: "Can you remember your exact age the very first time
+you (HAD THE SYNDROME)?" Respondents who answered
+"no" were probed for a bound of uncertainty by moving up the
+age range incrementally (eg, "Was it before you first started
+school?" "Was it before you became a teenager?"). Age of on-
+set was set at the upper end of the bound (eg, age 12 years for
+respondents who reported that onset was before they became
+Table 1. Comparison of Lifetime DSM-IV/WMH-CIDI and SCID Hierarchy-Free Diagnoses in the Clinical Calibration Sample (n = 325)
+Odds Ratio (95% CI)  (SE)
+Area Under
+ROC Curve
+McNemar
+2
+1
+Test
+Sensitivity,
+% (SE)
+Specificity,
+% (SE)
+Positive
+Predictive
+Value, % (SE)
+Negative
+Predictive
+Value, % (SE)
+Anxiety Disorders
+Panic disorder 56.3* (15.5-204.6) 0.45 (0.15) 0.72 0.0 45.8 (13.0) 98.5 (0.5) 48.4 (14.1) 98.4 (0.5)
+Agoraphobia 174.8* (39.1-780.6) 0.61 (0.15) 0.81 0.0 62.6 (12.9) 99.1 (0.5) 62.0 (15.7) 99.1 (0.3)
+Specific phobia 6.3* (2.7-14.6) 0.33 (0.07) 0.67 0.0 45.2 (8.7) 88.5 (2.3) 43.9 (7.6) 89.0 (2.8)
+Social phobia 8.4* (3.9-18.2) 0.35 (0.07) 0.65 5.7* 36.6 (7.0) 93.6 (1.4) 53.9 (7.6) 87.8 (2.6)
+Any phobia 9.8* (5.0-19.4) 0.45 (0.06) 0.71 7.5* 51.7 (5.7) 90.2 (1.9) 68.1 (6.0) 82.1 (3.0)
+Panic or any phobia 9.9* (5.1-19.5) 0.46 (0.06) 0.71 7.4* 52.6 (5.6) 90.0 (2.0) 68.7 (5.8) 81.9 (3.1)
+Posttraumatic stress disorder 64.9* (14.9-281.9) 0.49 (0.10) 0.69 11.4* 38.3 (11.8) 99.1 (0.5) 86.1 (7.7) 91.3 (3.0)
+Any anxiety disorder 11.6* (6.0-22.4) 0.48 (0.05) 0.73 12.1* 54.4 (5.3) 90.7 (1.8) 74.5 (5.0) 80.0 (3.2)
+Mood Disorders
+Major depressive disorder 18.4* (7.9-42.9) 0.54 (0.06) 0.75 7.2* 55.3 (6.8) 93.7 (1.9) 73.7 (7.0) 86.8 (2.7)
+Substance Use Disorders
+Alcohol abuse 93.3* (28.0-311.3) 0.70 (0.06) 0.81 7.3* 64.1 (7.4) 98.1 (1.0) 88.1 (5.6) 92.7 (2.0)
+Alcohol dependence 877.0* (105.8-7266.2) 0.56 (0.09) 0.72 18.5* 43.1 (9.3) 99.9 (0.1) 98.7 (1.3) 91.9 (1.7)
+Drug abuse 111.8* (26.3-476.3) 0.63 (0.08) 0.76 8.9* 53.7 (12.7) 99.0 (0.5) 88.2 (6.0) 93.8 (2.7)
+Drug dependence 74.0* (9.2-625.0) 0.36 (0.12) 0.62 11.3* 25.0 (10.6) 99.6 (0.4) 82.0 (13.9) 94.2 (2.2)
+Alcohol or drug abuse 69.6* (21.7-223.5) 0.65 (0.06) 0.78 13.9* 58.7 (7.9) 98.0 (1.0) 89.6 (5.0) 89.0 (3.0)
+Alcohol or drug dependence 769.0* (94.0-6290.8) 0.53 (0.08) 0.70 25.0* 41.1 (8.7) 99.9 (0.1) 99.0 (1.1) 88.9 (2.5)
+Any Disorder
+Any disorder 13.6* (7.3-25.4) 0.52 (0.05) 0.76 21.1* 62.8 (4.4) 89.0 (2.1) 84.3 (3.2) 71.7 (4.3)
+Abbreviations: CI, confidence interval; ROC, receiver operating characteristic; SCID, Structured Clinical Interview for DSM-IV; WMH-CIDI, World Mental Health
+Survey version of the Composite International Diagnostic Interview.
+*P.05.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+594
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+a teenager). Experimental research has shown that this se-
+quence of questions yields responses with a much more plau-
+sible age-of-onset distribution than the standard CIDI age-of-
+onset question.11 Although age-of-onset questions were asked
+about both important symptoms (eg, first panic attack) and full
+syndromes, the ages used herein are for syndromes.
+Predictor Variables
+Predictor variables included cohort (defined by age at inter-
+view 18-29, 30-44, 45-59, or 60 years), sex, race/ethnicity
+(non-Hispanic white, non-Hispanic black, Hispanic, or other),
+education (students vs nonstudents with 0-11, 12, 13-15, or
+16 years of education), and marital status (married/
+cohabitating, previously married, never married). Marital sta-
+tus was coded for each year of each respondent's life. Educa-
+tion was also coded as a time-varying predictor by assuming
+an orderly educational history, with 8 years of education cor-
+responding to being a student up to age 14 years, and with other
+durations based on this benchmark.
+ANALYSIS METHODS
+The data were weighted to adjust for differential probabilities
+of selection, differential nonresponse, and residual differences
+in sociodemographic variables between the sample and tract-
+level 2000 US Census population. An additional part II weight
+adjusted for oversampling of part I cases. Weighting is de-
+scribed in more detail elsewhere.1
+Lifetime prevalence was estimated as the proportion of re-
+spondents who had ever had a given disorder up to their age at
+interview. Age of onset and projected lifetime risk as of age 75
+years were estimated using the two-part actuarial method imple-
+mented in SAS version 8.2.12 The actuarial method differs from
+the more familiar Kaplan-Meier4 method in using a more ac-
+curate way of estimating onset within a given year.5 This method
+assumes constant conditional risk of onset during a given year
+of life across cohorts.
+Sociodemographic predictors were examined using dis-
+crete-time survival analysis with person-years as the unit of
+analysis.13 Sociodemographic variables that change over time
+(educational attainment, marital status) were treated as time-
+varying predictors. Changes in the effects of predictors across
+cohort were evaluated by including interactions between pre-
+dictors and cohort.
+Standard errors of prevalence estimates and survival coef-
+ficients were estimated using the Taylor series linearization
+method14 implemented in the SUDAAN software system.15 Mul-
+tivariate significance tests were made with Wald 2 tests using
+Taylor series design-based coefficient variance-covariance ma-
+trices. Standard errors of lifetime risk estimates were esti-
+mated using the jackknife repeated replication method16 imple-
+mented in a SAS macro.12 All significance tests were evaluated
+at .05 with two-sided tests.
+RESULTS
+LIFETIME PREVALENCE
+The most prevalent lifetime disorders (Table 2) were
+major depressive disorder (16.6%), alcohol abuse (13.2%),
+specific phobia (12.5%), and social phobia (12.1%). Anxi-
+ety disorders were the most prevalent class of disorders
+(28.8%), followed by impulse-control disorders (24.8%),
+mood disorders (20.8%), and substance use disorders
+(14.6%). The lifetime prevalence of any disorder was
+46.4%, while 27.7% of respondents had two or more life-
+time disorders and 17.3% had three or more.
+Prevalence estimates varied significantly with age for
+all but a handful of disorders. A monotonic increase in
+prevalence was generally found from the youngest (18-29
+years) to a higher (for the most part, 30-44 years) age
+group and then a decline in the older age group(s). Preva-
+lence was always lowest, sometimes substantially so, in
+the oldest age group (60 years). The most dramatic dif-
+ferences of this sort were for drug abuse and drug de-
+pendence, posttraumatic stress disorder, and bipolar I and
+IIdisorders.Prevalencedifferencesweremuchlessmarked
+among the other three age groups.
+AGE OF ONSET DISTRIBUTIONS
+The distributions of cumulative lifetime risk estimates
+were standardized and examined for fixed percentiles
+(Table 3). Two patterns emerged. First, the median age
+of onset (ie, 50th percentile on the age-of-onset distri-
+bution) was much earlier for anxiety disorders (age 11
+years) and impulse-control disorders (age 11 years) than
+for substance use disorders (age 20 years) and mood dis-
+orders (age 30 years). Second, age of onset was concen-
+trated in a very narrow age range for most disorders, with
+interquartile ranges (IQRs) (ie, the number of years be-
+tween the 25th and 75th percentiles of the age-of-onset
+distributions) of only 8 years (age 7-15 years) for impulse-
+control disorders, 9 years (age 18-27 years) for sub-
+stance use disorders, and 15 years (age 6-2 years) for anxi-
+ety disorders compared with 25 years (age 18-43 years)
+for mood disorders.
+Mostdisorder-specificage-of-onsetdistributionsshared
+important features with other disorders in their class. In
+particular, the median age of onset was earlier for each
+impulse-control disorder (age 7-15 years) than for any
+substance (age 19-23 years) or mood (age 25-32 years)
+disorder, while the IQR was consistently narrower for each
+of the impulse-control (1-6 years) and substance use (6-12
+years) disorders than for any mood disorder (25-26 years).
+The age-of-onset distributions of anxiety disorders were
+more diverse, with specific phobia and separation anxi-
+ety disorder having very early median ages of onset (age
+7 years) and very narrow IQRs (4-7 years), social pho-
+bia having a later median age of onset (age 13 years) and
+a narrow IQR range (7 years), and other anxiety disor-
+ders having much later median ages of onset (age 19-31
+years) and much wider IQRs (16-27 years).
+PROJECTED LIFETIME RISK
+Projected lifetime risk as of age 75 years based on the age-
+of-onset distributions (Table 3) was 9% higher than life-
+time prevalence estimates reported in Table 2 for anxiety
+disorders, 34% higher for mood disorders, 2% higher for
+impulse-control disorders, 12% higher for substance use
+disorders, and 9% higher for any disorder. Predictably, dis-
+orders with the largest increases between prevalence and
+projected risk were those with late age-of-onset distribu-
+tions: major depressive disorder, generalized anxiety dis-
+order, and posttraumatic stress disorder. Consistent with
+the prevalence data, projected risk was highest for anxi-
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+595
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+ety disorders (31.5%), but the order was reversed for im-
+pulse-control and mood disorders--the former having
+higher prevalence (24.8% vs 20.8%) and the latter higher
+projected risk (28.0% vs 25.4%). Substance use disorders
+had the lowest projected risk (16.3%). The individual dis-
+orderswiththehighestprojectedriskwereidenticaltothose
+with the highest prevalence. Over 80% of projected new
+onsets were estimated occur to people who had already
+had disorders. This can be seen by noting that the overall
+projected lifetime risk in the total sample was only 4.4%
+higher than the lifetime prevalence reported in Table 2
+(50.8% vs 46.4%), while disorder-specific risk-vs-
+prevalence differences added to 20.4%.
+COHORT EFFECTS
+Dummy variables defining age groups 18 through 29,
+30 through 44, 45 through 59, and 60 years or older
+(corresponding roughly to cohorts born in the years
+1970 or later, 1955-1969, 1940-1954, and earlier than
+Table 2. Lifetime Prevalence of DSM-IV/WMH-CIDI Disorders in the Total NCS-R Sample and by Age
+Prevalence, % (SE)
+2
+3
+*
+Total
+Age, y
+18-29 30-44 45-59 60
+Anxiety Disorders
+Panic disorder 4.7 (0.2) 4.4 (0.4) 5.7 (0.5) 5.9 (0.4) 2.0 (0.4) 52.6
+Agoraphobia without panic 1.4 (0.1) 1.1 (0.2) 1.7 (0.3) 1.6 (0.3) 1.0 (0.3) 4.5
+Specific phobia 12.5 (0.4) 13.3 (0.8) 13.9 (0.8) 14.1 (1.0) 7.5 (0.7) 54.3
+Social phobia 12.1 (0.4) 13.6 (0.7) 14.3 (0.8) 12.4 (0.8) 6.6 (0.5) 109.0
+Generalized anxiety disorder 5.7 (0.3) 4.1 (0.4) 6.8 (0.5) 7.7 (0.7) 3.6 (0.5) 39.9
+Posttraumatic stress disorder 6.8 (0.4) 6.3 (0.5) 8.2 (0.8) 9.2 (0.9) 2.5 (0.5) 37.9
+Obsessive-compulsive disorder§ 1.6 (0.3) 2.0 (0.5) 2.3 (0.9) 1.3 (0.6) 0.7 (0.4) 6.8
+Separation anxiety disorder 5.2 (0.4) 5.2 (0.6) 5.1 (0.6)   0.0
+Any anxiety disorder¶ 28.8 (0.9) 30.2 (1.1) 35.1 (1.4) 30.8 (1.7) 15.3 (1.5) 89.9
+Mood Disorders
+Major depressive disorder 16.6 (0.5) 15.4 (0.7) 19.8 (0.9) 18.8 (1.1) 10.6 (0.8) 49.9
+Dysthymia 2.5 (0.2) 1.7 (0.3) 2.9 (0.4) 3.7 (0.7) 1.3 (0.3) 10.6
+Bipolar I-II disorders 3.9 (0.2) 5.9 (0.6) 4.5 (0.3) 3.5 (0.4) 1.0 (0.3) 62.0
+Any mood disorder 20.8 (0.6) 21.4 (0.9) 24.6 (0.9) 22.9 (1.2) 11.9 (1.0) 58.0
+Impulse-Control Disorders
+Oppositional-defiant disorder 8.5 (0.7) 9.5 (0.9) 7.5 (0.8)   3.0
+Conduct disorder 9.5 (0.8) 10.9 (1.0) 8.2 (0.8)   7.6
+Attention-deficit/hyperactivity
+disorder
+8.1 (0.6) 7.8 (0.8) 8.3 (0.9)   0.2
+Intermittent explosive disorder 5.2 (0.3) 7.4 (0.7) 5.7 (0.6) 4.9 (0.4) 1.9 (0.5) 74.7
+Any impulse-control disorder 24.8 (1.1) 26.8 (1.7) 23.0 (1.3)   4.0
+Substance Use Disorders
+Alcohol abuse 13.2 (0.6) 14.3 (1.0) 16.3 (1.1) 14.0 (1.1) 6.2 (0.7) 60.2
+Alcohol dependence 5.4 (0.3) 6.3 (0.7) 6.4 (0.6) 6.0 (0.7) 2.2 (0.4) 45.2
+Drug abuse 7.9 (0.4) 10.9 (0.9) 11.9 (1.0) 6.5 (0.6) 0.3 (0.2) 168.7
+Drug dependence 3.0 (0.2) 3.9 (0.5) 4.9 (0.6) 2.3 (0.4) 0.2 (0.1) 90.0
+Any substance use disorder 14.6 (0.6) 16.7 (1.1) 18.0 (1.1) 15.3 (1.0) 6.3 (0.7) 71.4
+Any Disorder
+Any disorder¶ 46.4 (1.1) 52.4 (1.7) 55.0 (1.6) 46.5 (1.8) 26.1 (1.7) 115.4
+Two or more disorders¶ 27.7 (0.9) 33.9 (1.3) 34.0 (1.5) 27.0 (1.6) 11.6 (1.0) 148.3
+Three or more disorders¶ 17.3 (0.7) 22.3 (1.2) 22.5 (1.1) 15.9 (1.3) 5.3 (0.7) 140.7
+Sample Sizes
+Part I 9282 2338 2886 2221 1837
+Part II 5692 1518 1805 1462 907
+Part II obsessive-compulsive
+disorder subsample
+1808 493 566 457 292
+Abbreviations: NCS-R, National Comorbidity Survey Replication; WMH-CIDI, World Mental Health Survey version of the Composite International Diagnostic
+Interview.
+*The 2 test evaluates the statistical significance of age-related differences in estimated prevalence; df = 1 for separation anxiety disorder, oppositional-defiant
+disorder, conduct disorder, attention-deficit/hyperactivity disorder, and any impulse-control disorder.
+Significant age difference (P.05).
+Assessed only in the part II sample (n = 5692).
+§Assessed only in a random third of the part II sample (n = 1808).
+Assessed only among part II respondents aged 18 to 44 years (n = 3199).
+¶These summary measures were analyzed in the full part II sample (n = 5692). Obsessive-compulsive disorder, separation anxiety disorder, oppositional-defiant
+disorder, conduct disorder, and attention-deficit/hyperactivity disorder were coded as absent among respondents who were not assessed for these disorders.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+596
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+1940) were used to predict lifetime disorders using dis-
+crete-time survival analysis. The odds ratios (ORs) were
+statistically significant in the vast majority of compari-
+sons, with a consistent positive association between re-
+cency of cohort and OR of onset (Table 4). The largest
+cohort effects were associated with drug use disorders
+and the smallest with phobias and childhood-onset im-
+pulse-control disorders.
+The cohort model was elaborated to evaluate whether
+intercohort differences decreased significantly with in-
+creasing age, a pattern that might be expected either if
+lifetime risk was actually constant across cohorts but ap-
+peared to vary with cohort because onsets occurred ear-
+lier in more recent cohorts than in earlier cohorts (due
+to either secular changes in environmental triggers or age-
+related differences in age-of-onset recall accuracy) or if
+differential mortality had an increasingly severe effect on
+sample selection bias with increasing age. Differences were
+examined separately for first onsets in the age ranges 1
+through 12, 13 through 19, 20 through 29, 30 through
+39, 40 through 49, and 50 through 59 years, the last of
+these age intervals being the upper end of the age distri-
+bution of the second-oldest cohort quartile, making it im-
+possible to study intercohort differences beyond this age.
+No evidence of decreasing cohort effects with increas-
+ing age was found for anxiety or mood disorders
+(Table 5). In contrast, dramatic differences emerged for
+substance use disorders, with much higher cohort ef-
+fects in the teens and 20s than in either childhood or the
+30s through 50s.
+SOCIODEMOGRAPHIC PREDICTORS
+A number of sociodemographic variables were signifi-
+cantly related to lifetime risk of NCS-R disorders in sur-
+vival analyses that controlled for cohort (Table 6).
+Women had a significantly higher risk than men of
+anxiety and mood disorders. Men had a significantly
+higher risk than women of impulse-control and sub-
+stance use disorders. Non-Hispanic blacks and Hispan-
+ics had a significantly lower risk than non-Hispanic
+whites of anxiety, mood, and substance use disorders
+Table 3. Ages at Selected Percentiles on the Standardized Age-of-Onset Distributions of DSM-IV/WMH-CIDI Disorders,
+With Projected Lifetime Risk at Age 75 Years
+Projected Lifetime Risk
+at Age 75 y, % (SE)
+Age at Selected Age-of-Onset Percentiles, y
+5 10 25 50 75 90 95 99
+Anxiety Disorders
+Panic disorder 6.0 (0.3) 6 10 16 24 40 51 56 63
+Agoraphobia without panic 1.6 (0.2) 6 7 13 20 33 48 51 54
+Specific phobia 13.2 (0.4) 4 5 5 7 12 23 41 64
+Social phobia 12.6 (0.4) 5 6 8 13 15 23 34 52
+Generalized anxiety disorder 8.3 (0.4) 8 13 20 31 47 58 66 75
+Posttraumatic stress disorder* 8.7 (0.6) 6 9 15 23 39 53 61 71
+Obsessive-compulsive disorder 1.9 (0.3) 10 11 14 19 30 48 54 54
+Separation anxiety disorder 5.2 (0.4) 5 5 6 7 10 13 14 17
+Any anxiety disorder§ 31.5 (1.1) 5 5 6 11 21 41 51 65
+Mood Disorders
+Major depressive disorder 23.2 (0.6) 12 14 19 32 44 56 64 73
+Dysthymia 3.4 (0.3) 7 11 17 31 43 51 57 73
+Bipolar I-II disorders 5.1 (0.3) 11 13 17 25 42 50 57 65
+Any mood disorder 28.0 (0.8) 11 13 18 30 43 54 63 73
+Impulse-Control Disorders
+Oppositional-defiant disorder 8.5 (0.7) 5 6 8 13 14 16 17 18
+Conduct disorder 9.5 (0.8) 6 7 10 13 15 17 17 18
+Attention-deficit/hyperactivity disorder 8.1 (0.6) 5 6 7 7 8 11 11 16
+Intermittent explosive disorder 5.4 (0.3) 6 8 11 15 20 26 37 46
+Any impulse-control disorder 25.4 (1.1) 5 6 7 11 15 18 23 36
+Substance Use Disorders
+Alcohol abuse* 15.1 (0.7) 15 16 18 21 29 39 44 54
+Alcohol dependence* 6.5 (0.4) 16 17 19 23 31 41 50 56
+Drug abuse* 8.5 (0.4) 15 16 17 19 23 29 36 46
+Drug dependence* 3.4 (0.3) 15 16 18 21 28 36 41 49
+Any substance use disorder§ 16.3 (0.6) 15 16 18 20 27 37 41 54
+Any Disorder
+Any disorder§ 50.8 (1.2) 5 5 7 14 24 42 51 64
+Abbreviation: WMH-CIDI, World Mental Health Survey version of the Composite International Diagnostic Interview.
+*Assessed only in the part II sample (n = 5692).
+Assessed only in a random third of the part II sample (n = 1808).
+Assessed only among part II respondents aged 18 to 44 years (n = 3199).
+§These summary measures were analyzed in the full part II sample (n = 5692). Obsessive-compulsive disorder, separation anxiety disorder, oppositional-defiant
+disorder, conduct disorder, and attention-deficit/hyperactivity disorder were coded as absent among respondents who were not assessed for these disorders.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+597
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+(the latter only among non-Hispanic blacks). Low edu-
+cation was associated with a high risk of substance use
+disorders. Marital disruption was associated with 3 of
+the 4 classes of disorder, the exception being impulse-
+control disorder.
+To determine whether increasing prevalence in more
+recent cohorts was concentrated in certain population
+segments, we also examined whether sociodemo-
+graphic correlates varied by cohort. Although at least
+one significant interaction was found for each sociode-
+mographic predictor, the pattern was not consistent
+(results available on request from the authors). The
+most notable results were as follows: Sex differences in
+anxiety, mood, and impulse-control disorders did not
+differ across cohorts, but women were more similar to
+men in substance use disorders in recent cohorts. The
+significant inverse associations with substance use dis-
+orders of education and being married existed only in
+recent cohorts.
+COMMENT
+The results reported herein are limited by four possible
+biases, all of which make the prevalence and risk esti-
+mates conservative. First, people with a history of men-
+tal illness might have been less likely than others to par-
+ticipate in the survey either because of sample frame
+exclusions (eg, excluding homeless people from the sam-
+pling frame), differential mortality, or greater reluc-
+tance to participate. There is evidence that bias of the lat-
+ter sort (reluctance to participate) exists in psychiatric
+epidemiological surveys,17 although no evidence of such
+Table 4. Cohort (Age at Interview) as a Predictor of Lifetime Risk of DSM-IV/WMH-CIDI Disorders in the NCS-R*
+Lifetime Risk by Age at Interview (Years)
+Compared With Respondents Aged 60 y, Odds Ratio (95% CI)
+2
+3
+18-29 30-44 45-59
+Anxiety Disorders
+Panic disorder 6.4 (3.8-10.5) 5.0 (3.0-8.5) 4.1 (2.4-6.9) 61.5
+Agoraphobia without panic 2.3 (1.2-4.6) 2.5 (1.2-5.1) 2.0 (0.9-4.1) 7.4
+Specific phobia 2.1 (1.7-2.7) 2.1 (1.7-2.7) 2.1 (1.6-2.6) 49.3
+Social phobia 2.5 (2.0-3.0) 2.5 (2.0-3.1) 2.1 (1.6-2.6) 89.6
+Generalized anxiety disorder 4.6 (2.9-7.1) 4.1 (2.7-6.1) 3.3 (2.1-5.1) 54.7
+Posttraumatic stress disorder§ 6.3 (3.7-10.5) 5.5 (3.4-9.0) 4.8 (3.0-7.8) 55.7
+Obsessive-compulsive disorder 6.3 (1.0-37.8) 5.0 (0.9-28.5) 2.5 (0.4-14.9) 6.0
+Separation anxiety disorder¶ 1.1 (0.8-1.5) 1.0 0.1
+Any anxiety disorder§# 3.0 (2.4-3.6) 3.1 (2.5-3.9) 2.5 (2.0-3.1) 123.3
+Mood Disorders
+Major depressive disorder 7.3 (5.9-9.0) 4.5 (3.5-5.6) 2.7 (2.2-3.3) 370.7
+Dysthymia 4.9 (3.1-7.7) 4.4 (3.0-6.5) 3.8 (2.5-5.8) 62.5
+Bipolar I-II disorders 22.4 (11.3-44.7) 9.5 (4.7-19.2) 4.8 (2.5-9.3) 125.7
+Any mood disorder 8.6 (6.8-10.8) 4.9 (3.8-6.3) 2.9 (2.3-3.7) 419.4
+Impulse-Control Disorders
+Oppositional-defiant disorder¶ 1.4 (1.1-1.8) 1.0 1.0 6.3
+Conduct disorder¶ 1.4 (1.1-1.7) 1.0 1.0 9.4
+Attention-deficit/hyperactivity disorder¶ 1.5 (1.1-2.0) 1.0 1.0 6.1
+Intermittent explosive disorder 7.3 (4.2-12.4) 4.3 (2.3-7.8) 2.5 (1.4-4.3) 39.0
+Any impulse-control disorder¶ 15.2 (9.9-23.4) 
+Substance Use Disorders
+Alcohol abuse or dependence 4.5 (3.4-6.1) 3.2 (2.5-4.2) 2.4 (1.8-3.3) 133.2
+Alcohol dependence 6.4 (4.2-9.8) 3.7 (2.3-5.8) 2.9 (1.9-4.5) 79.6
+Drug abuse or dependence 61.3 (20.4-183.6) 49.7 (16.6-148.2) 24.8 (8.2-75.4) 99.7
+Drug dependence 45.4 (10.2-202.0) 35.0 (7.8-156.5) 13.8 (2.7-69.2) 69.0
+Any substance use disorder 4.9 (3.6-6.6) 3.7 (2.8-4.8) 2.7 (2.0-3.7) 138.0
+Any Disorder
+Any disorder** 4.1 (3.5-4.9) 3.6 (2.9-4.3) 2.4 (2.0-2.8) 280.6
+Abbreviations: CI, confidence interval; NCS-R, National Comorbidity Survey Replication; WMH-CIDI, World Mental Health Survey version of the Composite
+International Diagnostic Interview.
+*Based on discrete-time survival models with person-years as the unit of analysis.
+Significant difference compared with those aged 60 years or older (P.05, 2-sided test).
+Significant intercohort differences in global test.
+§Estimated in the part II sample (n = 5692).
+Estimated in a random third of the part II sample (n = 1808).
+¶ Estimated among respondents aged 18 to 44 years in the part II sample (n = 3199).
+#Obsessive-compulsive disorder was coded as absent among respondents who were not assessed for this disorder.
+**Estimated for the full part II sample. Obsessive-compulsive disorder, separation anxiety disorder, oppositional-defiant disorder, conduct disorder, and
+attention-deficit/hyperactivity disorder were coded as absent among respondents who were not assessed for these disorders.
+df = 1 for separation anxiety disorder, oppositional-defiant disorder, conduct disorder, attention-deficit/hyperactivity disorder, and any impulse-control
+disorder comparing respondents aged 18 to 29 years with the omitted control group of respondents aged 30 to 44 years.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+598
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+bias was found in a nonrespondent survey carried out in
+conjunction with the NCS-R.18
+Second, lifetime prevalence was likely to be underre-
+ported in the sample because of the well-known bias
+against reporting embarrassing behaviors.19 This type of
+bias is not ruled out by the concordance found between
+diagnoses based on the WMH-CIDI and independent clini-
+cal reinterviews, as similar bias can occur in clinical in-
+terviews. Experimental studies to evaluate the effects of
+strategies designed to decrease embarrassment and to in-
+crease accurate reporting have consistently shown sig-
+nificant increases in reports of mental illness.20,21 As dis-
+cussed in more detail elsewhere,6 a number of these
+strategies were used in the NCS-R, but it is unlikely that
+they were completely successful.
+Third, the method used to estimate lifetime risk was
+based on the assumption of constant conditional risk of
+first onset in a given year of life among people who dif-
+fer in age at interview. This assumption is almost cer-
+tainly incorrect in light of evidence for significant inter-
+cohort differences in lifetime prevalence. Because the
+estimated prevalence was higher in more recent co-
+horts, lifetime risk in younger cohorts will be underes-
+timated in models based on the assumption of constant
+intercohort conditional risk.
+Fourth, age at onset can be recalled incorrectly, pos-
+sibly as a function of age at interview and in conjunc-
+tion with age-related failure to recall lifetime disorders.
+Simon and Von Korff10 reported evidence of this prob-
+lem in the Epidemiologic Catchment Area study, in which
+age-at-onset reports were a mean of approximately 10
+years before the interview regardless of the respondent's
+age. This kind of age-related age-at-onset telescoping in
+conjunction with age-related failure to report past dis-
+orders can create the false appearance of a cohort effect.22
+Although the NCS-R used a novel probing strategy to as-
+sess age at onset that was shown experimentally to cor-
+rect the biased data pattern found by Simon and Von
+Korff,11 it is unlikely that this strategy corrected com-
+pletely for age-related recall bias.
+Based on these considerations of possible bias, the
+NCS-R estimates of lifetime prevalence and projected risk
+are likely to be conservative. The estimates of anxiety,
+mood, and substance use disorders are broadly consis-
+tent with those found in previous community surveys in
+the United States3,23 and elsewhere in the world24,25:
+(1) A high proportion of the population met the criteria
+for one or more of these disorders at some time in their
+life. (2) Major depressive disorder, specific phobia, so-
+cial phobia, and alcohol abuse were the most common
+individual disorders. (3) Anxiety disorders were the most
+common class of disorders. The main inconsistency with
+previous results is that the estimated prevalence of sub-
+stance use disorders was considerably lower in the NCS-R
+Table 5. Variations in the Effects of Cohort (Age at Interview) in Predicting Lifetime Risk of DSM-IV/WMH-CIDI Disorders*
+Lifetime Risk by Age at Interview (Years), Odds Ratio (95% CI)
+1-12 13-19 20-29 30-39 40-49 50-59
+Anxiety Disorders (2
+11
+= 35.5)
+Age at interview, y
+19-29 2.9§ (2.4-3.6) 3.1§ (2.2-4.4) 3.9§ (1.8-8.4) . . . . . . . . .
+30-44 3.0§ (2.3-3.9) 3.1§ (2.1-4.5) 4.4§ (2.1-9.0) 5.8§ (3.4-9.9) 2.5§ (1.1-5.8) . . .
+45-59 2.3§ (1.9-2.9) 2.6§ (1.8-3.8) 3.2§ (1.5-6.7) 2.7§ (1.3-5.5) 3.3§ (1.8-6.2) 4.9§ (2.7-8.9)
+60 1.0 1.0 1.0 1.0 1.0 1.0
+2 135.0 (df = 3) 54.4 (df = 3) 18.4 (df = 3) 52.5 (df = 2) 15.2 (df = 2) 28.4 (df = 1)
+Mood Disorders (2
+12
+= 28.7)
+Age at interview, y
+19-29 8.8§ (4.8-16.0) 8.0§ (5.5-11.6) 9.2§ (6.1-13.9) 9.2§ (2.3-36.0) . . . . . .
+30-44 6.0§ (2.9-12.3) 4.3§ (2.8-6.6) 4.5§ (3.0-6.8) 6.5§ (4.1-10.3) 5.1§ (2.9-8.9) . . .
+45-59 3.6§ (1.9-6.9) 2.8§ (1.9-4.2) 2.9§ (1.8-4.5) 2.9§ (1.9-4.3) 3.1§ (2.0-4.9) 3.5§ (2.3-5.5)
+60 1.0 1.0 1.0 1.0 1.0 1.0
+2 68.2 (df = 3) 216.7 (df = 3) 133.5 (df = 3) 35.5 (df = 2) 33.0 (df = 1)
+Substance Use Disorders (2
+11
+= 100.8)
+Age at interview, y
+19-29 1.5 (0.6-3.9) 11.3 (5.4-24.0) 3.4§ (2.0-5.7) . . . . . . . . .
+30-44 0.7 (0.4-1.5) 9.2§ (4.1-20.3) 3.0§ (1.8-4.9) 2.0§ (1.8-4.9) 0.5 (0.2-1.6) . . .
+45-59 0.2§ (0.0-0.7) 4.4§ (2.0-9.4) 3.7§ (2.4-5.8) 2.2§ (1.1-4.7) 0.5 (0.2-1.5) 2.4 (0.7-7.7)
+60 1.0 1.0 1.0 1.0 1.0 1.0
+2 23.5 (df = 3) 95.2 (df = 3) 35.7 (df = 3) 6.2 (df = 2) 2.8 (df = 2) 2.2 (df = 1)
+Abbreviations: CI, confidence interval; WMH-CIDI, World Mental Health Survey version of the Composite International Diagnostic Interview.
+*Based on discrete-time survival models with person-years as the unit of analysis. Total sample models evaluated the significance of interactions between
+cohort and person-years in the lives of respondents. This was not done for impulse-control disorders because the vast majority of such disorders have onsets in a
+very narrow time window. Cohort  person-year interactions had significant predictive value for each of the 3 disorder groups. Based on these results, subsample
+models were estimated for the effects of cohort in each of the first 6 decades of life (including 11- and 12-year-olds in the earliest decade to distinguish teenagers
+from other parts of the life span). All analyses were carried out in the full part II sample.
+In the analysis of anxiety disorders, obsessive-compulsive disorder was coded as absent among respondents who were not assessed for this disorder.
+Significant interaction between cohort and person-years in the lives of respondents in the total sample.
+§Significant difference compared with the before-1940 cohorts (age 60 years) (P.05, 2-sided test).
+Significant intercohort differences in the global test.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+599
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+than in the NCS. This is presumably because the DSM-IV
+criteria are stricter than the DSM-III-R criteria (espe-
+cially in requiring criterion A symptoms to cluster in a
+single year of life).
+Although we know of no previous attempt to esti-
+mate the lifetime prevalence of DSM-IV oppositional-
+defiant disorder, conduct disorder, or attention-deficit/
+hyperactivitydisorderinanationallyrepresentativesample
+of adults, the NCS-R estimates are in the range reported
+in epidemiological surveys of adolescents.26,27 The NCS-R
+prevalence estimate for intermittent explosive disorder
+is also consistent with the scant data on the prevalence
+of that disorder.28 Given that previous epidemiological
+surveys excluded these impulse-control disorders, it is
+striking that their combined lifetime prevalence is higher
+than that for either mood disorders or substance use dis-
+orders.
+High prevalence estimates in previous psychiatric epi-
+demiological surveys have been a source of two con-
+cerns to mental health policy analysts. The first is that
+the estimates are so high as to be scientifically implau-
+sible.29 We addressed this issue earlier when we noted
+that concordance is generally good between WMH-
+CIDI and SCID diagnoses and that the WMH-CIDI is con-
+servative relative to the SCID. A critic might conclude
+that the DSM-IV system itself is overly inclusive. How-
+ever, it is noteworthy that preliminary analyses of the 12-
+month NCS-R data show that even those 12-month WMH-
+CIDI disorders that were classified as mild were associated
+with levels of impairment equivalent to those caused by
+clinically significant chronic physical disorders. Based on
+this evidence, it would be difficult to make a principled
+argument for narrowing the diagnostic criteria in future
+editions of the DSM to raise the threshold for clinical sig-
+nificance.
+The second concern about high prevalence estimates
+is that, even if accurate, they correspond to many more
+people than can be helped by currently available treat-
+ment resources30 and consequently have no practical short-
+term implications other than perhaps reducing support for
+parity of treatment with physical disorders.31 In consid-
+ering these issues it is important to note that mental dis-
+orders, like physical disorders, differ widely both in se-
+verity and in need for treatment.32,33 The fact that nearly
+half the population will meet the criteria for a mental dis-
+order at some time in their life does not mean that they
+will all need treatment. As shown in a separate NCS-R re-
+port,34 a substantial proportion of 12-month DSM-IV cases
+are mild. In addition, treatments with demonstrated cost-
+effectiveness are not available for all mental disorders. If
+cost-effective treatments were to become available, it is
+likely that anticipated resource deficits would be coun-
+terbalanced at least in part by increased demand and will-
+ingness to pay, consistent with reactions to recently pub-
+Table 6. Sociodemographic Predictors of Lifetime Risk of DSM-IV/WMH-CIDI Disorders*
+Lifetime Risk, Odds Ratio (95% CI)
+Any Anxiety
+Disorder
+Any Mood
+Disorder
+Any Impulse-
+Control Disorder
+Any Substance
+Use Disorder
+Any
+Disorder
+Sex
+F 1.6§ (1.5-1.8) 1.5§ (1.3-1.7) 0.7§ (0.6-0.8) 0.4§ (0.3-0.4) 1.1 (1.0-1.2)
+M 1.0 1.0 1.0 1.0 1.0
+2
+1
+90.8§ 44.7§ 18.3§ 204.6§ 2.8
+Race/ethnicity
+Non-Hispanic white 1.0 1.0 1.0 1.0 1.0
+Non-Hispanic black 0.8§ (0.6-0.9) 0.6§ (0.5-0.8) 0.7 (0.5-1.1) 0.6§ (0.5-0.8) 0.7§ (0.6-0.8)
+Hispanic 0.7§ (0.6-0.9) 0.8§ (0.6-0.9) 0.7 (0.5-1.1) 0.9 (0.7-1.2) 0.8 (0.6-1.0)
+Other 1.2 (0.9-1.5) 1.1 (0.8-1.4) 1.1 (0.7-1.7) 1.2 (0.8-1.9) 1.0 (0.8-1.3)
+2
+3
+14.1§ 28.4§ 8.3§ 17.7§ 16.1§
+Education
+Student 1.3 (0.9-1.9) 0.8 (0.6-1.2) 0.8 (0.3-2.2) 1.0 (0.6-1.8) 1.2 (0.8-1.7)
+Nonstudent/0-11 y 1.1 (0.8-1.6) 0.9 (0.7-1.1) 0.9 (0.4-2.5) 1.9§ (1.2-3.0) 1.1 (0.8-1.5)
+Nonstudent/12 y 0.9 (0.6-1.4) 1.0 (0.9-1.2) 1.0 (0.4-2.5) 1.5 (1.0-2.3) 1.1 (0.9-1.4)
+Nonstudent/13-15 y 1.1 (0.8-1.5) 1.2 (0.9-1.5) 1.1 (0.4-3.1) 1.4 (0.8-2.3) 1.1 (0.8-1.5)
+Nonstudent/16 y 1.0 1.0 1.0 1.0 1.0
+2
+4
+2.4 7.0 0.9 39.0§ 1.2
+Marital status
+Married/cohabitating 1.0 1.0 1.0 1.0 1.0
+Previously married 1.8§ (1.4-2.2) 1.9§ (1.6-2.3) 1.8 (0.7-4.4) 3.9§ (2.8-5.3) 2.1§ (1.6-2.6)
+Never married 1.0 (0.7-1.3) 1.0 (0.8-1.2) 1.4 (0.6-3.2) 1.2 (1.0-1.6) 1.0 (0.8-1.2)
+2
+2
+35.8§ 46.9§ 1.9 88.7§ 39.3§
+Sample size 5692 5692 3199 5692 5692
+Abbreviations: CI, confidence interval; WMH-CIDI, World Mental Health Survey version of the Composite International Diagnostic Interview.
+*Based on discrete-time survival models with person-years as the unit of analysis.
+Based on the full part II sample (n = 5692). In the case of any anxiety disorder, obsessive-compulsive disorder was coded as absent among respondents who
+were not assessed for this disorder.
+Based on part II respondents aged 18 to 44 years (n = 3199).
+§P.05, 2-sided test.
+Time-varying predictor.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+600
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+lished research on the cost-effectiveness of treating
+subthreshold hypercholesterolemia.35-38
+The NCS-R age-of-onset distributions are consistent
+with those reported in previous epidemiological sur-
+veys25,39 in finding that anxiety disorders have the earli-
+est ages of onset and mood disorders the latest. How-
+ever, we are aware of no previous attempt to examine the
+temporal concentration of ages of onset or to highlight
+the concentration of ages of onset for most disorders in
+a very narrow time span. It is also striking that the up-
+per bounds of the age-of-onset IQRs for disorders with
+narrow ranges are all quite young: age 15 years for im-
+pulse-control disorders and anxiety disorders with nar-
+row IQRs and age 27 years for substance use disorders.
+These are opposite the patterns found for almost all
+chronic physical disorders, with conditional risk increas-
+ing with age and the upper bound of the IQR in late middle
+age or old age.40 Whatever else we can say about mental
+disorders, then, they are distinct from chronic physical
+disorders because they have their strongest foothold in
+youth, with substantially lower risk among people who
+have matured out of the high-risk age range.
+An important issue in assessing the societal burden
+of mental disorders is whether the evidence of increas-
+ing prevalence in recent cohorts is real or a methodologi-
+cal artifact. The fact that NCS-R cohort effects vary in plau-
+sible ways (eg, the largest ORs are associated with drug
+use disorders, which are known independently to have
+increased among cohorts that went through adoles-
+cence beginning in the 1970s) and the fact that sociode-
+mographic correlates of cohort effects are substantively
+plausible (eg, the increasing similarity of women and men
+with regard to substance use disorders in recent co-
+horts) argue that the observed cohort effect is at least partly
+due to substantive rather than methodological factors.
+In addition, no evidence was found for the convergence
+among cohorts with increasing age that would be ex-
+pected if methodological factors were responsible for in-
+tercohort variation in prevalence estimates. In addition,
+we used a nonresponse survey, weighting to correct for
+nonresponse bias,18 and a special age-at-onset probing
+strategy to reduce recall bias6 to minimize the effects of
+methodological factors on the results. Nonetheless, re-
+sidual effects of methodological factors are likely, based
+on the fact that longitudinal studies show that mental dis-
+orders are associated with early mortality41 and the fact
+that resolved mental disorders reported in baseline in-
+terviews often are not reported in follow-up inter-
+views.42 To the extent that these biases are at work, the
+high prevalence found in the younger NCS-R cohorts
+might also apply to older cohorts.
+Based on the considerations in the last paragraph, we
+suspect that NCS-R intercohort differences in age of on-
+set are due to a combination of substantive and meth-
+odological factors. A more definitive evaluation will re-
+quire longitudinal trend comparisons. Even before such
+data become available, though, the NCS-R results clearly
+document that mental disorders are highly prevalent, that
+lifetime prevalence is, if anything, underestimated, that
+age-of-onset distributions for most of the disorders con-
+sidered herein are concentrated in a relatively narrow age
+range during the first two decades of life, and that later-
+onset disorders occur in large part as temporally second-
+ary comorbid conditions. To the extent that cohort ef-
+fects in the data are due to methodological factors, similar
+patterns might have occurred in earlier cohorts. Given
+the enormous personal and societal burdens of mental
+disorders, these observations should lead us to direct a
+greater part of our thinking about public health inter-
+ventions to the child and adolescent years and, with ap-
+propriately balanced considerations of potential risks and
+benefits, to focus on early interventions aimed at pre-
+venting the progression of primary disorders and the on-
+set of comorbid disorders.
+Submitted for Publication: June 9, 2004; final revision
+received October 1, 2004; accepted November 9, 2004.
+Correspondence: Ronald C. Kessler, PhD, Department
+of Health Care Policy, Harvard Medical School, 180 Long-
+wood Ave, Boston, MA 02115 (kessler@hcp.med.harvard
+.edu).
+Funding/Support: The National Comorbidity Survey Rep-
+lication is supported by grant U01-MH60220 from the
+National Institute of Mental Health, Rockville, Md, with
+supplemental support from the National Institute on Drug
+Abuse, Rockville, Md; the Substance Abuse and Mental
+Health Services Administration, Rockville, Md; the Rob-
+ert Wood Johnson Foundation (grant 044708), Prince-
+ton, NJ; and the John W. Alden Trust, Boston, Mass.
+Disclaimer: The views and opinions expressed in this re-
+port are those of the authors and should not be con-
+strued to represent the views of any of the sponsoring
+organizations or agencies or the US government.
+Additional Information: Collaborating investigators of
+the National Comorbidity Survey Replication include Ron-
+ald C. Kessler, PhD (principal investigator, Harvard Medi-
+cal School, Boston, Mass), Kathleen Merikangas, PhD (co-
+principal investigator, National Institute of Mental Health,
+Rockville, Md), Doreen Koretz, PhD (Harvard Univer-
+sity, Cambridge, Mass), James Anthony, PhD, MSc (Michi-
+gan State University, Lansing), William Eaton, PhD (The
+Johns Hopkins University, Baltimore, Md), Meyer Glantz,
+PhD (National Institute on Drug Abuse), Jane McLeod,
+PhD (Indiana University, Bloomington), Mark Olfson,
+MD, PhD (Columbia University College of Physicians and
+Surgeons, New York, NY), Harold Pincus, MD (Univer-
+sity of Pittsburgh, Pittsburgh, Pa), Greg Simon, MD
+(Group Health Cooperative, Seattle, Wash), Michael Von
+Korff, ScD (Group Health Cooperative), Philip Wang, MD,
+DrPH (Harvard Medical School), Kenneth Wells, MD,
+MPH (University of California, Los Angeles), Elaine Weth-
+ington, PhD (Cornell University, Ithaca, NY), and Hans-
+Ulrich Wittchen, PhD (Institute of Psychology, Techni-
+cal University Dresden, Dresden, Germany, and Max
+Planck Institute of Psychiatry, Munich, Germany).
+Acknowledgment: The authors appreciate the helpful
+comments of William Eaton, PhD, and Michael Von Korff,
+ScD. We thank Jerry Garcia, Sara Belopavlovich, Eric
+Bourke, and Todd Strauss, MAT, for assistance with manu-
+script preparation. A complete list of National Comor-
+bidity Survey publications and the full text of all Na-
+tional Comorbidity Survey Replication instruments can
+be found at http://www.hcp.med.harvard.edu/ncs. The
+National Comorbidity Survey Replication is carried out
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+601
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+in conjunction with the World Mental Health Survey Ini-
+tiative. We thank the staffs of the World Mental Health
+Survey Data Collection and Data Analysis coordination
+centers for assistance with instrumentation and field-
+work and for consultation on data analysis. A complete
+list of World Mental Health Survey publications and in-
+struments can be found at http://www.hcp.med.harvard
+.edu/wmh.
+REFERENCES
+1. Kessler RC, Merikangas KR. The National Comorbidity Survey Replication (NCS-
+R): background and aims. Int J Methods Psychiatr Res. 2004;13:60-68.
+2. Robins LN, Regier DA, eds. Psychiatric Disorders in America: The Epidemio-
+logic Catchment Area Study. New York, NY: Free Press; 1991.
+3. Kessler RC, McGonagle KA, Zhao S, Nelson CB, Hughes M, Eshleman S, Wittchen
+HU, Kendler KS. Lifetime and 12-month prevalence of DSM-III-R psychiatric dis-
+orders in the United States: results from the National Comorbidity Survey. Arch
+Gen Psychiatry. 1994;51:8-19.
+4. Kaplan EL, Meier P. Nonparametric estimation from incomplete observations.
+J Am Stat Assoc. 1958;53:457-481.
+5. Halli SS, Rao KV. Advanced Techniques of Population Analysis. New York, NY:
+Plenum; 1992.
+6. Kessler RC, Ustun TB. The World Mental Health (WMH) survey initiative version
+of the World Health Organization (WHO) Composite International Diagnostic In-
+terview (CIDI). Int J Methods Psychiatr Res. 2004;13:93-121.
+7. World Health Organization. International Classification of Diseases, 10th Revi-
+sion (ICD-10). Geneva, Switzerland: World Health Organization; 1992.
+8. American Psychiatric Association. Diagnostic and Statistical Manual of Mental
+Disorders, Fourth Edition, Text Revision (DSM-IV-TR). Washington, DC: Ameri-
+can Psychiatric Association; 2000.
+9. First MB, Spitzer RL, Gibbon M, Williams JBW. Structured Clinical Interview for
+DSM-IV-TR Axis I Disorders, Research Version, Non-patient Edition (SCID-I/NP).
+New York, NY: Biometrics Research, New York State Psychiatric Institute; 2002.
+10. Simon GE, Von Korff M. Recall of psychiatric history in cross-sectional surveys:
+implications for epidemiologic research. Epidemiol Rev. 1995;17:221-227.
+11. Knauper B, Cannell CF, Schwarz N, Bruce ML, Kessler RC. Improving the accu-
+racy of major depression age of onset reports in the US National Comorbidity
+Survey. Int J Methods Psychiatr Res. 1999;8:39-48.
+12. SAS/STAT Software: Changes and Enhancements, Release 8.2. Cary, NC: SAS
+Institute Inc; 2001.
+13. Efron B. Logistic regression, survival analysis, and the Kaplan-Meier curve. J Am
+Stat Assoc. 1988;83:414-425.
+14. Wolter KM. Introduction to Variance Estimation. New York, NY: Springer-
+Verlag; 1985.
+15. SUDAAN: Professional Software for Survey Data Analysis [computer program].
+Version 8.0.1. Research Triangle Park, NC: Research Triangle Institute; 2002.
+16. Kish L, Frankel MR. Inferences from complex samples. J R Stat Soc [Ser A]. 1974;
+36:1-37.
+17. Allgulander C. Psychoactive drug use in a general population sample, Sweden:
+correlates with perceived health, psychiatric diagnoses, and mortality in an au-
+tomated record-linkage study. Am J Public Health. 1989;79:1006-1010.
+18. Kessler RC, Berglund P, Chiu W-T, Demler O, Heeringa S, Hiripi E, Jin R, Pennell
+BE, Walters EE, Zaslavsky A, Zheng H. The US National Comorbidity Survey Rep-
+lication (NCS-R): design and field procedures. Int J Methods Psychiatr Res. 2004;
+13:69-92.
+19. Cannell CF, Marquis KH, Laurent A. A summary of studies of interviewing
+methodology. Vital Health Stat 2. 1977;69:i-78.
+20. Turner CF, Ku L, Rogers SM, Lindberg LD, Pleck JH, Sonenstein FL. Adolescent
+sexual behavior, drug use, and violence: increased reporting with computer sur-
+vey technology. Science. 1998;280:867-873.
+21. Kessler RC, Andrews G, Mroczek D, Ustun B, Wittchen H-U. The World Health
+Organization Composite International Diagnostic Interview Short Form (CIDI-SF).
+Int J Methods Psychiatr Res. 1998;7:171-185.
+22. Giuffra LA, Risch N. Diminished recall and the cohort effect of major depres-
+sion: a simulation study. Psychol Med. 1994;24:375-383.
+23. Regier DA, Kaelber CT, Rae DS, Farmer ME, Knauper B, Kessler RC, Norquist
+GS. Limitations of diagnostic criteria and assessment instruments for mental dis-
+orders: implications for research and policy. Arch Gen Psychiatry. 1998;55:
+109-115.
+24. Demyttenaere K, Bruffaerts R, Posada-Villa J, Gasquet I, Kovess V, Lepine JP,
+Angermeyer MC, Bernert S, de Girolamo G, Morosini P, Polidori G, Kikkawa T,
+Kawakami N, Ono Y, Takeshima T, Uda H, Karam EG, Fayyad JA, Karam AN, Mneim-
+neh ZN, Medina-Mora ME, Borges G, Lara C, de Graaf R, Ormel J, Gureje O, Shen
+Y, Huang Y, Zhang M, Alonso J, Haro JM, Vilagut G, Bromet EJ, Gluzman S, Webb
+C, Kessler RC, Merikangas KR, Anthony JC, Von Korff MR, Wang PS, Brugha
+TS, Aguilar-Gaxiola S, Lee S, Heeringa S, Pennell BE, Zaslavsky AM, Ustun TB,
+Chatterji S; WHO World Mental Health Survey Consortium. Prevalence, severity
+and unmet need for treatment of mental disorders in the World Health Organi-
+zation World Mental Health Surveys. JAMA. 2004;291:2581-2590.
+25. WHO International Consortium in Psychiatric Epidemiology. Cross-national com-
+parisons of the prevalences and correlates of mental disorders. Bull World Health
+Organ. 2000;78:413-426.
+26. Scahill L, Schwab-Stone M. Epidemiology of ADHD in school-age children. Child
+Adolesc Psychiatr Clin N Am. 2000;9:541-555.
+27. Loeber R, Burke JD, Lahey BB, Winters A, Zera M. Oppositional defiant and con-
+duct disorder: a review of the past 10 years, part I. J Am Acad Child Adolesc
+Psychiatry. 2000;39:1468-1484.
+28. Olvera RL. Intermittent explosive disorder: epidemiology, diagnosis and
+management. CNS Drugs. 2002;16:517-526.
+29. Brugha TS, Bebbington PE, Jenkins R. A difference that matters: comparisons
+of structured and semi-structured psychiatric diagnostic interviews in the gen-
+eral population. Psychol Med. 1999;29:1013-1020.
+30. Narrow WE, Rae DS, Robins LN, Regier DA. Revised prevalence estimates of men-
+tal disorders in the United States: using a clinical significance criterion to rec-
+oncile 2 surveys' estimates. Arch Gen Psychiatry. 2002;59:115-123.
+31. Peck MC, Scheffler RM. An analysis of the definitions of mental illness used in
+state parity laws. Psychiatr Serv. 2002;53:1089-1095.
+32. Kendell RE. Five criteria for an improved taxonomy of mental disorders. In: Hel-
+zer JE, Hudziak JJ, eds. Defining Psychopathology in the 21st Century: DSM-V
+and Beyond. Washington, DC: American Psychiatric Publishing; 2002:3-17.
+33. Spitzer RL. Diagnosis and need for treatment are not the same. Arch Gen Psychiatry.
+1998;55:120.
+34. Kessler RC, Chiu WT, Demler O, Walters EE. Prevalence, severity, and comor-
+bidity of 12-month DSM-IV disorders in the National Comorbidity Survey
+Replication. Arch Gen Psychiatry. 2005;62:617-627.
+35. Nissen SE, Tuzcu EM, Schoenhagen P, Brown BG, Ganz P, Vogel RA, Crowe T,
+Howard G, Cooper CJ, Brodie B, Grines CL, DeMaria AN; REVERSAL Investiga-
+tors. Effect of intensive compared with moderate lipid-lowering therapy on pro-
+gression of coronary atherosclerosis: a randomized controlled trial. JAMA. 2004;
+291:1071-1080.
+36. Cannon CP, Braunwald E, McCabe CH, Rader DJ, Rouleau JL, Belder R, Joyal
+SV, Hill KA, Pfeffer MA, Skene AM; Pravastatin or Atorvastatin Evaluation and
+Infection Therapy­Thrombolysis in Myocardial Infarction 22 Investigators.
+Comparison of intensive and moderate lipid lowering with statins after acute coro-
+nary syndromes. N Engl J Med. 2004;350:1495-1504.
+37. Topol EJ. Intensive statin therapy--a sea change in cardiovascular prevention.
+N Engl J Med. 2004;350:1562-1564.
+38. Sacks FM. High-intensity statin treatment for coronary heart disease. JAMA. 2004;
+291:1132-1134.
+39. Christie KA, Burke JDJ, Regier DA, Rae DS, Boyd JH, Locke BZ. Epidemiologic
+evidence for early onset of mental disorders and higher risk of drug-abuse in
+young-adults. Am J Psychiatry. 1988;145:971-975.
+40. Murray CJL, Lopez AD. Global Health Statistics. Cambridge, Mass: Harvard Uni-
+versity Press; 1996.
+41. Bruce ML, Leaf PJ. Psychiatric disorders and 15-month mortality in a commu-
+nity sample of older adults. Am J Public Health. 1989;79:727-730.
+42. Badawi MA, Eaton WW, Myllyluoma J, Weimer LG, Gallo J. Psychopathology and
+attrition in the Baltimore ECA 15-year follow-up 1981-1996. Soc Psychiatry Psy-
+chiatr Epidemiol. 1999;34:91-98.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JUNE 2005 WWW.ARCHGENPSYCHIATRY.COM
+602
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+cellation of areas based on distinctive limbic and sensory corticocortical
+connections. J Comp Neurol. 1989;287:393-421.
+54. McDonald AJ, Shammah-Lagnado SJ, Shi C, Davis M. Cortical afferents to the
+extended amygdala. Ann N Y Acad Sci. 1999;877:309-338.
+55. Bush G, Vogt BA, Holmes J, Dale AM, Greve D, Jenike MA, Rosen BR. Dorsal
+anterior cingulate cortex: a role in reward-based decision making. Proc Natl Acad
+Sci U S A. 2002;99:523-528.
+56. Rogers RD, Ramnani N, Mackay C, Wilson JL, Jezzard P, Carter CS, Smith SM.
+Distinct portions of anterior cingulate cortex and medial prefrontal cortex are ac-
+tivated by reward processing in separable phases of decision-making cognition.
+Biol Psychiatry. 2004;55:594-602.
+57. Paulus MP, Rogalsky C, Simmons A, Feinstein JS, Stein MB. Increased activa-
+tion in the right insula during risk-taking decision making is related to harm avoid-
+ance and neuroticism. Neuroimage. 2003;19:1439-1448.
+58. Platt ML, Glimcher PW. Neural correlates of decision variables in parietal cortex.
+Nature. 1999;400:233-238.
+59. Cho AK, Melega WP. Patterns of methamphetamine abuse and their consequences.
+J Addict Dis. 2002;21:21-34.
+60. Davidson C, Gow AJ, Lee TH, Ellinwood EH. Methamphetamine neurotoxicity:
+necrotic and apoptotic mechanisms and relevance to human abuse and treatment.
+Brain Res Brain Res Rev. 2001;36:1-22.
+61. Ernst T, Chang L, Leonido-Yee M, Speck O. Evidence for long-term neurotoxic-
+ity associated with methamphetamine abuse: a 1H MRS study. Neurology. 2000;
+54:1344-1349.
+62. Nordahl TE, Salo R, Possin K, Gibson DR, Flynn N, Leamon M, Galloway GP,
+Pfefferbaum A, Spielman DM, Adalsteinsson E, Sullivan EV. Low N-acetyl-
+aspartate and high choline in the anterior cingulum of recently abstinent meth-
+amphetamine-dependent subjects: a preliminary proton MRS study. Psychiatry
+Res. 2002;116:43-52.
+63. Cadet JL, Jayanthi S, Deng X. Speed kills: cellular and molecular bases of meth-
+amphetamine-induced nerve terminal degeneration and neuronal apoptosis. FASEB
+J. 2003;17:1775-1788.
+Correction
+Errors in Byline, Author Affiliations, and Acknowledg-
+ment. In the Original Article titled "Lifetime Preva-
+lence and Age-of-Onset Distributions of DSM-IV Disor-
+ders in the National Comorbidity Survey Replication,"
+published in the June issue of the ARCHIVES (2005;62:
+593-602), an author's name was inadvertently omitted
+from the byline and author affiliations footnote on page
+592, and another author's affiliation was listed incor-
+rectly. The byline should have appeared as follows: "Ron-
+ald C. Kessler, PhD; Patricia Berglund, MBA; Olga Dem-
+ler, MA, MS; Robert Jin, MA; Kathleen R. Merikangas,
+PhD; Ellen E. Walters, MS." The author affiliations foot-
+note should have appeared as follows: "Author Affilia-
+tions: Department of Health Care Policy, Harvard Medi-
+cal School, Boston, Mass (Dr Kessler; Mss Demler and
+Walters; and Mr Jin); Institute for Social Research, Uni-
+versity of Michigan, Ann Arbor (Ms Berglund); and Sec-
+tion on Developmental Genetic Epidemiology, Na-
+tional Institute of Mental Health, Rockville, Md (Dr
+Merikangas)." On page 601, the first sentence of the ac-
+knowledgment should have appeared as follows: "The
+authors appreciate the helpful comments of William Ea-
+ton, PhD, and Michael Von Korff, ScD." Online ver-
+sions of this article on the Archives of General Psychia-
+try Web site were corrected on June 10, 2005.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 62, JULY 2005 WWW.ARCHGENPSYCHIATRY.COM
+768
+©2005 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/13/2014
+

@@ -1,0 +1,1022 @@
+MarketWatch
+Medicaid Cost Containment And Access To
+Prescription Drugs
+States' efforts to contain the rising costs of Medicaid prescription
+drugs are reducing enrollees' access to needed medications.
+by Peter J. Cunningham
+ABSTRACT: States have been intensifying their efforts to control rising prescription drug
+costs in their Medicaid programs. This study examines the effects of five Medicaid cost con-
+tainment policies on enrollees' perceptions of their ability to get prescription drugs. The re-
+sults show that enrollees in states that have implemented all or almost all of these five poli-
+cies have greater problems getting prescription drugs than enrollees in other states
+encounter. In terms of specific policies, prior authorization and mandatory generic substitu-
+tions had the largest effects on access to prescription drugs.
+The increase in Medicaid outpatient
+prescription drug costs and use has
+been one of the main contributing fac-
+tors to overall increases in program costs in
+recent years. Outpatient drug spending in
+Medicaid rose about 18 percent annually be-
+tween 1999 and 2002, compared with 10 per-
+cent for all personal health care services in
+Medicaid.1 As a share of total Medicaid
+spending, drug spending doubled during the
+1990s, from 5.6 percent of total Medicaid
+spending in 1992 to almost 12 percent in 2002.
+Despite these rising costs, all states have re-
+tained their outpatient prescription drug ben-
+efits, which is optional in Medicaid. To contain
+increasing costs, almost all states have imple-
+mented one or more strategies aimed at man-
+aging prescription drug use or curtailing
+wasteful and ineffective use. Cost sharing (that
+is, copayments) is one of the oldest and most
+prevalent forms of utilization management
+(UM), but a variety of other methods are in-
+creasingly being used. These include prior au-
+thorization, preferred drug lists, dispensing
+limits, mandatory use of generics, and step
+therapy.2 Many states have also tried to con-
+tain costs by reducing their reimbursement to
+pharmacies, negotiating supplemental rebates
+with manufacturers, and monitoring high-cost
+users and prescribers of drugs.
+As state budgets have tightened consider-
+ably since 2000--attributable in part to the in-
+creases in Medicaid spending as well as to
+slow economic growth--efforts to contain
+Medicaid drug spending have intensified. Ac-
+cording to a recent survey, the percentage of
+states with mandatory prescribing of generics
+increased from 36 percent in 2000 to 70 per-
+cent in 2003.3 The percentage of states with
+dispensing limits increased from 20 percent in
+2000 to 33 percent in 2003, while the use of
+cost sharing increased from 66 percent of
+states in 2000 to 81 percent in 2003. Moreover,
+the percentage of states using three or more
+cost-control strategies has increased greatly,
+from about one-third of states in 2000 to
+7 8 0 M a y / J u n e 2 0 0 5
+H e a l t h T r a c k i n g
+DOI 10.1377/hlthaff.24.3.780 ©2005 Project HOPE­The People-to-People Health Foundation, Inc.
+PeterCunningham(pcunningham@hschange.org)isaseniorhealthresearcherattheCenterforStudyingHealth
+SystemChangeinWashington,D.C.
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+about 90 percent in 2003.
+n Previous research. Despite the near-
+universal implementation of one or more cost
+containment policies, virtually nothing is
+known about the effects of these policies on
+prescription drug costs, use, and access. Most
+of the prior research on this topic dates from
+the 1970s and 1980s and has focused on the ef-
+fects of copayments on Medicaid prescription
+drug use and spending. The findings from
+these studies show that even a small copay-
+ment in Medicaid (for example, fifty cents per
+prescription) reduces prescription drug use
+and spending across a broad range of thera-
+peutic categories, including those considered
+to be essential medications.4
+Nevertheless, inferring the effects of recent
+cost containment policies on prescription
+drug use and access from this previous re-
+search is questionable, given the rapid increase
+in the development of new medications, use,
+and spending since many of these studies were
+conducted. And since most states have now
+implemented more than one cost containment
+policy, it is increasingly difficult to attribute
+effects on use and access to any specific policy.
+A more recent study (by this author) found
+that prescription drug access was particularly
+problematic in states that had implemented
+multiple cost containment policies.5
+n Present study. This study, using data
+from the 2000­01 and 2003 Community
+Tracking Study (CTS) household surveys,
+compares the extent of prescription drug ac-
+cess problems for adult Medicaid enrollees
+with the access problems of adults who have
+other types of insurance coverage and who
+have no insurance. It then examines the effects
+of cost containment policies and other factors
+on prescription drug access among adult
+Medicaid beneficiaries and the effect of the in-
+crease in states' cost containment policies on
+changes in access between 2000­01 and 2003.
+Study Data And Methods
+n Data. The CTS household survey is de-
+signed to produce representative estimates of
+health insurance coverage, access to care, use
+of services, and perceived quality of care for
+the U.S. population and sixty randomly se-
+lected communities in thirty-four states and
+the District of Columbia.6 The CTS is primar-
+ily a telephone survey, supplemented by in-
+person interviews of households without tele-
+phones, to ensure representation. Four rounds
+of the survey have been conducted since 1996;
+the most recent was completed in 2003. This
+study includes data from the third round of the
+survey (completed in 2000­01) and the fourth
+round (completed in 2003).
+The overall sample for the surveys includes
+about 60,000 people in the 2000­01 survey and
+about 46,600 people in the 2003 survey. This
+study focuses on all adults (age eighteen and
+older) who reported that they were enrolled in
+Medicaid, which includes about 1,600 people
+represented in each of the two surveys.
+n Measure of drug access. Based on a
+similar question asked in the National Health
+Interview Survey (NHIS), sampled people in
+both the 2000­01 and 2003 surveys were asked
+the following question: "During the past
+twelve months, was there any time you needed
+prescription medicines but didn't get them be-
+cause you couldn't afford it?" Although the
+question refers only to medications prescribed
+by a physician, the self-reported measure is
+limited in that the medical necessity of the
+medication could not be verified.
+The strength of the measure is that it allows
+for broad comparisons of drug access between
+population groups. In this sense, validity is
+demonstrated by the fact that it is strongly
+correlated with characteristics of populations
+that are expected to have the greatest prob-
+lems affording prescription drugs: namely,
+poor and low-income people, uninsured peo-
+ple, and people in poor health and with
+chronic conditions (that is, the most frequent
+users).
+n Measures of Medicaid cost contain-
+ment policies. The CTS survey data are
+linked to data from state surveys of Medicaid
+prescription drug policies sponsored by the
+Henry J. Kaiser Family Foundation.7 The sur-
+veys were conducted in 2000 and 2003 and
+thus are roughly consistent with the time peri-
+ods covered in the CTS household surveys. The
+M a r k e t W a t c h
+H E A LT H A F F A I R S ~ Vo l u m e 2 4 , N u m b e r 3 7 8 1
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+surveys covered a number of policies related to
+utilization management and review, payment
+and purchasing policies, and institutional poli-
+cies. This study focuses on five commonly used
+UM policies that are likely to have the most di-
+rect impact on enrollees' use and access.8
+These include the following: (1) Prior
+authorization: Pharmacists are required to ob-
+tain approval from the state (or a subcontrac-
+tor) before dispensing a drug. (2) Copayments:
+Beneficiaries are required to pay a nominal
+copayment for each prescription (usually be-
+tween fifty cents and three dollars), although
+the state cannot deny a drug because of inabil-
+ity to pay the copayment. (3) Dispensing lim-
+its: States limit the number of prescriptions
+that Medicaid will cover during a certain time
+period (for example, one month). (4) Generic
+drugs: State law requires generics.9 (5) Step
+therapy: Physicians need to demonstrate that a
+lower-cost drug is ineffective before prescrib-
+ing a more costly alternative.
+There is considerable variation among
+states in how these individual policies work
+(for example, states use different copayment
+amounts, and the medications subjected to
+prior authorization and generic mandates dif-
+fer across states). Accounting for all of the
+variation in state policies is not feasible, and it
+is unlikely that the general measure of pre-
+scription drug access used in this study would
+be sensitive to many of these details.
+n Analysis. The study first compared ac-
+cess to prescription drugs for adult Medicaid
+beneficiaries with that of other adults (both
+insured and uninsured) in 2003, and then it ex-
+amined changes in prescription drug access
+between 2000­01 and 2003. Estimates of ac-
+cess by insurance coverage were also com-
+puted by controlling for a variety of other fac-
+tors that are likely to be correlated with
+access, including age, sex, race/ethnicity, fam-
+ily income, family type, health status, and
+chronic conditions.10
+Regression analysis was used to examine
+the effects of Medicaid cost containment
+methods and other factors on access to pre-
+scription drugs for adult Medicaid beneficia-
+ries.11 As a general test of the intensity of states'
+cost containment efforts, the analysis first ex-
+amined the effect of multiple cost containment
+policies on access.12 Observations from the
+2000­01 and 2003 surveys were pooled into a
+single regression to increase the statistical pre-
+cision of estimates. The analysis controlled for
+differences in individual characteristics and all
+other state-level factors (for example, other
+state policies, including state pharmacy assis-
+tance programs for dual eligibles).13
+A second regression analysis was per-
+formed to examine the effects of each individ-
+ual cost containment policy on access. This re-
+gression was identical to the first in all
+respects except that Medicaid cost contain-
+ment policies were specified as five separate
+indicators for each policy. Examining and in-
+terpreting the effects of each policy is difficult
+because virtually all states have implemented
+more than one policy, and there is some inter-
+correlation in the effects of these policies on
+access.
+Study Findings
+n Characteristics of Medicaid en-
+rollees. Compared with all U.S. adults,
+Medicaid enrollees are somewhat younger,
+much poorer, more likely to be members of a
+racial/ethnic minority, and likely to have less
+favorable health overall and a much higher
+prevalence of chronic conditions (Exhibit 1).
+Lower incomes and high rates of health prob-
+lems are particularly high-risk factors for
+problems with affording prescription drugs.
+Between 2000­01 and 2003, there was an
+increase in younger Medicaid enrollees (ages
+18­34), those with incomes in the near-poor
+range (100­200 percent of the federal poverty
+level), and married couples with children; also,
+there was a decrease in those with chronic
+conditions. These changes may reflect the in-
+crease in Medicaid enrollment during a period
+of slow economic growth and rising unem-
+ployment, in which younger and healthier
+adults from intact families enrolled in Medic-
+aid following the loss of a job or employer-
+sponsored coverage.
+n Problems getting prescription drugs.
+More than one-fifth of adult Medicaid en-
+7 8 2 M a y / J u n e 2 0 0 5
+H e a l t h T r a c k i n g
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+rollees reported that in 2003 they did not get
+prescription drugs because of cost (Exhibit 2).
+The extent of access problems for Medicaid
+enrollees was more similar to that of people
+who typically have no prescription drug cov-
+erage, including Medicare enrollees with no
+supplemental coverage and uninsured people.
+Those with private insurance, including Medi-
+care enrollees with supplemental private in-
+surance, have by far the lowest rate of drug
+access problems.
+The high level of access problems for
+Medicaid enrollees is somewhat surprising,
+given that all states include prescription drug
+coverage in their Medicaid programs, and cost
+sharing is lower than in most private insurance
+M a r k e t W a t c h
+H E A LT H A F F A I R S ~ Vo l u m e 2 4 , N u m b e r 3 7 8 3
+EXHIBIT 1
+Characteristics Of U.S. Adults And Adult Medicaid Enrollees In The Community
+Tracking Study, 2000­01 And 2003
+Adult Medicaid enrollees
+Characteristic
+All U.S. adults,
+2003 (%) 2003 (%)
+Change from
+2000­01a
+Age (years)
+18­34
+35­44
+45­54
+55­64
+65+
+30.5
+21.6
+18.8
+13.1
+16.2
+41.9b
+18.3b
+14.6b
+7.6b
+17.7
+6.7c
+­2.3
+0.7
+­2.6c
+­2.6
+Income (percent of poverty)
+<100%
+100­199%
+200­299%
+300+%
+12.1
+18.4
+16.8
+52.7
+51.8b
+29.4b
+8.9b
+9.9b
+­0.5
+5.3c
+­2.6
+­2.3
+Race/ethnicity
+White
+Black
+Hispanic
+Other
+71.2
+11.2
+12.8
+4.9
+45.6b
+23.9b
+24.8b
+5.7
+­2.6
+­3.2
+5.0c
+0.8
+Family type
+Single person
+Married couple, no children
+Married couple with children
+Single parent
+28.8
+29.4
+33.7
+8.1
+47.8b
+10.8b
+17.7b
+23.7b
+­2.8
+0.0
+5.1c
+­2.3
+Health status
+Excellent, very good health
+Good health
+Fair or poor health
+56.8
+26.3
+17.0
+28.6b
+28.0
+43.4b
+­1.0
+­0.2
+1.2
+Chronic conditions
+0 conditions
+1 condition
+2+ conditions
+62.7
+21.2
+16.2
+47.7b
+22.3
+30.0b
+5.3c
+­0.6
+­4.7c
+SOURCE: Community Tracking Study household surveys, 2000­01 and 2003.
+NOTE: Includes people age 18 and older.
+a Percentage points.
+b Difference with all U.S. adults is statistically significant at the .05 level.
+c Change is statistically significant at the .05 level.
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+plans. High levels of access problems reflect in
+large part Medicaid enrollees' much lower in-
+comes and higher prevalence of chronic condi-
+tions, factors that are strongly related to in-
+creased access problems (discussed in greater
+detail in the results of the regression).
+When income, health status, and other fac-
+tors are controlled for (the adjusted estimates),
+rates of prescription drug access problems for
+Medicaid beneficiaries are much lower and
+more comparable with those of people with
+private insurance coverage (Exhibit 2). As one
+would expect, those who lack drug coverage
+entirely, including the uninsured and Medi-
+care enrollees with no other coverage, have
+much higher levels of prescription drug access
+problems than those covered by Medicaid and
+private insurance.
+There was no change between 2000­01 and
+2003 in drug access for Medicaid enrollees
+(findings not shown). Access problems in-
+creased slightly for those with employer-spon-
+sored private insurance (about one percentage
+point) and decreased for uninsured people
+(about three percentage points).
+n Changes in Medicaid cost contain-
+ment policies. A large, growing percentage of
+Medicaid enrollees live in states that have im-
+plemented the various cost containment poli-
+cies (Exhibit 3). Perhaps even more important
+is the dramatic increase in the percentage of
+Medicaid enrollees who live in states with four
+or five cost containment policies, from about
+16 percent in 2000­01 to 62 percent in 2003. By
+contrast, the percentage of enrollees who live
+in states with two cost containment policies
+or fewer decreased from about 34 percent in
+2000­01 to 7 percent in 2003.
+n Effects of multiple cost containment
+policies on access. Exhibit 4 shows the re-
+sults of the regression analysis for the effects of
+having multiple cost containment policies on
+prescription drug access, adjusting for differ-
+ences in enrollee and other state characteris-
+tics. Column 1 shows the increased or de-
+creased probability (in percentage points) of
+having access problems associated with each
+factor (and controlling for all other factors),
+and column 2 shows the net effect on access
+associated with changes in prescription drug
+policies and other factors between 2000­01
+and 2003. The net effects are computed by
+multiplying the change in the means of each
+factor between 2000­01 and 2003 with their
+respective coefficients. Thus, net effects will
+be small either if there was little change in the
+7 8 4 M a y / J u n e 2 0 0 5
+H e a l t h T r a c k i n g
+EXHIBIT 2
+Percentage Of U.S. Adults Reporting Not Getting Prescription Drugs Because Of Cost,
+By Insurance Status, 2003
+Source of coverage Unadjusted (%) Adjusteda (%)
+All adults
+All Medicaid
+Medicaid only
+Medicare and Medicaid
+12.8
+22.4
+22.3
+22.6
+12.8
+11.0
+14.5
+Medicare only
+Medicare and other private
+Employer coverage only
+21.4
+8.6b
+8.7b
+22.6b
+12.8
+9.6
+Other private coverage only
+Other coverage
+Uninsured
+9.6b
+12.3b
+26.0
+10.4
+8.1
+21.8b
+SOURCE: Community Tracking Study household survey, 2003.
+a Adjusted based on ordinary least squares (OLS) regression model that includes the following factors: age, family income (as
+percentage of federal poverty level), sex, race/ethnicity, family structure, perceived general health, chronic conditions, and
+years of education.
+b Difference from Medicaid only is statistically significant at the .05 level.
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+factor during the study period or if that factor
+has a small effect on prescription drug access.
+When differences in the characteristics of
+Medicaid enrollees and all other state factors
+are controlled for, living in states with four or
+more cost containment policies increases the
+probability of experiencing drug access prob-
+lems by almost eleven percentage points, com-
+pared with living in states with three or fewer
+policies. Combined with the large increase in
+the percentage of Medicaid enrollees living in
+states with four or five policies between 2000­
+01 and 2003, the net effect of these policy
+changes was to increase the proportion of en-
+rollees with access problems by about five per-
+centage points overall.
+n Other factors affecting drug access.
+It seems probable that changes in other factors
+have offset the effects of increases in Medicaid
+cost containment policies, since there was no
+overall change in Medicaid prescription drug
+access between 2000­01 and 2003. Changes in
+key characteristics of Medicaid enrollees
+(noted in Exhibit 1) are one possibility, since
+several of these characteristics (such as age,
+family income, and number of chronic condi-
+tions) also have strong effects on drug access.
+However, as Exhibit 4 shows, the net
+changes in access associated with these indi-
+vidual characteristics are negligible. For exam-
+ple, having multiple chronic conditions
+strongly increases the probability of having
+prescription drug access problems (16.3 per-
+cent). While a decrease in the percentage of
+Medicaid enrollees with multiple chronic con-
+ditions resulted in a net decrease in access
+problems, the effect was less than 1 percent.
+Other net effects of changes in individual char-
+acteristics were even smaller, and some
+changes (in age and income) led to a small net
+increase in access problems. When summed
+across all individual characteristics, there was
+no net effect on access from changes in
+enrollee characteristics.
+On the other hand, the results show an un-
+explained decrease in the probability of pre-
+scription drug access problems between the
+2000­01 and 2003 surveys (as indicated by the
+variable for the 2003 survey). In other words,
+some other factor(s) not directly accounted for
+in the regression analysis worked to reduce ac-
+cess problems, offsetting the effects of the in-
+crease in Medicaid cost containment policies.
+It is unclear what these other factors could
+M a r k e t W a t c h
+H E A LT H A F F A I R S ~ Vo l u m e 2 4 , N u m b e r 3 7 8 5
+EXHIBIT 3
+Percentage Of Adult Medicaid Enrollees In The Community Tracking Study (CTS)
+Surveys In States With Prescription Drug Cost Containment Policies, 2000­01 And
+2003
+State policy 2000­01 (%) 2003 (%)
+Prior authorization required
+Use of generics required
+Copayment
+Step therapy required
+Limits on number of prescriptions per month
+67.2
+41.2
+67.6
+20.1
+48.4
+79.0a
+59.2a
+68.6
+46.8a
+55.6a
+Number of policies
+0 or 1
+2
+3
+4
+5
+6.6
+27.6
+38.8
+16.1
+0.3
+4.8
+1.8a
+16.0a
+51.5a
+10.3a
+No information about drug policies in state 10.4 15.6
+SOURCE: Community Tracking Study household surveys, 2000­01 and 2003, linked to information from state surveys of
+Medicaid prescription drug policies conducted by the Henry J. Kaiser Family Foundation.
+a Change from 2000­01 is statistically significant at the .05 level.
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+be, given the relatively short time period be-
+tween the two surveys. One possibility is that
+even as states were becoming more aggressive
+in implementing cost containment policies,
+both health care providers and Medicaid en-
+rollees became more knowledgeable and savvy
+about how these policies worked and there-
+fore better able to navigate the system to get
+the prescription drugs they needed. It is also
+possible that states have gained greater experi-
+7 8 6 M a y / J u n e 2 0 0 5
+H e a l t h T r a c k i n g
+EXHIBIT 4
+Effects Of Multiple State Cost Containment Methods On Adults' Access To
+Prescription Drugs, By Various Characteristics, 2000­01 And 2003
+Characteristic
+Probability of not
+getting Rx drug
+Net change in unmet drug
+need between 2000­01 and
+2003 attributable to factora
+All adult Medicaid enrollees (overall percent not getting
+prescription drugs) 22.2 ­0.6
+State Medicaid prescription drug policies
+State has 4 or 5 policies (vs. 0­3)
+No information for state
+10.8b
+0.5
+4.9
+0.0
+Characteristics of Medicaid enrollees
+Age (relative to 18­34 year olds)
+35­44
+45­54
+55­64
+65+
+5.0b
+2.3
+­4.5
+­17.6b
+­0.1
+0.0
+0.1
+0.4
+Female
+Race/ethnicity (relative to whites)
+Black
+Hispanic
+Other
+5.4b
+­3.2
+­2.1
+5.4
+­0.2
+0.1
+­0.1
+0.0
+Education (relative to high school graduate)
+Less than high school
+Some college
+College graduate
+0.1
+7.2b
+6.3
+0.0
+0.0
+0.0
+Family type (relative to married couple with children)
+Single, no children
+Married couple, no children
+Single parent
+1.9
+5.5
+3.8
+­0.1
+0.0
+­0.1
+Income (relative to below poverty)
+100­199% of poverty
+200­299% of poverty
+300% and higher
+0.8
+­8.7b
+­9.2b
+0.0
+0.2
+0.2
+General health (relative to fair or poor health)
+Excellent/very good health
+Good health
+­4.7
+­2.9
+0.0
+0.0
+Chronic conditions (relative to 0 conditions)
+1 condition
+2 or more chronic conditions
+9.8b
+16.3b
+0.0
+­0.8
+Survey year (2003 compared to 2000­01) ­5.5b ­5.5
+SOURCE: Community Tracking Study household surveys, 2000­01 and 2003, linked to information from state surveys of
+Medicaid prescription drug policies conducted by the Henry J. Kaiser Family Foundation.
+NOTES: Estimates based on ordinary least squares (OLS) regression that combines the sample of Medicaid enrollees from the
+2000­01 and 2003 surveys. Binary variables for each of the states in the CTS were included in the regression but are not
+shown in the exhibit. Both columns of data are percentage points.
+a Computed by applying the mean change between 2000­01 and 2003 for that factor to the respective regression coefficient.
+b Estimate is statistically significant at the .05 level.
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+ence in implementing policies and have refined
+them somewhat to reduce the access problems
+that some beneficiaries have had.
+It may also not be coincidental that there
+was a small decrease in prescription drug ac-
+cess problems among the uninsured during the
+same time period. Improvements in safety-net
+capacity and coordination during this period
+may have benefited both Medicaid enrollees
+and uninsured people in providing greater ac-
+cess to free or lower-cost prescription drugs,
+as well as in providing more
+assistance to Medicaid en-
+rollees in navigating the in-
+creasingly complicated rules
+of the Medicaid pharmacy
+benefit.14
+n Effects of individual
+cost containment policies.
+A second regression analy-
+sis--identical to the first in
+all respects except for the
+specification of Medicaid
+cost containment policies--
+was performed to test the ef-
+fects of individual cost containment policies.
+Indicators for each of the five cost contain-
+ment policies (whether or not the enrollee
+lives in a state with that policy) were included
+in the analysis. The results show that prior au-
+thorization and generic requirements had the
+largest negative effects on access: Prior autho-
+rization requirements increased the probabil-
+ity of prescription drug access problems by
+twenty percentage points; requiring the use of
+generic substitutes increased the probability
+by about eight percentage points (data not
+shown). Copayments, dispensing limits, or
+step therapy requirements had no statistically
+significant affects on access.
+Prior authorization. The effects (or lack
+thereof) of individual policies are difficult to
+interpret, since most states have implemented
+more than one policy and there is some inter-
+correlation between these factors and the mea-
+sure of prescription drug access. Since some
+form of prior authorization is used in most
+states, the large effects observed for this policy
+may be more indicative of the uniqueness of
+the small number of states that do not have
+such requirements. States without prior au-
+thorization tend to have very few cost contain-
+ment policies of any type, and therefore pre-
+scription drug access problems would be
+expected to be much lower. Nevertheless, case
+studies of states' prior authorization programs
+have observed that these programs can lead to
+bureaucratic and communication problems
+among enrollees, providers, and pharmaceuti-
+cal benefit management firms under contract
+to the state, which in turn can
+lead to delays and other prob-
+lems with prescription drug
+access.15
+Genericmandates. That man-
+datory generic requirements
+would lead to higher reports
+of access problems may also
+be surprising, since these do
+not imply a cost to the en-
+rollee. It is possible that some
+physicians continue to pre-
+scribe some brand-name
+drugs when generics are re-
+quired because they are unaware of the policy
+or they believe that a brand name is more effi-
+cacious than its generic substitute. Also, some
+enrollees may specifically request brand-name
+drugs. If such drugs are prescribed when ge-
+neric substitutes are required, enrollees would
+potentially have to pay the full cost of the med-
+ication.
+Other policies. That copayments, dispensing
+limits, and step therapy did not have inde-
+pendent effects on prescription drug access
+may be because they are correlated with prior
+authorization and mandatory generic policies
+(that is, states often have both policies), or be-
+cause these policies affect relatively few people
+and both the sample of Medicaid enrollees and
+the measure of access are too broad to observe
+the effects of these policies. For example, co-
+payments and dispensing limits may affect
+only the very heaviest users of prescription
+drugs (of which there may be too few in the
+sample to affect the overall results), whereas
+step therapy applies to a relatively small num-
+ber of drug classes.
+M a r k e t W a t c h
+H E A LT H A F F A I R S ~ Vo l u m e 2 4 , N u m b e r 3 7 8 7
+"Policymakers should
+examine whether
+these cost
+containment policies
+are inadvertently
+restricting access to
+needed medications
+through bureaucratic
+obstacles."
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+Discussion
+From the perspective of Medicaid enrollees,
+states' efforts to contain the rising costs of pre-
+scription drugs are having negative effects on
+their access to prescription drugs. Although it
+is not possible with the general measure of ac-
+cess used in this study to distinguish between
+essential and nonessential medications, previ-
+ous research on the effects of copayments and
+prior authorization have shown negative ef-
+fects on use of prescription drugs across a
+wide range of therapeutic categories, includ-
+ing those considered "essential."16 That these
+access problems are particularly high for peo-
+ple with chronic conditions--which include a
+disproportionately high number of Medicaid
+enrollees--also suggests that there is unmet
+need for at least some essential medications.
+Ongoing increases in Medicaid prescrip-
+tion drug costs and strained state budgets
+mean that cost containment policies will
+likely continue and even increase in states that
+have so far been less aggressive. Rolling back
+these policies is probably unrealistic given the
+magnitude of Medicaid spending on state
+budgets, especially when most private insur-
+ance plans are trying to contain costs through
+greater enrollee cost sharing, preferred drug
+lists, and incentives to use generics. Rather,
+policymakers should examine whether these
+cost containment policies are inadvertently re-
+stricting access to needed medications
+through bureaucratic obstacles or lack of
+awareness among Medicaid enrollees and pro-
+viders as to how to navigate the often complex
+processes of obtaining approval to use certain
+drugs.
+For example, pharmacists are not permit-
+ted by law to deny prescriptions to Medicaid
+enrollees even if they cannot pay the copay-
+ment, although research has shown that many
+pharmacists have poor knowledge of these re-
+quirements and often collect copayments
+when it is inappropriate to do so (for example,
+from children under age eighteen).17 Also, prior
+authorization programs in particular vary con-
+siderably across states, in terms of both the
+number and the types of medications that are
+subject to preauthorization as well as the pro-
+cesses that are established for obtaining au-
+thorization for a medication. Although this
+study suggests that prior authorization has re-
+sulted in reduced access, more intensive case
+studies of state programs reveal considerable
+variation in how they operate as well as the
+level of difficulty enrollees and their physi-
+cians have in obtaining approval.18
+Identifying the exact mechanisms by which
+the various cost containment policies affect
+access was not possible in this analysis be-
+cause of the relatively small samples, the gen-
+eral measure of access, and difficulty in devel-
+oping more detailed classifications of state
+policies based on available data. Further evalu-
+ation and monitoring of the effects of cost con-
+tainment policies on access at the state level
+are key to successful implementation and
+streamlining of these policies.
+Ensuring that cost containment policies do
+not inadvertently harm access to necessary
+medications is especially important given the
+high need for prescription medications among
+Medicaid enrollees as well as their lower abil-
+ity to use their own resources to make up for
+any shortfall.
+ThisresearchwassupportedbytheRobertWood
+JohnsonFoundationthroughitssupportoftheCenter
+forStudyingHealthSystemChange.Theauthorthanks
+PaulGinsburg,LenNichols,andJimReschovskyfor
+providinghelpfulcomments,andEllenSingerofSocial
+andScientificSystemsforexcellentprogramming
+assistance.
+NOTES
+1. B. Bruen and A. Ghosh, Medicaid Prescription Drug
+Spending and Use (Washington: Kaiser Commis-
+sion on Medicaid and theUninsured, June2004).
+2. J.S. Crowley, D. Ashner, and L. Elam, MedicaidOut-
+patient Prescription Drug Benefits: Findings from a Na-
+tional Survey, 2003 (Washington: Kaiser Commis-
+sion, 2003).
+3. Ibid.
+4. C.E. Reeder and A.A. Nelson, "The Differential
+Impact of Copayment on Drug Use in a Medicaid
+Population," Inquiry 22, no. 4 (1985): 396­403; B.
+Stuart and C. Zacker, "Who Bears the Burden of
+Medicaid Drug Copayment Policies?" Health Af-
+fairs 18, no. 2 (1999): 201­212; S. Soumerai et al.,
+"Payment Restrictions for Prescription Drugs
+7 8 8 M a y / J u n e 2 0 0 5
+H e a l t h T r a c k i n g
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+under Medicaid: Effects on Therapy, Cost, and
+Equity," New England Journal of Medicine 317, no. 9
+(1987): 550­556; and A.A. Nelson, C.E. Reeder,
+and W.M. Dickson, "The Effect of a Medicaid
+Drug Copayment Program on the Utilization
+and Cost of Prescription Services," Medical Care
+22, no. 8 (1984): 724­736.
+5. P.J. Cunningham, Affording Prescription Drugs: Not
+Just a Problem for the Elderly (Washington: Center
+forStudying HealthSystemChange, April2002).
+6. R. Strouse, B. Carlson, and J. Hall, Community
+Tracking Study: Household Survey Methodology Report
+2000­01 (Round Three), Technical Publication no.
+46, July 2003, www.hschange.com/CONTENT/
+602/602.pdf (16 February 2005).
+7. Crowley et al., Medicaid Outpatient Prescription Drug
+Benefits; and R. Schwalberg et al., Medicaid Outpa-
+tientPrescriptionDrugBenefits:FindingsfromaNational
+Survey and Selected Case Study Highlights (Washing-
+ton: Kaiser Commission, October 2001).
+8. A notable exclusion from these five policies is the
+use of preferred drug lists (PDLs), which are ex-
+cluded because they were ascertained in the 2003
+Kaiser Family Foundation survey but not the
+2000 survey, whereas the five policies included in
+the analysis were ascertained in both surveys.
+PDLs are in many ways a variant of prior authori-
+zation (prior authorization is needed for drugs
+not on the list), and therefore the exclusion is un-
+likely to have any major effects on results. In fact,
+separate analyses of 2003 data only (based on the
+methodology described below) did not find any
+independent effect of PDLs on prescription drug
+access.
+9. In some states, the use of generics is encouraged
+(but not required) through the use of differential
+copayments, differential dispensing fees, and
+provider education. The measure in this study re-
+flects only states that require generics as the
+most restrictive form of cost containment poli-
+cies.
+10. Adjusted means were computed from ordinary
+least squares (OLS) regression using the 2003
+survey data, with access as the dependent vari-
+able and insurance coverage and other individual
+characteristics as independent variables.
+11. Although a probit or logistic regression is nor-
+mally used when the dependent variable is bi-
+nary, OLS regression was used in this analysis be-
+cause the coefficients reflected linear probabili-
+ties and were therefore easier to interpret. Re-
+sults from a logistic regression analysis produced
+very similar results.
+12. The analysis focused on comparing states that
+have implemented four or five policies with
+states that implemented three or fewer. There
+were too few states that had implemented no
+policies to analyze separately, and earlier versions
+of the analysis show that there were no differ-
+ences in access between states with two or fewer
+policies and states with three policies.
+13. Dual eligibles are people who are eligible for both
+Medicaid and Medicare. Binary variables for each
+state were included to control for all other state-
+level factors that could potentially confound the
+effects of cost containment policies on prescrip-
+tion drug access. A similar indicator for survey
+year was included to account for all other secular
+changes in access not accounted for by the vari-
+ables in the model.
+14. J.F. Hoadley, L.E. Felland, and A.B. Staiti, Federal
+Aid Strengthens Health Care Safety Net: The Strong Get
+Stronger, Issue Brief no. 80 (Washington: HSC,
+April 2004).
+15. J. Tilly and L. Elam, Prior Authorization for Medicaid
+PrescriptionDrugsinFiveStates:LessonsforPolicyMak-
+ers (Washington: Kaiser Commission, April
+2003).
+16. Soumerai et al., "Payment Restrictions"; and
+Reeder and Nelson, "The Differential Impact of
+Copayment."
+17. C. Fahlman, B. Stuart, and C. Zacker, "Commu-
+nity Pharmacist Knowledge and Behavior in Col-
+lecting Drug Copayments from Medicaid Recipi-
+ents," American Journal of Health System Pharmacy 58,
+no. 5 (2001): 389­395.
+18. Tilly and Elam, PriorAuthorization.
+M a r k e t W a t c h
+H E A LT H A F F A I R S ~ Vo l u m e 2 4 , N u m b e r 3 7 8 9
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+

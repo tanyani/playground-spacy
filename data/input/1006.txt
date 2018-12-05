@@ -1,0 +1,1068 @@
+Unmet Need for Personal Assistance Services:
+Estimating the Shortfall in Hours of
+Help and Adverse Consequences
+Mitchell P. LaPlante, H. Stephen Kaye, Taewoon Kang, and Charlene Harrington
+Disability Statistics Center, University of California, San Francisco.
+Objectives. Perceived unmet need for personal assistance services (PAS) in activities of daily living (ADLs) and
+instrumental ADLs and its association with reduced hours of help received and with adverse consequences due to lack of
+help are examined for adults aged 18 and older using data from the 1994­1997 National Health Interview Survey on
+Disability.
+Methods. A two-part multivariate regression model of the probability of PAS use and hours of help received was
+developed to control for need level, living arrangements, and other characteristics that may differ between persons with
+met and unmet needs and to determine the shortfall in hours associated with unmet need.
+Results. Individuals with unmet need for personal assistance with two or more of the five basic ADLs have a shortfall
+of 16.6 hours of help per week compared with those whose needs are met. The relative shortfall is twice as great for
+persons who live alone as for those who live with others. People who live alone and have unmet needs fare worse than
+people with unmet needs who live with others, and both groups are more likely than those whose needs are met to
+experience adverse consequences, including discomfort, weight loss, dehydration, falls, burns, and dissatisfaction with the
+help received.
+Discussion. Overall, just 6.6% of needed hours are unmet among the 3.3 million people needing help in two or more
+ADLs. We estimate the annual cost of eliminating unmet need among persons with incomes under 300% of the
+Supplemental Security Income level between $1.2 and $2.7 billion for those living alone and from $2.2 to $7.1 billion for
+those living with others.
+COMMUNITY-RESIDING adults of all ages with needs
+for personal assistance services (PAS) in daily activities
+are at risk of all or some of their needs being unmet, which can
+reduce their quality of life, compromise safety, and increase
+risks of a number of adverse consequences (Allen & Mor,
+1997; Desai, Lentzner, & Weeks, 2001; Lima & Allen, 2001).
+These include injuries from falls, burns, weight loss, de-
+hydration, discomfort, and other problems that can further
+worsen health and disability and increase risks of institution-
+alization and death. Minimizing unmet need is the primary goal
+underlying long-term care policy.
+PAS refers to human help provided to individuals in specific
+activities that are generally obligatory for bodily maintenance
+and for living in the community, comprising the activities of
+daily living (ADLs; bathing, dressing, transferring from a bed
+or chair, toileting, and eating) and the instrumental activities of
+daily living (IADLs; such as taking medications and shopping
+for groceries). PAS include all help, whether hands-on,
+standby, or supervisory, whether paid or unpaid. Unmet need
+occurs when assistance from others is needed but not provided
+or inadequate.
+There are many causes of unmet need. Over 85% of all of the
+hours of assistance people receive with ADLs and IADLs are
+provided by family and friends (LaPlante, Harrington, & Kang,
+2002). Informal helpers, who may have to balance other
+responsibilities, including work and child care, are often limited
+in the amount of help they can provide. People with low
+informal resources, such as those who live alone, are especially
+likely to have unmet needs and depend largely on formal
+assistance, if affordable and available. Public PAS remain
+biased toward institutional rather than community living
+(Harrington et al., 2000), and people who live in states that
+do not provide enough home- and community-based services
+may be at greater risk of unmet need (LeBlanc, Tonner, &
+Harrington, 2000, 2001; Muramatsu & Campbell, 2002).
+To address the magnitude of the problem of unmet need for
+PAS, it is useful to know what the national prevalence of unmet
+need is, what populations are most at risk, and how much of
+their needs are lacking. Surveys of individuals are convenient
+for measuring unmet need because obtaining professional judg-
+ments on a large scale is prohibitively expensive (Williams,
+Lyons, & Rowland, 1997). The prevalence of survey-
+discovered unmet need lies between one fifth and one third of
+elderly people with PAS needs (Desai et al., 2001; Kennedy,
+2001; Lima & Allen, 2001; Manton, 1989; U.S. General
+Accounting Office, 1988; Williams et al., 1997).
+The need for PAS spans a continuum, measured often by the
+number and type of ADLs a person requires human help with.
+The ADLs define a hierarchy of needs (Katz & Akpom, 1976),
+with dependence in eating defining the most severe need. The
+IADLs define a lesser degree of need for PAS. An important
+measurement issue concerns who determines need. Bradshaw
+(1972) outlined several distinctions in operationally defining
+need: normative need, which is assessed by experts; felt need,
+the level of help the individual feels he or she needs; expressed
+need, the amount of help received or demanded by the
+Journal of Gerontology: SOCIAL SCIENCES Copyright 2004 by The Gerontological Society of America
+2004, Vol. 59B, No. 2, S98­S108
+S98
+individual; and comparative need, disparities in help received.
+Conflict arises between normative and felt need, as when
+a professional feels that institutional placement is warranted but
+the individual may not want it or when the individual wants
+help that a professional will not give. Differences are known to
+exist between professional and self-assessments of need. In one
+study, self-rated ADL disability was greater than that observed
+by professionals (Kelly-Hayes, Jette, Wolf, D'Agostino, & Odel,
+1992). Professionals assess need differently than individuals,
+but neither is necessarily better than the other (Verbrugge &
+Sevak, 2002).
+Certainly, if need is a continuum, then unmet need is also
+a continuum. Some people may lack help entirely, whereas
+others may need just a little more help. A professional may
+judge that a person needs a lot of help when he or she receives
+only a little. Few studies exist comparing self-reports and
+professional assessments of unmet need. One study suggests
+that self-ratings of unmet need may be conservative compared
+with professional ratings of unmet need (Morrow-Howell,
+Proctor, & Rozario, 2001).
+To advance the understanding of unmet need beyond mere
+prevalence, it is useful to know how much help is lacking and
+what the cost might be to address it. Quantifying unmet need
+for PAS in terms of the shortfall in hours of help is an important
+step in that direction. This analysis builds on a prior national
+study estimating hours of PAS received among adults of
+all ages (LaPlante et al., 2002) to examine the relationship of
+hours with unmet need. We define unmet need as the gap be-
+tween felt need and expressed need. We use a large nationally
+representative survey to estimate the shortfall in hours asso-
+ciated with unmet need by comparing the hours of help re-
+ceived by people who report that their needs are met with those
+whose needs are unmet, after controlling for population
+differences in need levels and demographics (comparative
+need). We then estimate the cost of eliminating the unmet-need
+shortfall in hours and demonstrate that unmet need is associated
+with a variety of adverse consequences.
+METHODS
+Sample
+Data are from supplements to the National Health Interview
+Survey (NHIS), a large nationally representative survey of
+households in the United States conducted annually by the
+Census Bureau for the U.S. National Center for Health
+Statistics (U.S. NCHS). Respondents to the 1994 and 1995
+NHIS (94% core response rate) were given a supplemental
+screening questionnaire, known as Phase I of the National
+Health Interview Survey on Disability (NHIS-D; U.S. NCHS,
+1998a, 1998b). The 202,560 respondents of all ages (93%
+Phase I response rate) were screened for disability, using an
+extensive set of criteria including functional limitation, specific
+disabling diagnoses, perception of disability, and use of
+disability-related services. A sample of 32,788 individuals
+was reinterviewed in Phase II (89% Phase II response rate), also
+known as the Disability Followback Survey. Data collection
+began in September 1994 and concluded in April 1997, with
+reinterviews taking place between 7 and 26 months after the
+Phase I interview (normally distributed about the mean of
+14 months). Phase I excluded individuals in nursing homes,
+prisons, and large residential facilities. About 3.1% of the
+eligible adult sample died before follow-up, 3.4% refused, 3.0%
+could not be located, and 1.4% were not interviewed for un-
+known reasons. A small number of respondents moved into
+institutions and, although interviewed, were excluded from this
+analysis (n ¼ 335). The sample for this analysis is restricted to
+adults with met or unmet need for help in any IADL/ADL
+(n ¼ 9,646).
+Measures
+Data from Phase II of the NHIS-D are used to estimate met
+and unmet need for assistance with ADLs/IADLs and to
+estimate hours of paid and unpaid help received. Individuals
+were asked if they were helped in any of 5 ADL and 10 IADL
+activities, including hands-on help, supervision, or stand-by
+help, and whether they needed help or more help (activities
+a person does not do for reasons other than health are
+excluded). Individuals who lacked help or needed more help in
+one or more ADL/IADL activities are defined as having unmet
+need. For each of up to four helpers, the respondent was asked
+(a) how many days the helper helped during the last 2 weeks
+and (b) how many hours per day the helper provided help. The
+two measures were multiplied for each helper, summed over
+helpers, and divided by 2, to yield the total hours received per
+week.
+The survey contains a number of demographic variables that
+are used in this analysis. Age and living arrangement were
+measured in Phase II; gender, race, and individual income were
+measured in the initial interview. A measure of the presence of
+cognitive symptoms (Phase I) was constructed by combining
+affirmative responses on having ``a lot of trouble concentrating
+long enough to complete everyday tasks,'' being ``frequently
+confused, disoriented, or forgetful,'' or having ``Alzheimer's
+disease or another type of senile disorder.'' A second variable
+indicating cognitive impairment was whether the respondent
+had a proxy interview in Phase II because of poor memory,
+senility, confusion, Alzheimer disease, or other mental
+condition.
+Several additional questions were asked about experiencing
+discomfort and other problems when individuals could not do
+activities as frequently as they needed to (Phase II). Additional
+questions were asked about falls, bedsores, contractures,
+dissatisfaction with the person's primary helper, and problems
+of being left alone. In some cases, respondents were asked if the
+problem was caused by a lack of help, thus attributing causality
+to unmet need. This battery yielded 53 measures that we used
+for this study. We expected that people with unmet need would
+be more likely to experience these problems and be more likely
+to be dissatisfied.
+Less than 3% of responses are missing for the ADL need for
+help items and ,6% for the IADL items. Cognitive symptoms
+were missing in ,1% of records. As item nonresponse is
+generally low on these measures, we assume, when it occurs,
+that the individual does not have the characteristic in question.
+Reason for proxy interview was not ascertained for about 20%
+of those with proxy interviews; in these cases, we assume that
+a proxy response was needed for reasons other than cognitive
+ones.
+The data set includes imputation for individual income based
+on a detailed hot deck imputation procedure carried out by the
+UNMET NEED FOR PERSONAL ASSISTANCE SERVICES S99
+University of Michigan Survey Research Center (U.S. NCHS,
+1998a, 1998b). In the sample with a need for help in IADLs/
+ADLs, 33.3% had some income components imputed, the most
+frequent being earnings and interest income.
+The hours data used for the dependent variable included data
+we imputed previously for 19.5% of persons who said they
+were helped in the last 2 weeks but had missing data for the
+number of days or hours per day. We used multiple imputation,
+an iterative approach generally considered the most appropriate
+method when dependent variable data are missing (Crawford,
+Tennstedt, & McKinlay, 1995; Rubin, 1987). Indeed, missing
+hours were not random: Those with missing data were actually
+somewhat less disabled. The imputation involved estimating
+three separate regression models for hours received from paid
+helpers, a primary informal helper, and secondary informal
+helpers. Independent variables included demographics, living
+arrangement, income, Medicare and Medicaid coverage, supply
+of helpers, and IADL and ADL activities the helpers helped
+with. The imputation introduces a random component to the
+regression parameters, based on their estimated variances, and
+the prediction is replicated 10 times to yield a distribution of
+values, which were then averaged and summed over the three
+models to yield imputed total hours (LaPlante et al., 2002).
+The 53 adverse consequence items had low nonresponse,
+generally under 8%, with the exception being three questions
+regarding needing help eating (about 16%) and several satis-
+faction questions (8­15%).
+Analysis Methods
+We employed statistical methods to estimate the shortfall in
+hours associated with unmet need. The hours data are
+nonnormal in two ways: There are some cases with 0 hours
+and some with a high number of hours. Using multivariate
+regression methods, we estimated a two-part model of PAS
+utilization (Duan, Manning, Morris, & Newhouse, 1983),
+which takes into account both types of skewness: The first step
+predicts whether or not any hours of help are received by
+weighted logistic regression, and the second step predicts the
+hours of help among recipients by weighted least-squares
+(WLS) regression, using survey sampling weights in both. In
+the latter, we use the logarithm of hours as the dependent
+variable to eliminate right skewness. Each person's level of
+need is measured by 15 dummy variables for the specific
+IADLs/ADLs they need help with. The log-transformed
+dependent variable in the WLS regression makes the contribu-
+tions of the activities multiplicative rather than additive. That is,
+the logarithm of the total hours received does not equal the sum
+of the logarithms of the hours received for each activity. We
+include a count of multiple activities to correct for this effect, an
+integer equal to the number of activities minus 2, if help is
+needed in two or more activities, or 0 otherwise.
+Four dummy variables measure cognitive difficulties: having
+cognitive symptoms, being unable to manage money, being
+unable to manage medications, and having a proxy interview
+because of a cognitive condition. Living arrangements are
+measured using two dummy variables: living alone and living
+with a spouse, the comparison group being those who live with
+others. To identify individuals with low incomes based on
+Supplemental Security Income (SSI) eligibility criteria, two
+additional dummy variables are included classifying personal
+income at or below 100% of SSI federal benefit rate ($446 per
+month in 1994 and $458 per month in l995 if living alone; $669
+per month in l994 and $687 per month in l995 if living with
+a spouse) and from 101% to 300% of the SSI federal benefit
+rate level, the comparison group being those with incomes
+.300% of the federal benefit rate. Although individuals on
+Medicaid may retain $2,000 in tangible assets, the survey
+questions were not detailed enough to make further distinctions
+on assets. The unadjusted data suggest that unmet need has
+a larger impact among people with two or more ADLs (as
+discussed herein; Table 1), so we wished to test that. We further
+wished to distinguish unmet-need effects by whether people
+live alone or with others. Four dummy variables measure the
+effects of unmet need for four population groups of interest:
+people living alone or living with others and having fewer than
+two or two or more ADL needs. These groups are compared
+with those who have no unmet need. We developed the models
+first introducing unmet need and living arrangements, then level
+of need, and finally, age, race, gender, and income. We deleted
+variables not significant in either model. In the WLS model, we
+ascertained that the model residuals were normally distributed.
+A concern may arise over a potential circularity between the
+measures of unmet need and hours of help received, in that
+unmet need is determined in large part by a perceived shortfall
+in hours. However, the presence of unmet need (needing more
+help in any one activity) does not determine the total hours of
+help received. If there were circularity, hours of help and unmet
+need would be correlated, but they are not (Pearson r ¼ .002,
+p ¼ .79).
+The predicted probability of receiving any help is calculated
+using the exponentiated model parameters from the logistic
+model. To retransform the predictions of the WLS regression
+(predicted logarithm of hours) into a linear scale (predicted
+hours), we exponentiate the model prediction and multiply by a
+retransformation or ``smearing'' factor (Duan, 1983; Duan et al.,
+1983), obtained by averaging the exponentiated residuals.
+Heteroscedasticity across populations requires separate smear-
+ing factors (Manning, 1998). We observe smaller mean squared
+residuals for people living alone (versus living with others) or
+having two or more ADLs (versus less than two) and calculate
+separate smearing factors for the four populations thus defined.
+We then multiply the predicted probabilities of use by the
+predicted hours of use. Finally, we estimate the predicted hours
+of PAS for those with unmet need, along with their expected
+hours if their unmet need were to be eliminated, by setting the
+relevant unmet need dummy variable to zero. The difference in
+expected hours represents an estimate of the shortfall in hours,
+the hours that would be required to fulfill the person's needs.
+The weekly shortfall is multiplied by 52 weeks to obtain an
+annual estimate (which is allowable because the survey is
+conducted continuously). PAS costs are assumed to be $10 per
+hour on average, based on average state Medicaid reimburse-
+ment data for PAS collected from a survey of state officials in
+l998­1999 (LeBlanc et al., 2000, 2001). Finally, we use a boot-
+strap procedure (resampling with replacement) to calculate 95%
+confidence intervals around the estimated cost.
+We hypothesized that the percentage of people experiencing
+adverse consequences would be greater on every measure for
+those with unmet versus met need, which we tested using a one-
+tailed t test. Because the estimates are based on a sample of the
+LAPLANTE ET AL.
+S100
+population, they are subject to sampling error. All estimates are
+calculated using sampling weights, and sampling errors have
+been calculated directly using STATA survey data commands
+(Stata Corp., 2003), which take into account the geographic
+clustering of the sample design by Taylor series approximation.
+RESULTS
+About 15.1 million community-residing adults need help in
+1 of the 15 IADLs and ADLs, 21.4% of whom have unmet
+need (Table 1). The percentage with unmet need is lowest for
+those who need help only in IADLs (18.3%) and generally
+increases with higher numbers of ADLs, from 23.6% with one
+ADL need to 34.6% at four ADLs, but declines to 25.9% at five
+ADLs. Most people with unmet need get some help but do not
+get all the help they need. We find that only 545,000 adults
+of the 3.2 million with unmet need receive no help at all,
+a population with a low level of disability, mostly needing help
+in IADLs only, and in particular the single activity of heavy
+housework (not shown). For most people with unmet need, the
+issue is not whether they get help, but how much help they get.
+Relationship of Unmet Need to Hours of Help
+We expect that people with unmet need would have fewer
+hours of help than those whose needs are met. We find only
+a small difference in the mean hours of help received between
+those with unmet versus met need among people who need help
+with just IADLs or only one ADL (,2 hours per week) but
+large and highly significant differences for those needing help
+in two or more ADLs. This group amounts to 949,000 people--
+almost a million--with perceived unmet need, who average
+16.1 fewer hours per week than those whose needs are met (see
+Table 1). Persons with unmet needs have fewer hours for each
+number of ADLs above one that they need help with, and the
+differences in mean hours are statistically significant for those
+needing help in two, three, or five ADLs. If we combine those
+with two or more ADLs, there is a large significant difference in
+mean hours for those with unmet needs, but not for those with
+fewer than two ADLs.
+These differences in mean hours received, however, might
+be due to differences between the met-need and unmet-need
+populations with respect to level of need and other individual
+characteristics that influence the amount of help received. We use
+multivariate methods to control for such differences to estimate
+the true shortfall among people with unmet need for PAS.
+Estimating the Unmet-Need Shortfall in Hours
+The sample means and standard deviations are shown in
+Table 2 for variables tested in the regressions, contrasting those
+with and without unmet need. Adults with unmet need are less
+likely to get help but receive about the same average hours
+when they do get help. They are more likely than those with no
+unmet need to be non-White, to be female, and to live alone.
+They are less likely to live with a spouse, have a greater number
+of ADLs and IADLs, are more likely to have cognitive symp-
+toms but less likely to have a proxy interview for cognitive or
+other reasons, and are slightly more likely to have incomes
+below 100% of the SSI level.
+Results from the regression models are shown in Table 3.
+Both models are highly significant. All the specific IADLs/
+ADLs that individuals need help with are associated with
+Table 1. Adults Needing Help in IADLs or ADLs and Hours of Help Received per Week, by Perceived Unmet Need for Help and Number of ADLs: United States, 1994­1997
+Total With Unmet Need With Met Need Difference in
+No. of ADLs
+Sample
+Size
+Persons
+(1,000s)
+Median
+Hours
+Mean
+Hours
+Mean
+SE
+Sample
+Size
+Persons
+(1,000s)
+% of Total
+Persons
+Median
+Hours
+Mean
+Hours
+Mean
+SE
+Sample
+Size
+Persons
+(1,000s)
+% of Total
+Persons
+Median
+Hours
+Mean
+Hours
+Mean
+SE
+Median
+Hours
+Mean
+Hours
+0 6,153 9,650 5 12.8 0.43 1,137 1,768 18.3 2 11.9 1.62 5,016 7,883 81.7 6 13.0 0.43 ÿ4 ÿ1.1
+1 1,358 2,127 13 25.6 1.23 335 503 23.6 11 24.1 2.67 1,023 1,624 76.4 13 26.1 1.44 ÿ2 ÿ1.9
+2 718 1,109 21 40.7 2.40 204 303 27.3 14 28.5 2.94 514 806 72.7 25 45.3 3.06 ÿ11 ÿ16.8**
+3 486 746 33 55.2 3.16 150 213 28.6 21 40.3 5.69 336 533 71.4 40 61.2 3.91 ÿ19 ÿ20.9**
+4 447 684 53 76.2 3.77 162 237 34.6 42 70.0 6.56 285 447 65.4 56 79.6 4.67 ÿ14 ÿ9.6
+5 484 750 104 112.0 3.78 131 194 25.9 84 99.8 8.01 353 556 74.1 108 116.2 4.27 ÿ24 ÿ16.5*
+0 or 1 7,511 11,777 6 15.1 0.47 1,472 2,270 19.3 3 14.6 1.55 6,039 9,507 80.7 7 15.3 0.48 ÿ4 ÿ0.6
+2 2,135 3,289 41 67.6 1.90 647 949 28.9 28 56.2 2.93 1,488 2,341 71.2 48 72.3 2.20 ÿ20 ÿ16.1**
+Total 9,646 15,066 8 26.6 0.70 2,119 3,219 21.4 7 26.9 1.56 7,527 11,848 78.6 8 26.5 0.66 ÿ1 0.3
+Notes: IADL ¼ instrumental activity of daily living; ADL ¼ activity of daily living. Data source: 1994­1997 National Health Interview Survey on Disability.
+*p , .05, **p , .01, based on one-tailed t test.
+UNMET NEED FOR PERSONAL ASSISTANCE SERVICES S101
+a higher likelihood of getting help, except toileting, and all are
+associated with more hours of help. The count of multiple
+activities and its square are significantly negative in both
+models, making a negative adjustment to the chance of getting
+help and hours of help the more activities a person needs help
+with. Cognitive symptoms have no relation to getting help but
+are associated with more hours of help received. Proxy or
+assisted interviews because of cognitive impairment have
+a higher likelihood of getting help and more hours of help.
+Proxy interviews for reasons other than cognitive impairment
+have higher hours. Independent of measured need, neither
+being non-White nor being older is associated with the odds of
+getting help, but both are associated with higher hours among
+those who get help, as is individual income below 300% of the
+SSI level. Living alone has a large negative relation with
+getting help and with hours.
+Now we consider the effects of unmet need, which is
+measured within four groups of interest. Among people with
+less than two ADLs who live with others, unmet need is
+associated with lower odds of getting help but has no relation to
+hours (see Table 3). Among people with less than two ADLs
+who live alone, unmet need is associated with lower odds of
+getting help and fewer hours of help received. Among those
+with two or more ADLs who live with others, unmet need is not
+related to getting help but is associated with fewer hours.
+Among those who live alone and have two or more ADLs,
+unmet need is associated with a lower odds of getting help and
+fewer hours. The combined effect of unmet need is largest
+among people who live alone.
+In Table 4, the shortfall in hours estimated by the regression
+models is shown for people with two or more ADLs who have
+unmet need, by living arrangement and income level. As
+explained in Analysis Methods, the estimated shortfall is the
+model prediction of the difference between needed and received
+hours. Overall, people needing help in two or more ADLs and
+reporting unmet need receive 56.2 hours of help and are
+Table 2. Weighted Means and Standard Deviations for Selected Variables Among Persons Needing Assistance in IADLs or ADLs
+Total
+(N ¼ 9,646)
+With Met Need
+(n ¼ 7,527)
+With Unmet Need
+(n ¼ 2,119)
+Variable M SD M SD M SD
+Receives any hours of help ¼ 1 0.82 0.39 0.84 0.36 0.73 0.44
+Hours (range 0­504) 26.60 60.44 26.54 59.14 26.86 64.84
+Natural log of hours (for hours . 0, range ÿ0.69­6.2) 2.55 1.77 2.52 1.77 2.68 1.75
+Non-White ¼ 1 0.17 0.47 0.16 0.46 0.21 0.50
+Female ¼ 1 0.64 0.60 0.63 0.61 0.70 0.56
+Age (range 18­99 years) 61.40 23.14 61.67 23.36 60.41 22.31
+Living with spouse ¼ 1 0.44 0.62 0.46 0.63 0.36 0.59
+Living alone ¼ 1 0.25 0.54 0.22 0.52 0.35 0.59
+Needs more help 0.21 0.51 0.00 0.00 1.00 0.00
+,2 ADLs and lives with others = 1 0.09 0.36 0.00 0.00 0.43 0.61
+,2 ADLs and lives alone = 1 0.06 0.30 0.00 0.00 0.28 0.55
+2 ADLs and lives with others = 1 0.05 0.27 0.00 0.00 0.23 0.51
+2 ADLs and lives alone = 1 0.01 0.15 0.00 0.00 0.07 0.31
+Needs help with specific activities
+Bathing or showering = 1 0.29 0.57 0.27 0.56 0.36 0.59
+Dressing = 1 0.22 0.51 0.20 0.50 0.28 0.55
+Transferring (from bed or chair) = 1 0.18 0.48 0.16 0.45 0.26 0.54
+Toileting (using or getting to the toilet) = 1 0.11 0.39 0.10 0.37 0.15 0.44
+Eating = 1 0.08 0.33 0.07 0.32 0.10 0.37
+Walking = 1 0.23 0.52 0.20 0.50 0.32 0.57
+Getting outside = 1 0.25 0.54 0.23 0.53 0.32 0.57
+Preparing meals = 1 0.31 0.58 0.29 0.57 0.38 0.60
+Shopping for groceries = 1 0.48 0.62 0.47 0.63 0.54 0.61
+Managing money = 1 0.19 0.49 0.19 0.49 0.21 0.50
+Using the phone = 1 0.10 0.37 0.09 0.36 0.11 0.38
+Doing light housework = 1 0.31 0.58 0.28 0.56 0.43 0.61
+Getting to places outside the home = 1 0.45 0.62 0.42 0.62 0.53 0.62
+Managing medications = 1 0.18 0.48 0.17 0.48 0.19 0.48
+Doing heavy housework = 1 0.70 0.57 0.68 0.59 0.79 0.50
+Multiple activities (range 0­13) 2.38 4.23 2.17 4.11 3.18 4.49
+Cognitive symptoms ¼ 1 0.20 0.50 0.20 0.50 0.24 0.53
+Cannot manage medications ¼ 1 0.10 0.37 0.10 0.38 0.09 0.34
+Cannot manage money ¼ 1 0.08 0.33 0.08 0.34 0.07 0.31
+Proxy or assisted interview due to cognitive condition ¼ 1 0.13 0.42 0.14 0.43 0.10 0.37
+Proxy interview for other reason ¼ 1 0.08 0.33 0.08 0.35 0.05 0.27
+Individual income below 100% SSI level ¼ 1 0.25 0.54 0.24 0.53 0.29 0.56
+Individual income above 100% and below 300% SSI level ¼ 1 0.46 0.62 0.46 0.63 0.46 0.61
+Individual income below 300% SSI level ¼ 1 0.71 0.57 0.70 0.58 0.75 0.53
+Notes: IADL ¼ instrumental activity of daily living; ADL ¼ activity of daily living; SSI ¼ Supplemental Security Income. Source: 1994­1997 National Health
+Interview Survey on Disability.
+LAPLANTE ET AL.
+S102
+estimated to need an additional 16.6 hours of help per week.
+Those living alone receive 24.1 hours of help and need an
+additional 18.7 hours, a relative shortfall of 43.7% of their total
+needed hours. Those who live with others receive substantially
+more help (66.1 hours) but need an additional 16.0 hours; their
+relative shortfall is a more modest 19.5%. People with fewer
+than two ADLs with unmet need are omitted owing to their
+relatively small shortfall (4 hours) and lesser policy import.
+Cost of Eliminating Unmet Need
+We made a simple estimate of the cost of eliminating the
+shortfall in hours among people with low income (below 300%
+of the SSI eligibility level) who live alone and have perceived
+unmet need. The calculation is based on what it would cost to
+supply enough paid hours annually to eliminate the gap in
+weekly hours associated with unmet need. We assumed paid
+helpers would receive an hourly rate of $10. This comes to
+about $1.9 billion annually for the 195,000 people with
+incomes below 300% of the SSI level (see Table 4) who live
+alone, and the 95% confidence interval is from $1.2 to $2.7
+billion. The cost of eliminating the shortfall in hours associated
+with unmet need among the half-million people with low
+income who live with others comes to about $4.7 billion; the
+95% confidence interval is from $2.2 to $7.1 billion.
+Negative Consequences of Unmet Need
+and Dissatisfaction
+Even people whose needs are usually met can experience
+adverse consequences owing to lack of help, if a helper is not
+available at the right time and place, or if the quality of help
+is inadequate. But we would generally expect people with
+perceived unmet needs to have a higher frequency of adverse
+experiences. For all comparisons where a significant difference
+is observed, people with unmet needs have a higher rate of
+Table 3. Results From Multivariate Regression Models Predicting the Probability of Receiving Help and Hours of Help Received Among
+Adults Needing Assistance in IADLs or ADLs
+Probability of Receiving
+Help (Logistic Model)
+Hours per Person
+Receiving Help (WLS Model)
+Independent Variable b SE b SE
+Intercept 0.0464 0.171 1.0360** 0.078
+Non-White ¼ 1 ÿ0.0958 0.095 0.1312** 0.041
+Age (range 18­99 years) ÿ0.0001 0.002 0.0020* 0.001
+Lives alone ¼ 1 ÿ0.3509** 0.087 ÿ0.5913** 0.037
+Has 2 ADLs ¼ 1 ÿ0.7012* 0.282 0.0224 0.072
+Needs more help
+,2 ADLs and lives with others = 1 ÿ1.0793** 0.102 ÿ0.0826 0.058
+,2 ADLs and lives alone = 1 ÿ1.4616** 0.133 ÿ0.3430** 0.065
+2 ADLs and lives with others = 1 0.0207 0.249 ÿ0.2197** 0.056
+2 ADLs and lives alone = 1 ÿ0.8557* 0.344 ÿ0.4889** 0.100
+Needs help with specific activities
+Bathing or showering = 1 1.0589** 0.155 0.5972** 0.057
+Dressing = 1 0.9555** 0.199 0.5579** 0.069
+Eating = 1 0.9366** 0.245 0.8817** 0.070
+Transferring (from bed or chair) = 1 0.4935** 0.171 0.4681** 0.065
+Toileting (using or getting to the toilet) = 1 0.0589 0.262 0.8838** 0.068
+Walking = 1 0.9181** 0.161 0.6348** 0.057
+Getting outside = 1 0.7146** 0.166 0.6499** 0.060
+Preparing meals = 1 0.8415** 0.140 0.8380** 0.055
+Shopping for groceries = 1 0.9635** 0.112 0.4509** 0.045
+Managing money = 1 0.6534** 0.155 0.4202** 0.058
+Using the phone = 1 0.6671** 0.193 0.6172** 0.066
+Doing heavy housework = 1 0.7847** 0.117 0.2753** 0.051
+Doing light housework = 1 0.6374** 0.119 0.6333** 0.050
+Getting to places outside the home = 1 1.2100** 0.124 0.5794** 0.050
+Managing medications = 1 0.8828** 0.188 0.7460** 0.060
+Multiple activities (range 0­13) ÿ0.3979** 0.122 ÿ0.3194** 0.047
+Multiple activities squared ÿ0.0152** 0.005 ÿ0.0121** 0.001
+Cognitive symptoms ¼ 1 0.0127 0.087 0.0738* 0.033
+Proxy or assisted interview due to cognitive condition ¼ 1 0.6925** 0.190 0.3756** 0.047
+Proxy interview for other reason ¼ 1 ÿ0.2374 0.139 0.2328** 0.055
+Individual income below 300% SSI level ¼ 1 0.0622 0.070 0.0701* 0.030
+Sample size 9,646 7,886
+Weighted n (1,000s) 15,066 12,274
+v2/F statistic ,0.0001 ,0.0001
+Pseudo R2/adjusted R2 0.172 0.485
+Notes: IADL ¼ instrumental activity of daily living; ADL ¼ activity of daily living; WLS ¼ weighted least-squares; SSI ¼ Supplemental Security Income. Data
+source: 1994­1997 National Health Interview Survey on Disability.
+*p , .05, **p , .01, based on two-tailed t test.
+UNMET NEED FOR PERSONAL ASSISTANCE SERVICES S103
+adverse consequences. Of individuals who need help with two
+or more ADLs, those with unmet needs have significantly
+greater probability of adverse consequences than those whose
+needs are met on 29 of 34 measures tested (Table 5). These
+measures include discomfort, distress, mobility restriction,
+doing activities oneself that the person needs help with, and
+more serious concerns such as going hungry, running out of
+food, getting burned, unintentional weight loss, and dehydra-
+tion. Many of these measures specifically attribute lack of help
+as the cause of the events, such as going hungry because no
+help was available to eat.
+People with unmet needs also experience a variety of
+secondary conditions (Table 6) at rates significantly higher than
+those whose needs are met, including falls and injuries due to
+falls, bedsores, and contractures. Of those with unmet needs,
+51% attributed their falls to lack of help in getting around or
+inability of their helper to prevent their falling compared with
+32% of those whose needs are met. People with unmet need are
+much less satisfied with their primary helper's availability and
+the amount of assistance they give as well as other aspects of
+their helping abilities, and they are more likely to be left alone
+and to lack backup helpers.
+We stratified by whether individuals lived alone or with
+others, and within each group, we tested for differences
+between those with unmet versus met needs. Among people
+living with others, we found that those with unmet needs were
+significantly more likely to report problems on 44 of the 53
+measures tested (see Tables 5 and 6). Among people who live
+alone, those with unmet needs were significantly more likely to
+have problems on 38 of the 53 measures tested. Many of these
+differences are alarmingly large. In particular, people who live
+alone and have unmet need are 10 times as likely to go hungry
+because no one is available to help them eat as those whose
+needs are met (24.5% versus 2.1%), 20 times more likely to
+miss a meal because of lack of help with shopping (15.3%
+versus 0.7%), and 5 times as likely to lose weight un-
+intentionally (52.2% versus 10.0%). On 24 measures, people
+who live alone and have unmet needs are significantly more
+likely to have problems than those who live with others and
+have unmet needs (opposite of expected, having a weak helper
+was significantly lower). Finally, of those whose needs are met,
+those who live alone have similar rates of adverse consequences
+to those who live with others: Only 8 measures were
+significantly different. Thus, people who live alone and have
+unmet needs fare worse than people with unmet needs who live
+with others, but both have higher risk of adverse consequences
+than those whose needs are met. If needs are met, rates of
+adverse consequences and dissatisfaction are comparable
+between those living alone or with others.
+DISCUSSION
+Unmet need is prevalent among adults of all ages who have
+substantial needs for PAS. About 29% of adults needing help in
+two or more of the five basic ADLs need more help than they
+receive. In a society where 85% of hours of help come from
+family and friends (LaPlante et al., 2002), the problem of unmet
+need for PAS is magnified among people who live alone, 45%
+of whom have unmet need, compared with 26% of those who
+live with others. This study demonstrates that an association
+exists between perceived unmet need and reduced hours of
+help, independent of level of disability, race, age, and income
+level. People who live alone and have unmet need (almost
+a quarter-million people) are estimated to lack 18.7 hours of
+help per week (95% confidence interval = 12.3­25.1) or 44% of
+the hours they need. Those with unmet needs who live with
+Table 4. Estimated Shortfall in Hours of Help per Week for Adults With Two or More ADLs Needing More Help, by Living
+Arrangement and Income
+Cost of Eliminating Shortfall
+in Hours ($ Billion/Year)
+Living Arrangement and
+Income Level
+Persons
+(000s)
+Hours
+Received
+Hours
+Shortfall SE
+Shortfall
+(%)a
+Cost
+Estimate SE 95% CI
+Total 948 56.2 16.6 3.5 22.9 8.2 1.8 4.7­11.7
+Living with others 724 66.1 16.0 4.2 19.5 6.0 1.6 2.8­9.3
+Living alone 224 24.1 18.7 3.2 43.7 2.2 0.4 1.3­3.0
+Income level and living arrangement
+,300% SSI 724 59.8 17.5 3.5 22.6 6.6 1.4 3.8­9.4
+Living with others 529 72.8 16.9 4.4 18.8 4.7 1.2 2.2­7.1
+Living alone 195 24.7 19.1 3.3 43.7 1.9 0.4 1.2­2.7
+,100% SSI 290 64.4 17.7 3.6 21.5 2.7 0.6 1.5­3.8
+Living with others 215 75.5 16.8 4.4 18.2 1.9 0.5 0.8­2.9
+Living alone 75 32.5 20.2 3.7 38.3 0.8 0.2 0.4­1.1
+100­300% SSI 435 56.8 17.4 3.5 23.4 3.9 0.9 2.2­5.6
+Living with others 315 70.9 16.9 4.4 19.3 2.8 0.8 1.2­4.3
+Living alone 120 19.7 18.4 3.3 48.3 1.2 0.3 0.6­1.7
+.300% SSI 224 44.2 13.9 3.4 23.9 1.6 0.4 0.8­2.5
+Living with others 195 47.8 13.6 3.7 22.2 1.4 0.4 0.6­2.2
+Living alone 29 20.2 16.0 3.7 44.2 0.2 0.1b 0.1­0.4
+Notes: ADL ¼ activity of daily living; CI ¼ confidence interval; SSI ¼ Supplemental Security Income. Data source: 1994­1997 National Health Interview Sur-
+vey on Disability.
+aShortfall as % of needed hours (shortfall/shortfall þ hours received).
+bEstimate has low statistical precision (SE exceeds 30%).
+LAPLANTE ET AL.
+S104
+others lack 16.0 hours per week (95% confidence interval =
+7.7­24.4) or 20% of the hours they need.
+Unmet need is not a measure of individuals' insatiable
+demands for more help. The data confirm that unmet need is
+associated with higher rates of adverse consequences on 48 of
+53 measures tested, including discomfort, going hungry, losing
+weight, dehydration, falls, injuries due to falls, burns, and dis-
+satisfaction, at much higher rates than those whose needs are
+met, particularly for people who live alone. These are serious
+problems that compromise the safety, comfort, and hygiene of
+individuals with unmet needs, reducing their ability to live
+independently and increasing their risk of institutionalization
+Table 5. Prevalence of Adverse Consequences Associated With or Attributed to Lack of Help Among Adults Needing Help With
+Two or More ADLs, by Living Arrangement and Unmet Need: United States, 1994­1997
+Total Living Alone Living With Others
+Measure
+N
+(1,000s)
+Met
+Needs
+(%)
+Unmet
+Needs
+(%)
+N
+(1,000s)
+Met
+Needs
+(%)
+Unmet
+Needs
+(%)
+N
+(1,000s)
+Met
+Needs
+(%)
+Unmet
+Needs
+(%)
+ADLs
+Person needs help bathing or showering
+Does not receive a complete bath daily 2,950 54.6 59.9* 442 60.5 71.4**þþ 2,508 53.9 56.3
+Does not receive a partial bath daily 2,685 53.2 56.3 418 50.3 58.1 2,267 53.6 55.7
+Does not receive a complete or partial bath daily 2,671 25.5 29.8* 412 27.8 39.3**þþ 2,260 25.2 26.8
+Discomfort due to not bathing often enough in last month 2,865 12.0 34.6** 438 13.0 44.3**þþ 2,427 11.9 31.4**
+Burned or scaled by hot water in last month 2,931 1.2 2.5* 444 1.5 1.5 2,487 1.2 2.8*
+Person needs help dressing
+Does not get dressed for the day every day 2,789 17.3 20.2 404 21.0 17.8 2,385 16.8 20.8*
+If does not get dressed, does not change night clothes every day 493 48.2 61.5* 75 52.7 83.5**þþ 418 47.5 55.8
+Discomfort due to not changing clothes often enough in last month 2,699 5.7 15.9** 398 7.0 22.6**þ 2,301 5.5 13.9**
+Person needs help eating
+Went hungry owing to lack of help eating in last month 916 4.2 14.5** 114 2.1 24.5**þþ 802 4.4 12.3**
+Lost weight in last month (unintentionally) 877 14.1 32.0** 103 10.0 52.2** 775 14.9 28.0**
+Been dehydrated in last month 903 4.6 11.8** 102 7.0 17.3 801 4.3 10.8*
+Person needs help getting in or out of bed or chair
+Stays in bed most of the time 2,142 19.2 22.5 272 20.8 18.3 1,870 19.1 23.5*
+Stays in a chair most of the time 1,699 59.2 57.7 224 60.1 68.1þ 1,475 59.1 55.0
+Does not get out of bed every day 1,706 0.9 1.8 224 0.8 2.5 1,482 0.9 1.6
+Person needs help using the toilet and getting to the toilet
+Discomfort due to not being helped toileting as needed in last month 1,448 9.4 27.3** 206 10.5 37.7**þ 1,242 9.2 24.9**
+Wet or soiled self because of lack of help toileting in last month 1,448 14.5 29.7** 199 23.1 42.1*þ 1,249 13.4 26.8**
+Skin problems because of soiling in last month 267 19.9 36.8** 61 25.6 31.6 206 18.5 38.7**
+Used a bedpan or commode because of lack of help in last month 1,475 5.2 19.5** 202 4.0 23.8** 1,273 5.4 18.5**
+IADLs
+Person needs help walking
+Does not move around the house as desired 2,074 45.5 51.6* 290 40.5 54.3* 1,785 46.0 50.8
+Person needs help preparing meals
+Went hungry owing to lack of help in food preparation in last month 2,011 4.1 18.1** 302 4.3 25.4**þ 1,709 4.1 16.0**
+Unable to follow special diet owing to lack of help cooking in last month 2,028 1.4 12.7** 305 1.9 20.9**þ 1,723 1.4 10.3**
+Unable to eat preferred food owing to lack of help cooking in last month 2,010 3.9 22.4** 304 8.4þ 39.5**þþ 1,706 3.3 17.3**
+Prepares own meals despite needing help 2,569 52.8 69.8** 413 56.3 80.4**þþ 2,156 52.3 66.2**
+Person needs help shopping for groceries and personal items
+Unable to follow special diet owing to lack of help shopping in last month 2,238 0.7 10.9** 360 0.0 19.7**þþ 1,878 0.8 7.9**
+Missed a meal owing to lack of help shopping in last month 2,230 0.4 10.6** 359 0.7 15.3** 1,871 0.3 9.0**
+Does own shopping despite needing help 2,567 48.2 57.2** 395 48.4 53.7 2,172 48.2 58.4**
+Person needs help managing money
+Manages own money despite needing help 2,685 66.1 78.0** 424 68.9 89.1**þþ 2,261 65.7 74.3**
+Person needs help doing heavy housework
+Distress due to clothes going unwashed or house unclean in last month 2,131 12.2 39.4** 335 11.8 38.7** 1,796 12.2 39.6**
+Does own heavy housework despite needing help 2,407 15.5 22.1** 365 12.0 18.9 2,041 16.0 23.2**
+Person needs help doing light housework
+Distress due to dishes going unwashed or house untidy in last month 1,931 14.1 38.9** 298 15.2 40.3** 1,633 14.0 38.4**
+Does own light housework despite needing help 2,629 52.6 61.6** 388 52.6 62.9 2,241 52.6 61.2**
+Person needs help getting places outside of walking distance
+Missed a doctor appointment owing to lack of help in last month 2,303 2.8 12.7** 359 1.9 9.8** 1,944 2.9 13.6**
+Missed going places due to lack of help in last month 2,276 4.8 22.4** 353 5.8 34.2**þþ 1,923 4.7 18.7**
+Ran out of food in last month because person could not get to the store 2,303 0.5 8.1** 359 0.0 12.6** 1,944 0.5 6.7**
+Notes: ADL ¼ activity of daily living; IADL ¼ instrumental ADL. Difference between met and unmet need: *p , .05, **p , .01; difference between living
+alone and living with others: þp , .05, þþp , .01.
+UNMET NEED FOR PERSONAL ASSISTANCE SERVICES S105
+and possibly death. Many of these events are specifically
+attributed by the respondent as resulting from lack of help.
+Inferring causality on other measures lacking such attributions,
+like contractures and bedsores occurring in the last 3 months, is
+hazardous because of the cross-sectional design of the survey.
+The occurrence of such events may have precipitated a need for
+more than the available level of help. Nevertheless, the weight
+of the evidence clearly suggests that unmet need is associated
+with and attributed to much greater adversity.
+Limitations to these findings include the fact that need and
+unmet need are self-reported or proxy reported, whereas pro-
+fessional assessment could yield different results. Hours for
+those whose needs are met are the standard against which the
+unmet-need shortfall is defined, and those hours are likely to be
+influenced by whether they are self-reported, proxy reported, or
+assessed by a professional. Item nonresponse necessitated
+imputation and proxy reporting raised questions of potential
+bias in reporting levels of need, unmet need, and hours.
+However, we determined that results were robust even when
+imputed hours and proxy reports were separately excluded in
+the analysis (results not shown). Nevertheless, professional
+assessment could yield a different estimate of the shortfall.
+Working-age adults account for half the prevalence of met
+and unmet need among those needing help in two or more
+ADLs. We analyzed the working-age population separately and
+found the results robust, although the relative shortfall in
+needed hours is somewhat smaller than for all ages combined
+(18% versus 23%, results not shown). However, unmet need
+among people living alone is more an issue for the elderly,
+because two thirds of those living alone and needing more help
+are age 65 or older. It is notable that both age and being non-
+White have positive relationships to hours received after
+controlling for level of need, which may represent sociocultural
+differences in informal helping.
+Access to paid help is critical for people who live alone
+because they are much more likely to receive paid help than are
+people who live with others (62% versus 24%; p , .001, not
+shown). Of people who live alone, those whose needs are met
+are more likely than those whose needs are unmet to get paid
+help (70.2% versus 50.3%; p , .001, not shown). More than
+half of that paid help is reported to be paid by Medicare or
+Medicaid. Among people living with others, the difference in
+getting paid help by unmet need is much smaller (25.7% versus
+19.4%; p , .001, not shown). Thus, expanding access to paid
+PAS appears crucial in reducing unmet need among those who
+live alone. A limitation of the data is that family helpers were
+not asked if they were paid, which may accentuate differences
+between paid and unpaid help by living arrangement.
+If the estimated shortfall in hours were to be provided
+through public funds, the cost of eliminating unmet need
+among people who live alone with low incomes ranges from
+$1.2 to $2.7 billion, a relatively small amount. However, the
+cost for people who live with others is more than twice as large,
+from $2.2 to $7.1 billion.
+People who live with others get twice as many hours of help
+per person, independent of need and unmet need. Is the lower
+level of help provided to people who live alone a problem?
+Actually, people who live alone and whose needs are met are
+Table 6. Prevalence of Secondary Conditions, Being Left Alone, Availability of Backup Help, and Dissatisfaction With Primary
+Helper Among Adults Needing Help With Two or More ADLs, by Living Arrangement and Unmet Need: United States, 1994­1997
+Total Living Alone Living With Others
+Measure
+N
+(1,000s)
+Met
+Needs
+(%)
+Unmet
+Needs
+(%)
+N
+(1,000s)
+Met
+Needs
+(%)
+Unmet
+Needs
+(%)
+N
+(1,000s)
+Met
+Needs
+(%)
+Unmet
+Needs
+(%)
+Secondary conditions
+Falls in last year 3,251 45.8 55.1** 477 44.9 62.1* 2,774 45.9 53.0**
+More than once 1,550 71.6 82.0** 250 60.1þ 87.5**þ 1,300 73.1 80.1*
+Injured 1,561 55.7 68.8** 249 66.4þ 73.3 1,312 54.4 67.2**
+Because no help getting around or helper could not prevent falling 1,528 32.0 51.1** 239 24.5 64.5**þþ 1,289 32.9 46.5**
+Because of dizziness 1,479 25.1 38.0** 239 18.1 41.4** 1,240 26.0 36.7**
+Bedsores/pressure sores in last 3 months 3,252 6.0 9.1* 482 6.5 9.1 2,770 5.9 9.0*
+Contractures in last 3 months 3,225 21.6 33.6** 470 15.6þ 42.6**þ 2,755 22.3 30.9**
+Being left alone and availability of backup help
+Ever home alone for .2 hr 3,202 49.5 65.5** 466 73.7þþ 96.5**þþ 2,735 46.3 56.6**
+Better not to be left alone 1,574 18.6 39.3** 349 22.5 35.3* 1,225 17.9 41.3**
+No informal helper would take care of person for a few days if needed 3,119 15.5 26.7** 443 19.5 35.8**þþ 2,676 14.9 24.2**
+No informal helper would take care of person for a few weeks if needed 2,457 9.7 14.8** 311 15.5 24.3þ 2,147 9.0 12.6
+Dissatisfaction with primary helper
+Not very satisfied with scheduled hours or availability when needed 2,953 7.6 23.7** 437 9.9 32.9**þþ 2,515 7.3 21.0**
+Not very satisfied with the amount of assistance 2,954 5.9 21.2** 437 10.7þ 26.6**þ 2,517 5.3 19.6**
+Not very satisfied with willingness to do what is asked 2,941 5.5 17.1** 431 10.3þ 16.2 2,510 4.9 17.4**
+Not very satisfied with ability to do what is needed 2,939 5.7 22.0** 435 8.4 21.2** 2,504 5.4 22.2**
+(The following asked only if primary helper not present or helper is related)
+Not very satisfied with reliability 578 9.9 22.0** 273 10.6 23.6* 306 9.5 18.7*
+Not very satisfied with trustworthiness 573 7.8 16.0** 271 8.5 17.4* 302 7.2 13.1
+Not very satisfied with how treated 577 8.0 18.4** 272 10.2 20.2* 306 6.7 14.9*
+Helper not strong enough (only of those with bathing or transfer needs) 2,553 12.0 32.4** 357 3.1þþ 15.9**þþ 2,197 13.2 36.5**
+Notes: ADL ¼ activity of daily living. Difference between met and unmet need: *p , .05, **p , .01; difference between living alone and living with others:
+þp , .05, þ
+þp , .01.
+LAPLANTE ET AL.
+S106
+no more likely to experience adverse consequences than people
+who live with others and have their needs met, which suggests
+that the difference in hours is not a problem. It seems more
+likely that the difference in hours represents a different
+accounting of help received. After all, among people who live
+alone, helpers come in to the home usually with a set of goals to
+be achieved in a limited time. It is a different case when the
+person lives with someone who provides help continuously
+throughout the day. A different accounting does not imply that
+the unmet-need shortfall in hours for people who live with
+others is not real. They do have higher risk of adverse
+consequences when their needs are unmet, although not as
+extreme as for those who live alone.
+There are some problems to be dealt with in reducing unmet
+need for PAS. The potential for greater publicly financed help
+to displace unpaid help has been acknowledged (Kemper, 1992;
+Moscovice, Davidson, & McCaffrey, 1988). Some research
+suggests that paid services complement, rather than substitute
+for, unpaid care (Liu, Manton, & Aragon, 2000). The potential
+substitution effect is much less an issue for people who live
+alone, only one third of whom are helped by children or
+relatives, than it is among people who live with others and have
+unmet needs, of whom about 90% are helped by relatives,
+usually a spouse.
+Greater public provision of help to low-income individuals is
+required to reduce unmet need among those who live alone, but
+it is not the only remedy for those who live with others. Other
+strategies may be considered to increase informal hours for
+those living with others by defraying the personal costs that
+helpers and their families incur, such as providing tax credits
+for helpers, and by other financial incentives to foster more
+informal help. However, these strategies do not focus on unmet
+need and would provide resources to those whose needs are
+already being met (or their caregivers) and who have lower risk
+of adverse consequences than those with unmet need.
+Finally, human help is not always the best solution even for
+those who feel they need it. Trying to eliminate unmet need
+only by fulfilling people's wishes for more human help, without
+considering alternative ways to accomplish activities through
+use of assistive technology (Verbrugge & Sevak, 2002) and
+environmental modification (Lawton, 1982), could result in less
+empowerment, greater learned dependency, and greater societal
+expense.
+Legal precedents such as the Supreme Court's Olmstead
+decision (U.S. Government Accounting Office, 2001) and leg-
+islative initiatives such as the Medicaid Community Attendant
+Services and Supports Act (MiCASSA; Harkin & Spector,
+2001) would enable individuals to live in the least restrictive
+setting they desire. However, such efforts to reduce society's
+reliance on institutions cannot work if individuals' needs are
+not well met in the community.
+Previous research, by looking only at the prevalence of
+unmet need for PAS, creates a false impression that unmet need
+is a large and costly problem to resolve. In fact, only 6.6% of all
+needed hours of help are unmet among adults needing help in
+two or more ADLs. The reduction, if not the elimination, of
+unmet need for PAS is a financially achievable goal for the
+nation and one that long-term care policy should focus on.
+ACKNOWLEDGMENTS
+This research was supported by Grant H133B980045 from the National
+Institute on Disability and Rehabilitation Research.
+Address correspondence to Mitchell P. LaPlante, Disability Statistics
+Center, Institute for Health & Aging, 3333 California St., Rm. 340, San
+Francisco, CA 94118. E-mail: laplant@itsa.ucsf.edu
+REFERENCES
+Allen, S. M., & Mor, V. (1997). The prevalence and consequences of unmet
+need: Contrasts between older and younger adults with disability.
+Medical Care, 35, 1132­1148.
+Bradshaw, J. (1972). A taxonomy of social need. In G. McLachlan (Ed.),
+Problems and progress in medical care (7th ed., pp. 71­82). London:
+Oxford University Press.
+Crawford, S. L., Tennstedt, S. L., & McKinlay, J. B. (1995). A comparison
+of analytic methods for non-random missingness of outcome data.
+Journal of Clinical Epidemiology, 48, 209­219.
+Desai, M. M., Lentzner, H. R., & Weeks, J. D. (2001). Unmet need for
+personal assistance with activities of daily living among older adults.
+The Gerontologist, 41, 82­88.
+Duan, N. (1983). Smearing estimate: A nonparametric retransformation
+method. Journal of the American Statistical Association, 78, 605­610.
+Duan, N., Manning, W., Morris, C., & Newhouse, J. (1983). A comparison
+of alternative models for the demand for medical care. Journal of
+Business and Economic Statistics, 1, 115­126.
+Harkin, T., & Spector, A. (2001). Medicaid Community Attendant Services
+and Supports Act of 2001 (MiCASSA) S. 1298. Washington, DC: U.S.
+Congress.
+Harrington, C., LaPlante, M. P., Newcomer, R. J., Bedney, B., Shostak, S.,
+Summers, P., et al. (2000). A review of federal statutes and regulations
+for personal care and home and community based services: A final
+report. San Francisco: University of California.
+Katz, S., & Akpom, C. A. (1976). A measure of primary sociobiological
+functions. International Journal of Health Services, 6, 493­507.
+Kelly-Hayes, M., Jette, A. M., Wolf, P. A., D'Agostino, R. B., &
+Odel, P. M. (1992). Functional limitations and disability among elders
+in the Framingham Study. American Journal of Public Health, 82,
+841­845.
+Kemper, P. (1992). The use of formal and informal home care by the
+disabled elderly. Health Services Research, 27, 421­451.
+Kennedy, J. (2001). Unmet and undermet need for activities of daily living
+and instrumental activities of daily living assistance among adults with
+disabilities. Medical Care, 39, 1305­1312.
+LaPlante, M. P., Harrington, C., & Kang, T. (2002). Estimating paid and
+unpaid hours of personal assistance services in activities of daily living
+provided to adults living at home. Health Services Research, 37,
+397­415.
+Lawton, M. P. (1982). Competence, environmental press and the adaptation
+of older people. In M. P. Lawton, P. G. Windley, & T. O. Byerts (Eds.),
+Aging and the environment: Theoretical approaches (pp. 33­59). New
+York: Springer.
+LeBlanc, A. J., Tonner, M. C., & Harrington, C. (2000). Medicaid 1915(c)
+home and community based services waivers across the states. Health
+Care Financing Review, 22(2), 159­174.
+LeBlanc, A. J., Tonner, M. C., & Harrington, C. (2001). State Medicaid pro-
+grams offering personal care services. Health Care Financing Review,
+22(4), 155­173.
+Lima, J. C., & Allen, S. M. (2001). Targeting risk for unmet need: Not
+enough help versus no help at all. Journal of Gerontology: Social
+Sciences, 56B, S302­S310.
+Liu, K., Manton, K. G., & Aragon, C. (2000). Changes in home care use by
+disabled elderly persons: 1982­1994. Journal of Gerontology: Social
+Sciences, 55B, S245­S253.
+Manning, W. G. (1998). The logged dependent variable, heteroscedasticity,
+and the retransformation problem. Journal of Health Economics, 17,
+283­295.
+Manton, K. G. (1989). Epidemiological, demographic, and social correlates
+of disability among the elderly. The Milbank Memorial Fund Quarterly,
+57(Suppl. 2, Pt. 1), 13­58.
+Morrow-Howell, N., Proctor, E., & Rozario, P. (2001). How much is
+enough? Perspectives of care recipients and professionals on the suf-
+ficiency of in-home care. The Gerontologist, 41, 723­732.
+UNMET NEED FOR PERSONAL ASSISTANCE SERVICES S107
+Moscovice, I., Davidson, G., & McCaffrey, D. (1988). Substitution of
+formal and informal care for the community-based elderly. Medical
+Care, 26, 971­981.
+Muramatsu, N., & Campbell, R. T. (2002). State expenditures on home and
+community based services and use of formal and informal personal
+assistance: A multilevel analysis. Journal of Health and Social
+Behavior, 43, 107­124.
+Rubin, D. B. (1987). Multiple imputation for nonresponse in surveys. New
+York: Wiley.
+Stata Corp. (2003). Stata survey data reference manual (Release 8). College
+Station, TX: Stata Press.
+U.S. General Accounting Office. (1988). Long-term care for the elderly:
+Issues of need, access, and cost. Washington, DC: Author.
+U.S. General Accounting Office. (2001). Long-term care: Implications
+for Supreme Court's Olmstead decision are still unfolding (GAO-01-
+1167T). Washington, DC: Author.
+U.S. National Center for Health Statistics. (1998a). 1994 National Health
+Interview Survey on Disability, Phase I and II (Machine readable data
+file and documentation; CD-ROM Series 10, No. 8A). Hyattsville, MD:
+Author.
+U.S. National Center for Health Statistics. (1998b). 1995 National Health
+Interview Survey on Disability, Phase I and II (Machine readable data
+file and documentation; CD-ROM Series 10, No. 10A). Hyattsville,
+MD: Author.
+Verbrugge, L. M., & Sevak, P. (2002). Use, type, and efficacy of assis-
+tance for disability. Journal of Gerontology: Social Sciences, 57B,
+S366­S379.
+Williams, J., Lyons, B., & Rowland, D. (1997). Unmet long-term care
+needs of elderly people in the community: A review of the literature.
+Home Health Care Services Quarterly, 16, 93­119.
+Received August 28, 2002
+Accepted July 21, 2003
+Decision Editor: Charles F. Longino, Jr., PhD
+LAPLANTE ET AL.
+S108
+

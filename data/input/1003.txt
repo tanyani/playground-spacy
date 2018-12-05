@@ -1,0 +1,1118 @@
+ORIGINAL ARTICLE
+The Epidemiology of Panic Attacks,
+Panic Disorder, and Agoraphobia
+in the National Comorbidity Survey Replication
+Ronald C. Kessler, PhD; Wai Tat Chiu, AM; Robert Jin, MA; Ayelet Meron Ruscio, PhD;
+Katherine Shear, MD; Ellen E. Walters, MS
+Context: Only limited information exists about the epi-
+demiology of DSM-IV panic attacks (PAs) and panic dis-
+order (PD).
+Objective: To present nationally representative data
+about the epidemiology of PAs and PD with or without
+agoraphobia (AG) on the basis of the US National Co-
+morbidity Survey Replication findings.
+Design and Setting: Nationally representative face-
+to-face household survey conducted using the fully struc-
+tured World Health Organization Composite Interna-
+tional Diagnostic Interview.
+Participants: English-speaking respondents (N=9282)
+18 years or older.
+Main Outcome Measures: RespondentswhometDSM-
+IV lifetime criteria for PAs and PD with and without AG.
+Results: Lifetime prevalence estimates are 22.7% for
+isolated panic without AG (PA only), 0.8% for PA with
+AG without PD (PA-AG), 3.7% for PD without AG (PD
+only), and 1.1% for PD with AG (PD-AG). Persistence,
+lifetime number of attacks, and number of years with
+attacks increase monotonically across these 4 sub-
+groups. All 4 subgroups are significantly comorbid with
+other lifetime DSM-IV disorders, with the highest odds
+for PD-AG and the lowest for PA only. Scores on the
+Panic Disorder Severity Scale are also highest for
+PD-AG (86.3% moderate or severe) and lowest for PA
+only (6.7% moderate or severe). Agoraphobia is associ-
+ated with substantial severity, impairment, and comor-
+bidity. Lifetime treatment is high (from 96.1% for
+PD-AG to 61.1% for PA only), but 12-month treatment
+meeting published treatment guidelines is low (from
+54.9% for PD-AG to 18.2% for PA only).
+Conclusion: Although the major societal burden of panic
+is caused by PD and PA-AG, isolated PAs also have high
+prevalence and meaningful role impairment.
+Arch Gen Psychiatry. 2006;63:415-424
+EPIDEMIOLOGICAL SURVEY IN-
+vestigators have helped ad-
+vance understanding of
+panic by studying the preva-
+lence and distribution,1-3 on-
+set and course,4 associations with comor-
+bid disorders,5-7 and societal costs.8,9
+Despite these advances, important ques-
+tions remain unanswered about the epi-
+demiology of panic,10 among the most im-
+portant of them regarding the finding that
+many people have isolated panic attacks
+(PAs) that do not meet criteria for panic
+disorder (PD). These people have el-
+evated prevalence of other mental disor-
+ders.6,11 They report greater impairment,
+use of psychotropic medication, and psy-
+chiatric help-seeking than people with
+many Axis I disorders.8 Such findings have
+led to the view that PAs are fairly nonspe-
+cific risk markers for psychopathology.12
+Some people with isolated PAs meet cri-
+teria for agoraphobia (AG).13 It is not
+known, though, whether the persistent
+course and poor outcome associated with
+AG among people with PD14 also apply to
+PAs with AG. As a result, the boundary be-
+tween PA and PD and the relative role of
+AG within each are not well understood.
+Investigation and comparison of these
+symptom presentations in community
+samplesmighthelpclarifytheseissues.The
+current report presents initial data of this
+sort from the recently completed US Na-
+tional Comorbidity Survey Replication
+(NCS-R).
+METHODS
+SAMPLE
+The NCS-R is a nationally representative sur-
+vey of 9282 English-speaking household resi-
+dents18yearsorolderinthecoterminousUnited
+States. Face-to-face interviews were performed
+between February 2001 and April 2003. The re-
+sponse rate was 70.9%. Consent was oral rather
+Author Affiliations:
+Department of Health Care
+Policy, Harvard Medical School,
+Boston, Mass (Drs Kessler and
+Ruscio, Messrs Chiu and Jin,
+and Ms Walters); and the
+Western Psychiatric Institute
+and Clinic, Pittsburgh, Pa
+(Dr Shear).
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+415
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+than written to parallel the baseline NCS procedures. The hu-
+man subjects committees of Harvard Medical School (Boston,
+Mass) and the University of Michigan (Ann Arbor) approved the
+NCS-R recruitment and consent procedures. Respondents were
+interviewed in 2 parts. The part 1 interview, administered to all
+respondents, included the core diagnostic assessment. The part
+2 interview, administered to all part 1 respondents who met cri-
+teria for any lifetime core disorder plus a probability subsample
+of others (for a total of 5692 part 2 respondents), was used to as-
+sess correlates and disorders of secondary interest. The part 1
+sample is used here to examine prevalence and course, clinical
+severity and role impairment, and most aspects of comorbidity.
+The part 2 sample is used to examine comorbidity with disor-
+ders of secondary interest to the survey, sociodemographic cor-
+relates, and treatment. The part 1 sample was weighted to adjust
+for differential probability of selection and discrepancies be-
+tween the sample and the US population concerning census so-
+ciodemographic and geographic variables. The part 2 sample was
+weighted additionally to adjust for differential probability of se-
+lection from the part 1 sample. More details on NCS-R sampling
+and weights are reported elsewhere.15
+PANIC AND AG
+Panic and AG were assessed using the World Mental Health
+Survey Initiatiave version of the World Health Organization
+Composite International Diagnostic Interview (CIDI),16 a fully
+structured lay-administered diagnostic interview (available at
+www.hcp.med.harvard.edu/wmhcidi). The assessment of panic
+was comparable to that in previous versions of the CIDI, ex-
+cept that a distinction was made between uncued PAs (de-
+scribed as occurring "out of the blue" with no triggering event)
+and cued PAs. A series of parallel questions was asked about
+each of these 2 types of attacks. Panic disorder was defined as
+the occurrence of 4 or more uncued PAs not caused by sub-
+stance use or a general medical condition accompanied by
+1 month or more of persistent concern about recurrence, worry
+about the implications of the attacks, or significant change in
+behavior because of the attacks. Agoraphobia was defined as
+anxiety about 2 or more situations that had to include being in
+crowds, going to public places, traveling by yourself, or traveling
+away from home associated with a fear of having a PA and fear
+that it might be difficult or embarrassing to escape. This fear
+had to result in avoidance of the feared situations, distress when
+exposed to these situations, or the necessity of a companion
+during these situations. We used these classifications to de-
+fine 4 subgroups for comparative analysis: PA without PD or
+AG (PA only), PA with PD and AG (PA-AG), PD without AG
+(PD only), and PD with AG (PD-AG). The PA-only category is
+not a codable DSM-IV12 disorder; PA-AG is a subset of the
+DSM-IV category AG without a history of PD, excluding respon-
+dents with AG who never had a PA. This latter subgroup is not
+considered in this report because we focus exclusively on people
+with a history of panic.
+As detailed elsewhere,17,18 blinded clinical reappraisal in-
+terviews using the lifetime nonpatient version of the Struc-
+tured Clinical Interview for DSM-IV (SCID)19 were adminis-
+tered to a probability subsample of 325 NCS-R respondents to
+assess concordance with CIDI diagnoses. The CIDI-SCID con-
+cordance for PD diagnosis had an area under the receiver op-
+erating characteristic curve of 0.72, a moderate  value (stan-
+dard error) of 0.45 (0.15), and a high odds ratio (OR) of 56.3
+(95% confidence interval, 15.5-204.6). No bias was found in
+the CIDI prevalence estimate compared with that in the SCID
+by using a McNemar test (2
+1
+=0, P=.82). The CIDI-SCID con-
+cordance was not assessed for PA because PA was not evalu-
+ated separately in the SCID; concordance also was not as-
+sessed for AG because AG occurred too infrequently in the
+clinical reappraisal study for reliable analysis of concordance.
+The DSM-IV requires recurrent uncued PAs, which could be in-
+terpreted as 2 or more, for a PD diagnosis. However, CIDI re-
+spondents who reported 2 or 3 lifetime uncued PAs generally
+were found in the SCID to have had only 1 full PA with addi-
+tional limited-symptom attacks. Validity of the CIDI in rela-
+tion to the SCID consequently was improved when we re-
+quired at least 4 lifetime uncued attacks in the CIDI. The
+McNemar test result documents that the CIDI PD prevalence
+estimate does not differ significantly from the SCID estimate
+despite the SCID requiring only 2 attacks.
+COURSE, SEVERITY,
+AND IMPAIRMENT
+Respondents who met DSM-IV lifetime criteria for PA were asked
+to estimate the age of onset (AOO) of their first attack and AOO
+of having 4 uncued attacks with a month of persistent worry.
+They also were asked to estimate their age at the most recent
+attack, lifetime number of uncued and cued attacks, and num-
+ber of years with at least 1 attack. Clinical severity was as-
+sessed only for 12-month cases by using a fully structured ver-
+sion of the 7-question Panic Disorder Severity Scale (PDSS) that
+was developed specifically for the NCS-R. (Question wording
+is posted at www.hcp.med.harvard.edu/ncs.) The clinician-
+administered version of the PDSS yields a reliable and valid as-
+sessment of overall PD clinical severity.20 A separate fully struc-
+tured version of the PDSS, developed independently of the
+NCS-R version but with similar wording, has excellent con-
+cordance with the clinician-administered version.21 Published
+PDSS cut points (none, mild, moderate, or severe) were used
+to define severity.
+Although 2 of the 7 PDSS questions assess role impair-
+ment, a more generic measure of role impairment, the Shee-
+han Disability Scale (SDS),22 also was included in each section
+of the CIDI. The SDS asked respondents with 12-month panic
+to focus on the 1 month in the past year when their panic, their
+worry about having another PA, or their restriction of activity
+because of this worry interfered most with their life and activi-
+ties and to rate this interference on a 0 to 10 visual analog scale
+with response options of none (0), mild (1-3), moderate (4-
+6), severe (7-9), or very severe (10). Interference ratings were
+obtained for 4 role domains: home management, work, social
+life, and personal relationships. Responses were combined by
+taking the highest score across the 4 ratings and collapsing the
+severe and very severe response categories.
+COMORBID DSM-IV DISORDERS
+The NCS-R was used to assess a number of other DSM-IV dis-
+orders: other anxiety disorders (generalized anxiety disorder,
+specific phobia, social phobia, posttraumatic stress disorder,
+obsessive-compulsive disorder, and adult manifestations of sepa-
+ration anxiety disorder), mood disorders (major depressive dis-
+order, dysthymic disorder, and bipolar disorder I or II), sub-
+stance use disorders (alcohol and illicit drug abuse and
+dependence, in which abuse and dependence on specific illicit
+drugs were combined with polysubstance abuse and depen-
+dence), and impulse-control disorders (intermittent explosive
+disorder and adult manifestations of 3 child-adolescent impulse-
+control disorders: attention-deficit/hyperactivity disorder, op-
+positional-defiant disorder, and conduct disorder). Organic ex-
+clusion rules and diagnostic hierarchy rules were used in making
+all diagnoses. As reported in more detail elsewhere,18 blinded
+clinical reappraisal interviews using the nonpatient version of
+the SCID19 showed generally good concordance between CIDI
+and SCID diagnoses of anxiety, mood, and substance use dis-
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+416
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+orders,withareaunderthereceiveroperatingcharacteristiccurve
+in the range of 0.65 to 0.81,  in the range of 0.33 to 0.70, and
+ORs in the range of 6.3 to 877.0. Diagnoses of impulse-control
+disorders were not validated because the SCID does not assess
+these disorders.
+TREATMENT
+Two questions about lifetime and 12-month treatment of panic
+were asked at the end of the panic section. Part 2 respondents
+additionally were asked more general questions about whether
+they ever received treatment for any problems with your emo-
+tions or nerves or your use of alcohol or drugs and, if so, about
+types of professionals seen.23 Treatment was distinguished in
+5 sectors: psychiatry, nonpsychiatry mental health specialty,
+general medical, human services, and complementary-
+alternative. Questions about treatment in the 12 months be-
+fore interview asked about number and duration of visits; num-
+ber and duration of psychotherapy sessions; and name, dose,
+and duration of each medication used. No information was ob-
+tained about the content of psychotherapy. A rough measure
+of 12-month guideline-concordant treatment of panic was de-
+veloped using these reports on the basis of available evidence-
+based guidelines.24 Guideline-concordant treatment was de-
+fined as receiving either pharmacotherapy (at least 2 months
+of an appropriate medication, defined as antidepressants or anx-
+iolytics,25 plus at least 4 visits to any type of medical physi-
+cian) or psychotherapy (at least 8 visits with any health care
+or human services professional lasting an average of at least 30
+minutes). The decision to require at least 4 physician visits for
+pharmacotherapy was based on the recommendation of at least
+4 visits for medication evaluation, initiation, and monitoring
+during the early and continuation phases of PD medication treat-
+ment.24 The decision to require at least 8 psychotherapy ses-
+sions was based on the fact that clinical trials demonstrating
+effectiveness generally have included at least 8 psychotherapy
+visits.24 Because respondents who began a course of treatment
+only shortly before the interview could not fulfill the require-
+ments, we counted respondents with at least 2 visits to an ap-
+propriate treatment sector if they were in treatment at the time
+of interview.
+ANALYSIS METHODS
+Cross-tabulations were used to estimate prevalence and pat-
+terns of treatment. The actuarial method26 was used to esti-
+mate AOO distributions. Mean comparisons were used to ex-
+amine illness course and severity or impairment. Logistic
+regression analysis27 was used to estimate associations with so-
+ciodemographic variables and comorbid DSM-IV disorders. Be-
+cause the NCS-R sample design featured weighting and clus-
+tering, all analyses used the Taylor series design-based method,28
+implemented in the SUDAAN software system.29 Significance
+tests of sets of coefficients in the logistic regression equations
+were made using Wald 2 tests based on design-corrected co-
+efficient variance-covariance matrices. Statistical significance
+was evaluated using 2-sided, design-based P.05-level tests.
+RESULTS
+PREVALENCE
+Twenty-eight percent (standard error) (28.3% [1.0]) of re-
+spondents met criteria for lifetime PA and 11.2% (0.5) for
+12-month PA, whereas 4.7% (0.3) of respondents (roughly
+one sixth of those with lifetime PA) met criteria for life-
+time PD and 2.8% (0.2) for 12-month PD. Eight tenths of
+1% of all respondents (roughly 3% of those with a life-
+time PA) met criteria for lifetime PA-AG and 0.4% (0.1)
+for 12-month PA-AG, whereas 1.1% (0.1) of respondents
+(approximately one fifth of those with lifetime PD and 60%
+of those with lifetime PA-AG) met criteria for lifetime
+PD-AG and 0.4% (0.1) for 12-month PD-AG.
+COURSE OF ILLNESS
+As described, respondents with lifetime panic were
+placed into 4 mutually exclusive subgroups (Figure 1):
+PA only, 22.7% of the sample; PA-AG, 0.8%; PD only,
+3.7%; and PD-AG, 1.1%. A small proportion of respon-
+dents without PD (12.0% with PA only and 10.7% with
+PA-AG) reported a sufficient number of uncued attacks
+to qualify for PD (with means of 31.0 and 131.4 lifetime
+uncued attacks, respectively) but failed to meet other
+requirements for a PD diagnosis (Table 1). Most re-
+spondents in 3 of the 4 subgroups, the exception being
+PD only, reported at least 1 cued lifetime attack (from
+67.9% in PD-AG to 87.6% in PA-AG). A significantly
+lower 46.8% of PD-only cases reported any cued life-
+time attack. Mean number of cued attacks among those
+with any varies significantly across subgroups
+(F3,1568
+=18.2, P.001). Panic disorder is associated
+with a significantly higher mean number of cued at-
+tacks than PA among those without (121.8 vs 38.3,
+z=6.6, P.001) and those with (134.4 vs 78.2, z=2.1,
+P=.03) AG. Agoraphobia is associated with a signifi-
+cantly higher mean number of cued attacks among
+those with PA (78.2 vs 38.3, z=2.4, P=.02) but not
+among those with PD (134.4 vs 121.8, z=0.53, P=.60).
+In the subsample of respondents who reported ever
+PA Only
+(22.7%)
+Any PAs
+(28.3%)
+PD Only
+(3.7%)
+PD-AG
+(1.1%)
+PA-AG
+(0.8%)
+Figure 1. Lifetime prevalence estimates of DSM-IV panic attacks (PAs) and
+panic disorder (PD) with and without agoraphobia (AG). PA only indicates
+lifetime history of PA but not PD or AG; PA-AG, lifetime history of PA with
+AG but not PD; PD only, lifetime history of PD without AG; PD-AG, lifetime
+history of PD with AG. The prevalence estimates of PD only (3.7%) and
+PD-AG (1.1%) sum to more than the observed 4.7% prevalence of all PD
+because of rounding.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+417
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+having a cued attack, the mean number of such attacks
+substantially exceeds the mean number of uncued at-
+tacks in the PD-only subgroup (121.8 vs 31.3, z=7.4,
+P.001) and in the PD-AG subgroup (134.4 vs 46.0,
+z=4.0, P.001).
+No meaningful difference exists in mean AOO of PA
+among the 4 subgroups (21.5-22.7; F3,2188
+=0.9, P=.44);
+the entire PA AOO distribution is similar across these sub-
+groups (Figure 2). Mean AOO of PD is only about 1
+year later than mean AOO of PA and does not differ sig-
+nificantly between the PD-only and PD-AG subgroups
+(23.6 vs 22.9, F3,1568
+=0.5, P=.62). Persistence (12-
+month prevalence of PA among lifetime cases), how-
+ever, varies substantially, from 35.7% in PA only to 62.6%
+in PD-AG (2
+3
+=48.7, P.001). Persistence is signifi-
+cantly higher in the PD than PA subgroups in the ab-
+sence of AG (57.4% vs 35.7%, z=5.4, P.001) and the
+presence of AG (62.6% vs 41.1%, z=3.0, P=.002) but does
+not vary as a function of AG either in the 2 PA sub-
+groups (41.1% vs 35.7%, z=0.9, P=.34) or in the 2 PD
+subgroups (62.6% vs 57.4%, z=0.9, P=.36). Mean num-
+ber of years with attacks also varies significantly across
+the subgroups (F3,2188
+=46.7, P.001) with the same rank
+ordering as persistence.
+SOCIODEMOGRAPHIC CORRELATES
+We failed to find consistent variation in magnitude of sig-
+nificant sociodemographic correlates of lifetime preva-
+lence across the 4 subgroups, although the ORs associ-
+ated with being female are noticeably higher for the PD
+than the PA subgroups, whereas the ORs associated with
+other employment status are noticeably higher for the AG
+than non-AG subgroups (Table 2). Age of 60 years or
+older (vs younger ages) and non-Hispanic blacks (vs non-
+Hispanic whites) have reduced odds of panic in all 4 sub-
+groups, although not all are significant. Women and pre-
+viously married people have consistently elevated odds
+of panic in all 4 subgroups. Respondents classified as hav-
+ing other employment status, made up largely of the un-
+employed and disabled, have elevated odds of all out-
+comes other than PA only, whereas retired people have
+elevated odds of PD-AG but not the other 3 outcomes.
+None of these associations is strong in substantive terms,
+though, as indicated by the Pearson contingency coeffi-
+cients for the set of sociodemographic predictors all being
+quite small (in the range of 0.01 to 0.02).
+COMORBIDITY
+Respondents in all 4 panic subgroups have significantly
+increased odds of virtually all other lifetime DSM-IV dis-
+orders assessed in the survey (Table 3). One or more
+comorbid conditions are found in 71.9% of the PA-only
+Table 1. Prevalence, Persistence, and Course of Panic Among Respondents in 4 Mutually Exclusive Lifetime Panic Subgroups
+Parameter
+PA Only
+(n = 1672)
+PA-AG
+(n = 71)
+PD Only
+(n = 344)
+PD-AG
+(n = 105) 2
+3
+Lifetime prevalence and persistence*
+Prevalence 22.7 (1.0) 0.8 (0.1) 3.7 (0.2) 1.1 (0.1) NA
+1 Lifetime cued attacks 76.2 (1.2) 87.6 (4.4) 46.8 (3.0) 67.9 (5.5) 90.7
+4 Lifetime uncued attacks 12.0 (1.1) 10.7 (4.1) 100.0 (0) 100.0 (0) 0.1
+F3,9278
+Age of onset of PA 22.7 (0.5) 22.1 (1.7) 22.7 (0.8) 21.5 (1.0) 0.9
+PD onset NA NA 23.6 (0.9) 22.9 (1.0) 0.5
+AG onset NA 19.3 (1.8) NA 17.0 (1.4) 0.9
+Course of illness* 2
+3
+12-mo persistence* 35.7 (1.5) 41.1 (5.5) 57.4 (3.7) 62.6 (4.4) 48.7
+F3,9278
+Years with attacks 4.7 (0.2) 6.6 (1.1) 8.3 (0.6) 10.7 (1.1) 20.4
+1 Lifetime cued attacks 38.3 (4.5) 78.2 (16.0) 121.8 (11.9) 134.4 (20.7) 18.2
+4 Lifetime uncued attacks 31.0 (4.5) 131.4 (29.4) 31.3 (2.7) 46.0 (7.8) 4.3
+Median 1 lifetime cued attacks 6.0 (0.3) 9.2 (2.2) 17.2 (8.8) 34.1 (70.4) NA
+Median 4 lifetime uncued attacks 11.5 (0.9) 100.2 (48.3) 10.0 (0.7) 16.6 (3.5) NA
+Abbreviations: AG, agoraphobia; NA, not applicable; PA, panic attack; PD, panic disorder; PA only, lifetime history of PA but not of PD or AG; PA-AG, lifetime
+history of PA with AG but not of PD; PD only, lifetime history of PD without AG; PD-AG, lifetime history of PD with AG.
+*Data are given as percentage (standard error).
+Data are given as mean (standard error) unless otherwise indicated.
+ Significant at P=.05, 2-sided test.
+100
+80
+70
+60
+50
+30
+10
+90
+40
+20
+0
+0 20
+10 30 50 70 90
+40 60
+PA Only
+PA-AG
+PD Only
+PD-AG
+80 100
+Age of Onset, y
+Cumulative Probability of Lifetime Prevalence
+Figure 2. Age of onset of first lifetime panic attack in 4 mutually exclusive
+lifetime panic subgroups (2
+3
+=6.9, P=.07). See legend to Figure 1 for an
+explanation of abbreviations.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+418
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+subgroup, 83.1% of the PD-only subgroup, and 100% of
+the other 2 subgroups. The ORs for particular comorbid
+conditions differ significantly across the 4 subgroups, with
+the lowest ORs consistently in the PA-only subgroup. In
+the case of comorbidity with other anxiety disorders and
+major depression, AG is more important than PD, as
+shown by the PA-AG ORs (4.4-24.0) consistently being
+higher than the PD-only ORs (2.0-5.4) and often as high
+as the PD-AG ORs (2.5-25.8). In the case of the other
+mood disorders and alcohol use disorders, the PA-AG ORs
+(3.2-5.1) are comparable to the PD-only ORs (3.5-5.4),
+whereas the PD-AG ORs (5.6-13.6) are considerably
+larger. A distinct pattern for drug use disorders for the
+ORs is associated with all 3 AG or PD subgroups to be
+comparable in magnitude (3.4-5.8).
+TWELVE-MONTH CLINICAL SEVERITY
+AND ROLE IMPAIRMENT
+Summary PDSS ratings of clinical severity vary signifi-
+cantly across the four 12-month panic subgroups
+(2
+3
+=34.3-102.9, P.001), with the highest ratings in
+the PD-AG subgroup (86.3% with moderate or severe
+rating, and 42.4% with severe rating) and the lowest in
+the PA-only subgroup (6.7% with moderate or severe
+rating, and 0.3% with severe rating) (Table 4). Re-
+Table 2. Sociodemographic Correlates of 4 Mutually Exclusive Lifetime Panic Subgroups*
+Characteristic
+Odds Ratio (95% Confidence Interval)
+PA Only
+(n = 5172)
+PA-AG
+(n = 3572)
+PD Only
+(n = 3844)
+PD-AG
+(n = 3604)
+Age, y
+18-29 1.0 1.0 1.0 1.0
+30-44 1.0 (0.7-1.3) 1.6 (0.6-4.4) 1.5 (1.1-2.1) 1.7 (1.0-2.8)
+45-59 0.9 (0.7-1.2) 1.7 (0.5-6.0) 1.3 (0.9-1.8) 1.3 (0.7-2.4)
+60 0.4 (0.2-0.6) 0.5 (0.1-3.7) 0.4 (0.2-0.7) 0.1 (0-0.2)
+2 29.2 4.0 24.2 35.5
+Sex
+Male 1.0 1.0 1.0 1.0
+Female 1.4 (1.2-1.7) 1.3 (0.8-2.3) 2.3 (1.8-3.0) 2.0 (1.3-3.2)
+2 16.5 1.2 38.6 9.1
+Race
+Hispanic 0.6 (0.4-0.8) 1.0 (0.3-3.2) 0.8 (0.5-1.3) 0.8 (0.3-2.1)
+Black 0.7 (0.5-0.8) 0.6 (0.3-1.5) 0.4 (0.3-0.6) 0.5 (0.2-1.0)
+Other 1.0 (0.6-1.5) 2.1 (0.6-7.0) 1.1 (0.6-2.0) 0.6 (0.2-1.9)
+White 1.0 1.0 1.0 1.0
+2 27.7 2.5 23.5 5.1
+Education, y
+0-11 1.0 1.0 1.0 1.0
+12 1.0 (0.7-1.3) 0.7 (0.3-1.7) 0.9 (0.6-1.3) 0.9 (0.4-2.1)
+13-15 0.9 (0.7-1.2) 0.9 (0.4-2.0) 1.2 (0.8-1.9) 0.8 (0.3-1.9)
+16 0.9 (0.7-1.2) 0.5 (0.2-1.5) 0.8 (0.5-1.2) 0.7 (0.3-2.1)
+2 0.7 1.9 10.3 0.7
+Marital status
+Married/cohabitating 1.0 1.0 1.0 1.0
+Separated/widowed/divorced 1.1 (0.8-1.4) 2.2 (1.1-4.2) 1.6 (1.2-2.1) 1.3 (0.7-2.3)
+Never married 1.0 (0.8-1.2) 1.2 (0.5-3.2) 1.2 (0.8-1.8) 0.9 (0.4-2.0)
+2 0.5 6.3 10.3 1.2
+Employment status
+Working 1.0 1.0 1.0 1.0
+Student 0.8 (0.5-1.4) 0.8 (0.2-3.5) 0.4 (0.1-1.4) 1.5 (0.5-4.9)
+Homemaker 0.8 (0.5-1.3) 2.0 (0.8-5.1) 1.1 (0.7-1.7) 1.3 (0.5-3.7)
+Retired 1.0 (0.6-1.5) 1.2 (0.2-6.6) 1.0 (0.5-1.9) 4.3 (1.6-11.3)
+Other 1.1 (0.9-1.5) 3.6 (1.8-7.1) 1.5 (1.0-2.2) 3.8 (2.1-6.8)
+2 1.7 18.4 15.1 30.9
+Annual family income
+Low 1.2 (0.9-1.6) 1.0 (0.5-2.3) 1.3 (0.9-2.0) 1.4 (0.6-3.2)
+Low-average 1.0 (0.8-1.2) 0.9 (0.4-2.0) 1.4 (0.9-2.1) 0.8 (0.4-1.7)
+High-average 1.2 (1.0-1.4) 0.7 (0.3-1.7) 1.3 (0.8-2.1) 0.9 (0.5-1.6)
+High 1.0 1.0 1.0 1.0
+2 8.4 0.9 2.5 2.2
+Abbreviations: AG, agoraphobia; PA, panic attack; PD, panic disorder; PA only, lifetime history of PA but not PD or AG; PA-AG, lifetime history of PA with AG but
+not PD; PD only, lifetime history of PD without AG; PD-AG, lifetime history of PD with AG.
+*Based on multivariate logistic regression analyses that separately compare respondents in each of the 4 panic subgroups with respondents who have no
+lifetime history of panic; the sample sizes differ because respondents in each of the 4 mutually exclusive panic subgroups (1672 PA only, 72 PA-AG, 344 PD only,
+and 104 PD-AG) are compared separately with the 3500 respondents who have no history of panic.
+Significant at the P.05 level, 2-sided test.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+419
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+spondents in the PA-AG subgroup have higher PDSS
+ratings (45.3% with moderate or severe rating, and
+20.2% with severe rating) than those in the PD-only
+subgroup (46.1% with moderate or severe rating, and
+6.0% with severe rating).
+Summary SDS ratings of role impairment are similar
+to PDSS ratings in being highest in the PD-AG subgroup
+(95.0% with moderate or severe rating, and 84.7% with
+severe rating) and lowest in the PA-only subgroup (21.3%
+with moderate or severe rating, and 11.1% with severe
+rating). Unlike PDSS ratings, however, the PA-AG sub-
+group has lower SDS ratings (58.8% with moderate or
+severe rating, and 39.0% with severe rating) than the PD-
+only subgroup (76.8% with moderate or severe rating,
+and 56.2% with severe rating), although the modal
+rating is severe in all 3 subgroups other than in the
+PA-only subgroup. In the latter, the modal rating is no
+disability (70.6%).
+TREATMENT
+Most patients with PD obtained lifetime treatment for psy-
+chiatric problems, although somewhat more so among
+those with AG (96.1%) than without (84.8%) (Table 5).
+Lifetime treatment proportions are lower in the PA-AG
+(74.7%) and PA-only (61.1%) subgroups. The propor-
+tions that obtained panic-specific treatment are only
+slightly lower than overall treatment in the PD-only
+(70.3% vs 84.8%) and PD-AG (85.0% vs 96.1%) sub-
+groups, but substantially lower in the PA-only (16.2%
+vs 61.1%) and PA-AG (37.6% vs 74.7%) subgroups. The
+most common site of treatment was the general medical
+sector in 3 of the 4 subgroups (32.3%-70.4%). The ex-
+ception is PA-AG, in which nonmedical mental health
+treatment (46.1%) is slightly more common than gen-
+eral medical treatment (42.7%).
+As with lifetime treatment, the proportion of 12-
+month cases that received treatment in the year before
+interview is highest in the PD-AG subgroup (72.6%), low-
+est in the PA-only subgroup (45.7%), and intermediate
+in the PA-AG (60.8%) and PD-only (66.9%) subgroups.
+Also similar to the lifetime treatment data, 12-month
+panic-specific treatment made up a higher proportion of
+all treatment in the PD-only (43.9% vs 66.9%) and PD-AG
+(52.7% vs 72.6%) subgroups than in the PA-only (14.7%
+vs 45.7%) and PA-AG (29.7% vs 60.8%) subgroups.
+Twelve-month treatment was obtained in the general
+medical sector more often than in any other sector in each
+Table 3. Comorbidities of 4 Mutually Exclusive Lifetime Panic Subgroups With Other DSM-IV Disorders*
+Disorder
+PA Only PA-AG PD Only PD-AG
+2
+3
+Percentage
+OR
+(95% CI) Percentage
+OR
+(95% CI) Percentage
+OR
+(95% CI) Percentage
+OR
+(95% CI)
+Other anxiety disorders
+Generalized anxiety disorder 10.0 2.4 (1.7-3.2) 31.9 8.5 (4.9-14.6) 21.3 4.4 (2.9-6.8) 15.0 2.6 (1.4-4.8) 33.6
+Specific phobia 21.0 2.4 (2.0-3.0) 73.7 24.0 (13.8-41.4) 34.3 3.8 (2.7-5.3) 75.2 25.8 (14.3-46.6) 153.8
+Social phobia 18.8 1.9 (1.6-2.4) 65.5 16.6 (7.7-35.8) 31.1 3.1 (2.3-4.2) 66.5 15.5 (9.3-25.8) 82.4
+Posttraumatic stress disorder 12.0 3.0 (2.3-3.9) 24.2 5.8 (2.3-14.6) 21.6 5.0 (3.4-7.5) 39.6 11.6 (6.8-19.7) 40.7
+Obsessive-compulsive disorder 2.1 1.5 (0.5-4.3) 0 NA 8.2 5.4 (1.8-16.1) 19.6 20.2 (5.5-73.9) 20.8
+Separation anxiety disorder 7.7 3.1 (2.3-4.0) 13.8 6.3 (2.7-14.5) 11.0 4.4 (2.6-7.5) 23.5 11.6 (7.1-19.0) 40.6
+Any other anxiety disorder 45.0 3.2 (2.7-3.8) 94.9 77.9 (24.9-244.1) 66.0 7.2 (5.5-9.3) 93.6 56.2 (22.4-141.0) 143.7
+Mood disorders
+Major depressive disorder 28.2 2.1 (1.8-2.4) 48.7 4.4 (2.6-7.4) 34.7 2.0 (1.5-2.7) 38.5 2.5 (1.5-4.0) 8.2
+Dysthymia 5.0 3.2 (2.4-4.3) 10.0 5.0 (2.1-12.0) 9.6 5.0 (2.9-8.8) 14.6 8.9 (4.2-18.8) 6.9
+Bipolar disorder I or II 7.1 2.8 (2.3-3.5) 15.5 5.1 (2.7-9.6) 14.4 5.4 (3.6-7.9) 33.0 13.6 (8.0-23.2) 52.3
+Any mood disorder 36.0 2.5 (2.2-2.8) 64.2 7.1 (4.1-12.3) 50.0 3.3 (2.4-4.5) 73.3 10.0 (5.0-19.9) 35.3
+Impulse-control disorders
+Attention-deficit/hyperactivity
+disorder
+11.7 2.3 (1.6-3.3) 28.8 NA 13.0 2.6 (1.5-4.5) 36.2 NA 20.0
+Oppositional defiant disorder 13.6 2.5 (1.8-3.5) 12.2 NA 13.0 2.4 (1.5-3.7) 27.6 NA 7.3
+Conduct disorder 12.3 1.9 (1.4-2.6) 12.4 NA 21.7 4.2 (2.8-6.4) 22.5 NA 18.8
+Intermittent explosive disorder 7.8 1.7 (1.3-2.2) 21.8 5.3 (2.4-11.6) 11.8 2.5 (1.4-4.4) 9.0 1.7 (0.8-3.6) 9.5
+Any impulse-control disorder 33.7 2.3 (1.8-2.8) 63.2 NA 47.2 4.3 (2.8-6.6) 59.5 NA 24.6
+Substance use disorders
+Alcohol abuse or dependence 19.3 2.2 (1.8-2.7) 27.0 3.2 (1.5-6.7) 25.0 3.5 (2.5-4.9) 37.3 5.6 (2.7-11.5) 11.5
+Alcohol dependence 8.5 2.4 (1.8-3.2) 14.2 4.0 (1.6-9.7) 12.8 4.1 (2.6-6.3) 23.4 7.3 (3.0-17.6) 12.1
+Illicit drug abuse or dependence 13.0 2.4 (1.8-3.0) 17.7 3.4 (1.6-7.3) 17.5 3.6 (2.3-5.4) 20.6 3.9 (2.1-7.2) 7.3
+Illicit drug dependence 5.6 3.0 (2.0-4.4) 10.6 5.8 (2.1-16.0) 9.1 5.2 (3.1-8.7) 9.3 4.6 (1.9-10.9) 6.0
+Any substance use disorder 21.4 2.2 (1.8-2.6) 31.4 3.5 (1.8-6.9) 27.0 3.3 (2.4-4.5) 37.3 4.8 (2.4-9.5) 9.8
+Any disorder 71.9 3.3 (2.8-4.1) 100.0 NA 83.1 6.5 (3.7-11.7) 100.0 NA 5.3
+Abbreviations: AG, agoraphobia; CI, confidence interval; NA, not applicable; OR, odds ratio; PA, panic attack; PD, panic disorder; PA only, lifetime history of PA but not
+PD or AG; PA-AG, lifetime history of PA with AG but not PD; PD only, lifetime history of PD without AG; PD-AG, lifetime history of PD with AG.
+*Based on a separate multivariate logistic regression equation for each row of the table in which dummy variables defining the 4 panic subgroups are used to predict
+lifetime occurrence of the comorbid disorder controlling for age at interview (in 5-year age intervals), sex, and race-ethnicity. The ORs compare respondents in each of
+the 4 panic subgroups with respondents who have no lifetime history of panic.
+Significant at the P.05 level, 2-sided test.
+Insufficient precision for estimation because of the low prevalence of PA-AG and PD-AG.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+420
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+of the 4 subgroups (25.5%-46.0%). The proportions that
+obtained treatment consistent with basic treatment guide-
+lines did not differ markedly across the 3 subgroups with
+PD or AG (40.6%-54.9%). Although treatment meeting
+basic guidelines was received by a substantially lower pro-
+portion of patients in the PA-only subgroup (18.2%), pub-
+lished treatment guidelines apply to PD and AG, not to
+isolated PAs.
+COMMENT
+These results should be interpreted in light of several limi-
+tations. First, the response rate was only 70%. As de-
+scribed in more detail elsewhere,15 we assessed this prob-
+lem in a nonrespondent survey in which a subsample of
+initial nonrespondents was offered a large financial in-
+centive ($100) to complete a short (15-minute) tele-
+phone interview that included CIDI diagnostic stem ques-
+tions. No significant difference was found in panic stem
+question endorsement compared with responses in the
+main survey sample, indirectly arguing against large non-
+response bias on the basis of panic. Second, although good
+concordance with SCID PD diagnoses was found, no va-
+lidity data were obtained for PA or AG. Third, possibly
+biased information about AOO, persistence, and other
+important course and treatment variables were ob-
+tained retrospectively. As described in more detail else-
+where,16 a number of strategies were used in the NCS-R
+to reduce recall bias. Evidence exists that these strate-
+gies improved the accuracy of retrospective AOO re-
+ports,30 but we have no data about effects on other as-
+pects of recall.
+With these limitations as a backdrop, the NCS-R life-
+time prevalence estimates of DSM-IV PD and PD-AG (4.7%
+and 1.1%, respectively) are similar to the DSM-III-R1 es-
+timates in the baseline NCS (3.5% and 1.5%, respec-
+tively). The NCS-R estimate of PD-only prevalence (3.7%)
+is substantially higher than in the NCS (2.0%).2 Al-
+though higher than in earlier epidemiological surveys,31
+the concordance of the NCS-R PD prevalence estimate
+with an independent SCID estimate argues against up-
+ward bias. In the case of AG, the concern is more with
+downward than upward bias because the CIDI require-
+ment of anxiety about multiple situations is stricter than
+the DSM-IV requirement.
+Estimates of persistence, sociodemographic corre-
+lates, and psychiatric comorbidity are broadly consis-
+tent with the baseline NCS1,2,32 and other previous epi-
+demiological surveys,14,31,33-35 although direct comparison
+is not possible because previous surveys did not disag-
+gregate panic into the 4 subgroups considered here. High
+prevalence among women, low prevalence among the el-
+derly, and strong comorbidity with other anxiety and
+mood disorders are all noteworthy consistencies with pre-
+vious survey findings. One notable difference is a much
+higher estimated lifetime prevalence of PAs in the NCS-R
+(28.3%) than in the NCS (7.3%), a discrepancy presum-
+ably caused by the more detailed stem questions in the
+DSM-IV version of the CIDI than in the DSM-III-R ver-
+sion that suggests PAs were underestimated in the base-
+line NCS.
+We are aware of no previous general population re-
+search in which investigators compared the prevalence
+and correlates of isolated PAs vs PD with and without
+AG. The most striking results of this comparison are that
+isolated PAs are common and significantly comorbid with
+other DSM-IV disorders. These results are consistent with
+results from clinical studies.36,37 Most people with iso-
+lated PAs fail to meet PD criteria because they never had
+recurrent uncued attacks, although they typically had nu-
+merous cued attacks. Another notable subgroup result
+is that cued attacks are more common than uncued at-
+tacks even among people with PD. This finding is espe-
+cially striking given that probing often uncovers ini-
+tially unrecognized panic cues,38,39 which means that the
+NCS-R probably leads to underestimating the propor-
+tion of attacks that are cued. We also found that persis-
+tence and lifetime number of attacks are more strongly
+related to PD than to AG; that comorbidity, especially
+with other anxiety disorders, is more strongly related to
+AG than to PD; and that isolated PAs are associated with
+substantial role impairment when they occur in conjunc-
+tion with AG.
+The subgroup results suggest that AG and PD are to
+some extent distinct, as about 40% of all respondents with
+PA and AG never met criteria for PD. This finding is con-
+sistent with family aggregation studies, which show that
+Table 4. Clinical Severity and Role Impairment Among
+Respondents in 4 Mutually Exclusive 12-Month
+Panic Subgroups
+Parameter
+Percentage (Standard Error)
+2
+3
+PA Only
+(n = 701)*
+PA-AG
+(n = 37)*
+PD Only
+(n = 120)*
+PD-AG
+(n = 41)*
+Clinical severity
+Severe 0.3 (0.2) 20.2 (7.1) 6.0 (2.5) 42.4 (8.0) 34.3
+Moderate 6.4 (0.8) 25.1 (7.9) 40.1 (4.8) 43.9 (10.1) 102.9
+Mild 14.9 (2.0) 25.1 (5.6) 37.8 (5.7) 13.7 (4.5) 61.9
+None 78.4 (2.2) 29.6 (8.3) 16.1 (4.4) 0 NA
+Impairment§
+Severe 11.1 (1.1) 39.0 (7.9) 56.2 (5.0) 84.7 (5.3) 108.4
+Moderate 10.2 (1.5) 19.8 (8.0) 20.6 (4.4) 10.3 (5.0) 119.8
+Mild 8.1 (1.2) 11.7 (5.9) 13.8 (3.1) 5.0 (3.0) 62.9
+None 70.6 (2.0) 29.4 (8.8) 9.4 (3.3) 0 62.9
+Abbreviations: AG, agoraphobia; NA, not applicable; PA, panic attack;
+PD, panic disorder; PA only, lifetime history of PA but not PD or AG;
+PA-AG, lifetime history of PA with AG but not PD; PD only, lifetime history of PD
+without AG; PD-AG, lifetime history of PD with AG.
+*The number of respondents in each subgroup who reported 12-month
+prevalence does not equal the sample size in Table 1 multiplied by the estimate
+of 12-month persistence in that table because persistence is estimated on
+weighted data and the sample sizes report the actual numbers of (unweighted)
+cases.
+The original Panic Disorder Severity Scale categories of severe and very
+severe were collapsed to define the severe category reported here.
+Significant at the P.05 level, 2-sided test.
+§Responses to the 4 Sheehan Disability Scale questions (impairments in
+work, home, social, and personal relationship functioning) were combined by
+assigning respondents their most severe score across the 4. The original
+Sheehan Disability Scale categories of severe and very severe were collapsed to
+define the severe category reported here.
+Because the number of respondents with at least mild impairment is the
+additive inverse of the number with no impairment, the 2
+3
+value in this row is
+identical to the value in the preceding row.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+421
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+risk of AG is significantly elevated among relatives of
+people with PA-AG40 and relatives of people with PD-AG
+compared with those with PD only.39,41 Family genetic
+studies also suggest that AG and PD may have at least
+some distinct pathogenic mechanisms.42,43 At the same
+time, our finding of higher conditional prevalence of AG
+among people with PD than PA is consistent with the
+strong association between AG and PD long observed in
+clinical settings.
+The subgroup results document monotonic increases
+from PA only to PD-AG in number of attacks, comorbid-
+ity, clinical severity, role impairment, and treatment seek-
+ing, with intermediate values for PA-AG and PD only. To-
+gether with the finding that a high proportion of AG is
+associated with PA, these results could be interpreted as
+suggesting that panic exists along a continuum in which
+PA and PD differ in degree rather than in kind. This in-
+terpretation is consistent with prior findings that infre-
+quent, spontaneous PAs are common in the general popu-
+lation,41,42 that these attacks typically include fewer and
+less severe symptoms than those in patients with PD,43 and
+that infrequent PA aggregates with PD in families.40,44
+The distinction between cued and uncued attacks might
+be called into question as part of this same line of thinking
+based on the view that most PAs are to some extent
+cued.37,45,46 It would be premature to conclude from these
+results that the boundary between PA and PD is arbitrary.
+Nevertheless, given the high prevalence of PA only and the
+negative outcomes associated with PA only, future re-
+searchmightprofitablyattempttostudyPAonlyandevalu-
+ate whether diagnostic criteria or symptom thresholds for
+PD should be modified to improve differentiation be-
+tween pathological and normal panic experiences.
+An innovation of the NCS-R was the use of a fully struc-
+tured version of the PDSS to assess clinical severity. Al-
+though lower than in clinical samples, 86.3% of respon-
+dents with PD-AG and 45.3% to 46.1% of those with
+PA-AG and PD only were in the clinically important range
+on the PDSS. A related finding is that clinical severity as-
+sessed in the PDSS and role impairment assessed in the
+SDS appear to be influenced nearly as much by AG
+(PA-AG vs PA only) as by PD (PD only vs PA only). This
+finding is consistent with prior findings that AG is asso-
+ciated with panic severity, anticipatory anxiety, and cog-
+nitive correlates of severity41,47-49 and our finding that AG
+is more common among people with PD than PA. Also
+consistent with this pattern is the higher average life-
+time number of PAs among respondents with vs those
+without AG in both the PA and PD samples. One pos-
+sible interpretation of this pattern is that AG is a sever-
+ity marker of panic, although this is at least superficially
+inconsistent with the notion in previous paragraphs that
+AG is distinct from PD disorder. Another possibility is
+that AG has a direct effect on impairment.
+The treatment results are consistent with previous
+NCS-R reports that most people with PD eventually ob-
+tain treatment,23 that most active cases receive treat-
+ment in a given year,50 and that most current treatment
+(45%-60% across the 3 PD and/or AG subgroups) fails
+to meet basic treatment guidelines.50 The latter result is
+all the more striking in that our definition of treatment
+quality is liberal. For example, no distinction was made
+among psychotherapies despite much more evidence
+for the effectiveness of some types of psychotherapy
+than others in treating panic,51-53 nor was a distinction
+made among antidepressants or anxiolytics despite
+much more evidence for the effectiveness of some than
+others.54,55 In interpreting the finding that many pa-
+tients fail to receive guideline-concordant treatment,
+some patients were so classified because they dropped
+Table 5. Lifetime and 12-Month Treatment of Respondents in 4 Mutually Exclusive Panic Subgroups
+Treatment
+Percentage (Standard Error)
+2
+3
+*
+PA Only PA-AG PD Only PD-AG
+Lifetime treatment (n = 1672) (n = 71) (n = 344) (n = 105)
+Psychiatrist 24.2 (1.2) 39.4 (6.6) 37.9 (2.5) 58.4 (4.9) 58.5
+Other mental health 26.5 (1.3) 46.1 (7.1) 38.0 (2.8) 48.1 (4.2) 32.7
+General medical 32.3 (1.2) 42.7 (6.4) 56.0 (2.9) 70.4 (4.9) 88.1
+Human services 15.1 (1.3) 26.6 (6.1) 17.6 (2.3) 16.5 (4.1) 4.7
+Complementary-alternative 15.9 (1.0) 35.5 (7.1) 19.1 (1.9) 28.3 (4.7) 31.0
+Panic-specific treatment 16.2 (1.2) 37.6 (6.6) 70.3 (2.8) 85.0 (4.3) 101.1
+Any treatment 61.1 (1.3) 74.7 (5.4) 84.8 (1.8) 96.1 (1.7) 107.5
+12-mo treatment (n = 701) (n = 36) (n = 120) (n = 42)
+Psychiatrist 12.1 (1.8) 21.6 (7.4) 27.2 (4.7) 34.6 (7.1) 24.7
+Other mental health 15.2 (1.4) 21.1 (8.1) 28.7 (4.7) 41.0 (6.4) 33.8
+General medical 25.5 (1.7) 30.6 (7.9) 46.0 (5.0) 45.1 (7.4) 25.1
+Human services 8.5 (1.2) 21.6 (7.3) 12.7 (3.0) 14.3 (6.1) 7.7
+Complementary-alternative 6.2 (1.0) 11.7 (5.7) 9.7 (3.0) 15.9 (5.8) 7.5
+Panic-specific treatment 14.7 (1.4) 29.7 (8.9) 43.9 (4.5) 52.7 (7.3) 123.7
+Any treatment 45.7 (2.4) 60.8 (8.4) 66.9 (4.6) 72.6 (6.5) 24.3
+Guideline-concordant treatment 18.2 (1.7) 40.6 (9.0) 45.1 (5.0) 54.9 (6.3) 54.5
+Abbreviations: AG, agoraphobia; PA, panic attack; PD, panic disorder; PA only, lifetime history of PA but not PD or AG; PA-AG, lifetime history of PA with AG but
+not PD; PD only, lifetime history of PD without AG; PD-AG, lifetime history of PD with AG.
+*This set of statistics tests the significance of the differences among the 4 percentages in each row.
+Significant at the P.05 level, 2-sided test.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+422
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+out of treatment prematurely rather than because treat-
+ment providers delivered inappropriate care. Both
+problems need to be addressed in future practice-ori-
+ented research.
+Submitted for Publication: April 5, 2005; final revision
+received July 13, 2005; accepted September 15, 2005.
+Correspondence: Ronald C. Kessler, PhD, Department
+of Health Care Policy, Harvard Medical School, 180 Long-
+wood Ave, Boston, MA 02115 (kessler@hcp.med.harvard
+.edu).
+Funding/Support: The National Comorbidity Survey
+Replication (NCS-R) is supported by grant U01-
+MH60220 from the National Institute of Mental Health
+(NIMH), with supplemental support from the National
+Institute of Drug Abuse (NIDA), the Substance Abuse
+and Mental Health Services Administration, grant
+044708 from The Robert Wood Johnson Foundation,
+and the John W. Alden Trust.
+Disclaimer: The views and opinions expressed in this re-
+port are those of the authors and should not be con-
+strued to represent the views of any of the sponsoring
+organizations, agencies, or US government.
+Additional Information: Collaborating investigators in-
+clude Ronald C. Kessler (principal investigator, Har-
+vard Medical School), Kathleen Merikangas (coprinci-
+pal investigator, NIMH), James Anthony (Michigan State
+University, East Lansing), William Eaton (The Johns Hop-
+kins University, Baltimore, Md), Meyer Glantz (NIDA),
+Doreen Koretz (Harvard University, Cambridge, Mass),
+Jane McLeod (Indiana University, Bloomington), Mark
+Olfson (New York State Psychiatric Institute, College of
+Physicians and Surgeons of Columbia University, New
+York), Harold Pincus (University of Pittsburgh, Pitts-
+burgh, Pa), Greg Simon (Group Health Cooperative,
+Seattle, Wash), Michael Von Korff (Group Health Coop-
+erative), Philip Wang (Harvard Medical School), Kenneth
+Wells (University of California, Los Angeles), Elaine
+Wethington (Cornell University, Ithaca, NY), and Hans-
+Ulrich Wittchen (Max Planck Institute of Psychiatry, Mu-
+nich, Germany, and Institute of Psychology, Technical
+University Dresden, Dresden, Germany). A complete list
+of NCS publications and the full text of all NCS-R in-
+struments is available at http://www.hcp.med.harvard
+.edu/ncs. Send correspondence to ncs@hcp.med.harvard
+.edu. The NCS-R is performed in conjunction with the
+World Health Organization World Mental Health (WMH)
+Survey Initiative. These activities were supported by grant
+R01 MH070884 from NIMH; the John D. and Catherine
+T. MacArthur Foundation; the Pfizer Foundation; grants
+R13-MH066849, R01-MH069864, and R01-DA016558
+from the US Public Health Service; grant FIRCA R01-
+TW006481 from the Fogarty International Center;
+the Pan American Health Organization; Eli Lilly and
+Company; Ortho-McNeil Pharmaceutical, Inc;
+GlaxoSmithKline; and Bristol-Myers Squibb. A com-
+plete list of WMH publications is available at http://www
+.hcp.med.harvard.edu/wmh/.
+Acknowledgment: We thank the staff of the WMH Data
+Collection and Data Analysis Coordination Centres for
+assistance with instrumentation, fieldwork, and consul-
+tation on data analysis.
+REFERENCES
+1. Kessler RC, McGonagle KA, Zhao S, Nelson CB, Hughes M, Eshleman S, Wittchen
+HU, Kendler KS. Lifetime and 12-month prevalence of DSM-III-R psychiatric dis-
+orders in the United States: results from the National Comorbidity Survey. Arch
+Gen Psychiatry. 1994;51:8-19.
+2. Eaton WW, Kessler RC, Wittchen HU, Magee WJ. Panic and panic disorder in
+the United States. Am J Psychiatry. 1994;151:413-420.
+3. Sheikh JI, Leskin GA, Klein DF. Gender differences in panic disorder: findings
+from the National Comorbidity Survey. Am J Psychiatry. 2002;159:55-58.
+4. Burke KC, Burke JD Jr, Regier DA, Rae DS. Age of onset of selected mental dis-
+orders in five community populations. Arch Gen Psychiatry. 1990;47:511-518.
+5. Kessler RC. The prevalence of psychiatric comorbidity. In: Wetzler S, Sander-
+son WC, eds. Treatment Strategies for Patients With Psychiatric Comorbidity.
+New York, NY: John Wiley & Sons; 1997.
+6. Kessler RC, Stang PE, Wittchen HU, Ustun TB, Roy-Byrne PP, Walters EE. Life-
+time panic-depression comorbidity in the National Comorbidity Survey. Arch Gen
+Psychiatry. 1998;55:801-808.
+7. Roy-Byrne PP, Stang P, Wittchen HU, Ustun B, Walters EE, Kessler RC. Lifetime
+panic-depression comorbidity in the National Comorbidity Survey: association
+with symptoms, impairment, course and help-seeking. Br J Psychiatry. 2000;
+176:229-235.
+8. Klerman GL, Weissman MM, Ouellette R, Johnson J, Greenwald S. Panic at-
+tacks in the community: social morbidity and health care utilization. JAMA. 1991;
+265:742-746.
+9. Markowitz JS, Weissman MM, Ouellette R, Lish JD, Klerman GL. Quality of life
+in panic disorder. Arch Gen Psychiatry. 1989;46:984-992.
+10. Wittchen HU, Essau CA. Epidemiology of panic disorder: progress and unre-
+solved issues. J Psychiatr Res. 1993;27(suppl 1):47-68.
+11. Goodwin RD, Gotlib IH. Panic attacks and psychopathology among youth. Acta
+Psychiatr Scand. 2004;109:216-221.
+12. Reed V, Wittchen HU. DSM-IV panic attacks and panic disorder in a community
+sample of adolescents and young adults: how specific are panic attacks? J Psy-
+chiatr Res. 1998;32:335-345.
+13. Katschnig H, Amering M. The long-term course of panic disorder and its predictors.
+J Clin Psychopharmacol. 1998;18(6)(suppl 2):6S-11S.
+14. Eaton WW, Anthony JC, Romanoski A, Tien A, Gallo J, Cai G, Neufeld K,
+Schlaepfer T, Laugharne J, Chen LS. Onset and recovery from panic disorder
+in the Baltimore Epidemiologic Catchment Area follow-up. Br J Psychiatry.
+1998;173:501-507.
+15. Kessler RC, Berglund P, Chiu WT, Demler O, Heeringa S, Hiripi E, Jin R, Pennell
+BE, Walters EE, Zaslavsky A, Zheng H. The US National Comorbidity Survey Rep-
+lication (NCS-R): design and field procedures. Int J Methods Psychiatr Res. 2004;
+13:69-92.
+16. Kessler RC, Ustun TB. The World Mental Health (WMH) Survey Initiative Ver-
+sion of the World Health Organization (WHO) Composite International Diagnos-
+tic Interview (CIDI). Int J Methods Psychiatr Res. 2004;13:93-121.
+17. Kessler RC, Abelson J, Demler O, Escobar JI, Gibbon M, Guyer ME, Howes MJ,
+Jin R, Vega WA, Walters EE, Wang P, Zaslavsky A, Zheng H. Clinical calibration
+of DSM-IV diagnoses in the World Mental Health (WMH) version of the World
+Health Organization (WHO) Composite International Diagnostic Interview
+(WMHCIDI). Int J Methods Psychiatr Res. 2004;13:122-139.
+18. Kessler RC, Berglund P, Demler O, Jin R, Walters EE. Lifetime prevalence and
+age-of-onset distributions of DSM-IV disorders in the National Comorbidity Sur-
+vey Replication. Arch Gen Psychiatry. 2005;62:593-602.
+19. First MB, Spitzer RL, Gibbon M, Williams JBW. Structured Clinical Interview for
+DSM-IV Axis I Disorders, Research Version, Non-patient Edition (SCID-I/NP).
+New York: Biometrics Research, New York State Psychiatric Institute; 2002.
+20. Shear MK, Rucci P, Williams J, Frank E, Grochocinski V, Vander Bilt J, Houck P,
+Wang T. Reliability and validity of the Panic Disorder Severity Scale: replication
+and extension. J Psychiatr Res. 2001;35:293-296.
+21. Houck PR, Spiegel DA, Shear MK, Rucci P. Reliability of the self-report version
+of the Panic Disorder Severity Scale. Depress Anxiety. 2002;15:183-185.
+22. Leon AC, Olfson M, Portera L, Farber L, Sheehan DV. Assessing psychiatric im-
+pairment in primary care with the Sheehan Disability Scale. Int J Psychiatry Med.
+1997;27:93-105.
+23. Wang PS, Berglund P, Olfson M, Pincus HA, Wells KB, Kessler RC. Failure and de-
+lay in initial treatment contact after first onset of mental disorders in the National
+Comorbidity Survey Replication. Arch Gen Psychiatry. 2005;62:603-613.
+24. American Psychiatric Association. Practice Guideline for the Treatment of Pa-
+tients With Panic Disorder. Washington, DC: American Psychiatric Association
+Press; 1998.
+25. Schatzberg AF, Nemeroff CB, eds. Textbook of Psychopharmacology. Washing-
+ton, DC: American Psychiatric Publishing; 2004.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+423
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+26. Halli SS, Rao KV, Halli SS. Advanced Techniques of Population Analysis. New
+York, NY: Plenum Publishing Corp; 1992.
+27. Hosmer DW, Lemeshow S. Applied Logistic Regression. 2nd ed. New York, NY:
+John Wiley & Sons; 2000.
+28. Wolter KM. Introduction to Variance Estimation. New York, NY: Springer-Verlag
+NY Inc; 1985.
+29. SUDAAN. Professional Software for Survey Data Analysis. Version 8.0.1. Re-
+search Triangle Park, NC: Research Triangle Institute; 2002.
+30. Kna
+¨uper B, Cannell CF, Schwarz N, Bruce ML, Kessler RC. Improving the accu-
+racy of major depression age of onset reports in the US National Comorbidity
+Survey. Int J Methods Psychiatr Res. 1999;8:39-48.
+31. Weissman MM, Bland RC, Canino GJ, Faravelli C, Greenwald S, Hwu HG, Joyce PR,
+Karam EG, Lee CK, Lellouch J, Lepine JP, Newman SC, Oakley-Browne MA, Rubio-
+Stipec M, Wells JE, Wickramaratne PJ, Wittchen HU, Yeh EK. The cross-national
+epidemiology of panic disorder. Arch Gen Psychiatry. 1997;54:305-309.
+32. Kessler RC. Epidemiology of psychiatric comorbidity. In: Tsuang MT, Tohen M,
+Zahner GEP, eds. Textbook in Psychiatric Epidemiology. New York, NY: John Wiley
+& Sons; 1995:179-197.
+33. Joyce PR, Bushnell JA, Oakley-Browne MA, Wells JE, Hornblow AR. The epide-
+miology of panic symptomatology and agoraphobic avoidance. Compr Psychiatry.
+1989;30:303-312.
+34. Jacobi F, Wittchen HU, Holting C, Hofler M, Pfister H, Muller N, Lieb R. Preva-
+lence, co-morbidity and correlates of mental disorders in the general popula-
+tion: results from the German Health Interview and Examination Survey (GHS).
+Psychol Med. 2004;34:597-611.
+35. Alonso J, Angermeyer MC, Bernert S, Bruffaerts R, Brugha TS, Bryson H, de
+Girolamo G, Graaf R, Demyttenaere K, Gasquet I, Haro JM, Katz SJ, Kessler RC,
+Kovess V, Lepine JP, Ormel J, Polidori G, Russo LJ, Vilagut G, Almansa J,
+Arbabzadeh-Bouchez S, Autonell J, Bernal M, Buist-Bouwman MA, Codony M,
+Domingo-Salvany A, Ferrer M, Joo SS, Martinez-Alonso M, Matschinger H,
+Mazzi F, Morgan Z, Morosini P, Palacin C, Romera B, Taub N, Vollebergh WA;
+ESEMeD/MHEDEA 2000 Investigators, European Study of the Epidemiology of
+Mental Disorders (ESEMeD) Project. 12-Month comorbidity patterns and
+associated factors in Europe: results from the European Study of the Epidemi-
+ology of Mental Disorders (ESEMeD) project. Acta Psychiatr Scand Suppl.
+2004;420:28-37.
+36. Barlow DH, Vermilyea J, Blanchard EB, Vermilyea BB, Di Nardo PA, Cerny JA.
+The phenomenon of panic. J Abnorm Psychol. 1985;94:320-328.
+37. Craske MG. Phobic fear and panic attacks: the same emotional states triggered
+by different cues? Clin Psychol Rev. 1991;11:599-620.
+38. Craske MG. Cognitive-behavioral approaches to panic and agoraphobia. In: Dob-
+son KS, Craig KD, eds. Advances in Cognitive-Behavioral Therapy. Vol 2. Thou-
+sand Oaks, Calif: Sage Publications; 1996:145-173.
+39. White KS, Barlow DH. Panic disorder and agoraphobia. In: Barlow DH, ed. Anxi-
+ety and Its Disorders: The Nature and Treatment of Anxiety and Panic. 2nd ed.
+New York, NY: Guilford Publications; 2002:328-379.
+40. Crowe RR, Noyes R, Pauls DL, Slymen D. A family study of panic disorder. Arch
+Gen Psychiatry. 1983;40:1065-1069.
+41. Rapee RM, Murrell E. Predictors of agoraphobic avoidance. J Anxiety Disord.
+1988;2:203-217.
+42. Wittchen H-U, Essau CA. The epidemiology of panic attacks, panic disorder, and
+agoraphobia. In: Walker JR, Norton GR, Ross CA, eds. Panic Disorder and Ago-
+raphobia: A Comprehensive Guide for the Practitioner. Belmont, Calif: Brooks/
+Cole; 1991:103-149.
+43. Norton GR, Harrison B, Hauch J, Rhodes L. Characteristics of people with infre-
+quent panic attacks. J Abnorm Psychol. 1985;94:216-221.
+44. Norton GR, Dorward J, Cox BJ. Factors associated with panic attacks in non-
+clinical subjects. Behav Ther. 1986;17:239-252.
+45. Bouton ME, Mineka S, Barlow DH. A modern learning theory perspective on the
+etiology of panic disorder. Psychol Rev. 2001;108:4-32.
+46. Clark DM. A cognitive approach to panic. Behav Res Ther. 1986;24:461-470.
+47. Craske MG, Barlow DH. A review of the relationship between panic and avoidance.
+Clin Psychol Rev. 1988;8:667-685.
+48. Telch MJ, Brouillard M, Telch CF, Agras WS, Taylor CB. Role of cognitive ap-
+praisal in panic-related avoidance. Behav Res Ther. 1989;27:373-383.
+49. Langs G, Quehenberger F, Fabisch K, Klug G, Fabisch H, Zapotoczky HG. The
+development of agoraphobia in panic disorder: a predictable process? J Affect
+Disord. 2000;58:43-50.
+50. Wang PS, Lane M, Olfson M, Pincus HA, Wells KB, Kessler RC. Twelve-month
+use of mental health services in the United States: results from the National Co-
+morbidity Survey Replication. Arch Gen Psychiatry. 2005;62:629-640.
+51. Otto MW, Deveney C. Cognitive-behavioral therapy and the treatment of panic
+disorder: efficacy and strategies. J Clin Psychiatry. 2005;66(suppl 4):28-32.
+52. Westen D, Morrison K. A multidimensional meta-analysis of treatments for de-
+pression, panic, and generalized anxiety disorder: an empirical examination of
+the status of empirically supported therapies. J Consult Clin Psychol. 2001;
+69:875-899.
+53. Milrod B, Busch F, Leon AC, Aronson A, Roiphe J, Rudden M, Singer M, Sha-
+piro T, Goldman H, Richter D, Shear MK. A pilot open trial of brief psychody-
+namic psychotherapy for panic disorder. J Psychother Pract Res. 2001;10:
+239-245.
+54. Pollack MH. The pharmacotherapy of panic disorder. J Clin Psychiatry. 2005;66
+(suppl 4):23-27.
+55. Bakker A, van Balkom AJ, Stein DJ. Evidence-based pharmacotherapy of panic
+disorder. Int J Neuropsychopharmacol. 2005;8:473-482.
+(REPRINTED) ARCH GEN PSYCHIATRY/VOL 63, APR 2006 WWW.ARCHGENPSYCHIATRY.COM
+424
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpsyc.jamanetwork.com/ on 04/10/2014
+
